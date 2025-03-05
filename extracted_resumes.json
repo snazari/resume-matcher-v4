@@ -1,0 +1,250 @@
+{
+  "metadata": {
+    "timestamp": "2025-03-05T15:15:46.963473",
+    "model": "llama3.1:latest",
+    "num_files": 3,
+    "success_count": 3,
+    "error_count": 0
+  },
+  "results": [
+    {
+      "name": "Bisi Alli, DO, MS, FACP, FAMWA, dip ABLM",
+      "affiliations": [
+        {
+          "title": "Professor of Medicine",
+          "institution": "Michigan State University College of Osteopathic Medicine"
+        },
+        {
+          "title": "Associate Professor of Medicine",
+          "institution": "Banner University Medical Center"
+        }
+      ],
+      "publications": [
+        {
+          "type": "Journal Article",
+          "title": "The Effects of Ethanol on GABAergic and Glutamatergic Neurotransmission\u2014A Link to Cancer?",
+          "journal": "Wayne State University School of Medicine",
+          "year": 2005
+        },
+        {
+          "type": "Book Chapter",
+          "title": "Finding the Right Mentor & Maintaining the Relationship through Key Conversations",
+          "editors": [
+            "Alli, et al."
+          ],
+          "year": 2024,
+          "status": "Forthcoming"
+        }
+      ],
+      "awards": [],
+      "research_interests": [
+        {
+          "title": "Ethanol and Cancer"
+        },
+        {
+          "title": "GABAergic and Glutamatergic Neurotransmission"
+        }
+      ],
+      "education": [
+        {
+          "degree": "DO",
+          "institution": "Michigan State University College of Osteopathic Medicine"
+        },
+        {
+          "degree": "MS",
+          "institution": "Banner University Medical Center"
+        }
+      ],
+      "professional_memberships": [
+        {
+          "title": "FACP",
+          "organization": "American College of Physicians"
+        },
+        {
+          "title": "FAMWA",
+          "organization": "Fellow American Medical Women's Association"
+        }
+      ],
+      "service_activities": [
+        {
+          "title": "Professor of Medicine, Michigan State University College of Osteopathic Medicine",
+          "year": 2016
+        },
+        {
+          "title": "Associate Professor of Medicine, Banner University Medical Center",
+          "year": 2015
+        }
+      ],
+      "talks_and_presentations": [
+        {
+          "title": "Increasing Inclusion, Diversity, Anti-racism, and Equity with a Medical School Curriculum Quality Improvement Project",
+          "institution": "Mayo Quality Improvement Journal Club",
+          "year": 2023
+        },
+        {
+          "title": "10 Nutrition Myths: Calories Equal Weight Gain and Diabetics Can't Eat Fruit",
+          "institution": "NPR: The Brian Lehrer Show",
+          "year": 2023
+        }
+      ],
+      "ask_mayo_expert_topics": [
+        {
+          "title": "Discussing Code Status Ask Mayo Expert",
+          "year": 2020
+        },
+        {
+          "title": "Time-limited Treatment Trial in Serious Illness Ask Mayo Expert",
+          "year": 2020
+        }
+      ],
+      "miscellaneous": [
+        {
+          "title": "Incorporating Families into the Care Team: Involving One Member of a Patient's Family Can Benefit the Patient and Boost Work Efficiency",
+          "institution": "Pearls From I.M. Peers",
+          "year": 2022
+        },
+        {
+          "title": "Advance Care Planning",
+          "institution": "Women's Health Source Blog, Women's Health Internal Medicine Mayo Clinic Arizona",
+          "year": 2022
+        }
+      ],
+      "file_path": "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume_matcher\\data\\resume_test\\Dr.BisiAlli2024CV.pdf"
+    },
+    {
+      "name": "David S. Ricketts",
+      "title": "Professor of Electrical Engineering and Computer Science",
+      "affiliation": "University of Maryland, Baltimore County",
+      "email": "david.ricketts@umaryland.edu",
+      "phone": "(410) 455-2300",
+      "address": "UMBC, 1000 Hilltop Circle, Baltimore, MD 21250",
+      "education": [
+        {
+          "degree": "Doctor of Philosophy (PhD)",
+          "institution": "Harvard University",
+          "year": "2006"
+        },
+        {
+          "degree": "Master of Science Electrical Engineering (MSEE)",
+          "institution": "Worcester Polytechnic Institute",
+          "year": "1997"
+        },
+        {
+          "degree": "Bachelor of Science Electrical Engineering (BSEE)",
+          "institution": "Worcester Polytechnic Institute",
+          "year": "1995"
+        }
+      ],
+      "research_interests": [
+        "High-speed wireless transceivers",
+        "Nanomanufacturing",
+        "Linear power amplification for mm-wave radar and communications",
+        "GaN RF DC-DC converter design",
+        "Wireless power transfer (WPT)"
+      ],
+      "publications": [
+        {
+          "title": "Build a 950 MHz Radar in a Day",
+          "conference": "IEEE International Microwave Symposium, Boston, MA"
+        },
+        {
+          "title": "Design, Fabricate, and Test Your Own Microwave Component",
+          "conference": "IEEE International Microwave Symposium, Boston, MA"
+        },
+        {
+          "title": "5th European Microwave Student and Doctoral Schools: Build a Modern Digital Radio",
+          "conference": "IEEE European Microwave Week, Paris, France"
+        }
+      ],
+      "patents": [
+        {
+          "number": "8,154,354",
+          "title": "Nonlinear pulse oscillator methods and apparatus"
+        },
+        {
+          "number": "7,339,440",
+          "title": "Nonlinear pulse oscillator methods and apparatus"
+        },
+        {
+          "number": "9,625,247",
+          "title": "Systems and methods for position tracking using magnetoquasistatic fields"
+        }
+      ],
+      "invited_and_contributed_talks": [
+        {
+          "title": "State of the art and future of high-speed wireless transceivers: Opportunities and challenges for near-THz communication",
+          "conference": "CMOS Emerging Technologies Conference, Plenary"
+        },
+        {
+          "title": "Enabling Rapid Innovation in Nanomanufacturing",
+          "conference": "ENRI NSF workshop keynote, Napa, CA"
+        }
+      ],
+      "file_path": "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume_matcher\\data\\resume_test\\Dr.DavidRickettsDatalyticaSeniorBusinessAdvisor_SeniorTechnicalAdvisor.pdf"
+    },
+    {
+      "name": "John Doe",
+      "title": "Senior Research Scientist",
+      "experience": [
+        {
+          "position": "Senior Research Scientist",
+          "company": "Datalytica",
+          "dates": "2020 - Present"
+        },
+        {
+          "position": "Research Scientist",
+          "company": "University of Illinois",
+          "dates": "2011 - 2015"
+        }
+      ],
+      "education": [
+        {
+          "degree": "PhD",
+          "field": "Microbiology",
+          "university": "University of Illinois"
+        },
+        {
+          "degree": "MS",
+          "field": "Microbiology",
+          "university": "University of Illinois"
+        },
+        {
+          "degree": "BS",
+          "field": "Biology",
+          "university": "Benedictine University"
+        }
+      ],
+      "awards": [
+        {
+          "award": "DHS S&T Undersecretary's Award",
+          "year": "2018 and 2019"
+        },
+        {
+          "award": "NBACC William Patrick Award",
+          "year": ""
+        },
+        {
+          "award": "NBACC Outstanding Performance Awards",
+          "year": "Multiple years"
+        }
+      ],
+      "publications": [
+        {
+          "title": "Nine peer reviewed publications",
+          "count": "9"
+        }
+      ],
+      "presentations": [
+        {
+          "type": "Lectures",
+          "count": "40"
+        },
+        {
+          "type": "Posters",
+          "count": "60"
+        }
+      ],
+      "file_path": "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume_matcher\\data\\resume_test\\Dr.IanGutDatalytica.pdf"
+    }
+  ]
+}
