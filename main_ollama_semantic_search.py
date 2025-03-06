@@ -12,6 +12,9 @@ Usage:
     python main.py --directory path/to/resumes/ --match --job-file jobs.json --output results.json
 """
 
+import pandas as pd
+import re
+import uuid
 import os
 import sys
 import json
@@ -337,6 +340,159 @@ def load_job_openings(job_file_path):
         return []
 
 
+def load_jobs_from_excel(excel_file, sheet_name=0):
+    """
+    Load job listings from an Excel file and convert to the format required
+    by the resume matcher.
+
+    Parameters:
+    -----------
+    excel_file : str
+        Path to the Excel file containing job listings
+    sheet_name : str or int, default 0
+        Name or index of the sheet containing the job data
+
+    Returns:
+    --------
+    list
+        A list of job dictionaries in the format required by the resume matcher
+    """
+    print(f"Reading job listings from: {excel_file}")
+
+    # Read the Excel file
+    try:
+        df = pd.read_excel(excel_file, sheet_name=sheet_name)
+        print(f"Successfully read {len(df)} job listings")
+    except Exception as e:
+        print(f"Error reading Excel file: {e}")
+        return []
+
+    # Print column names to help with debugging
+    print("Columns found in Excel file:")
+    for col in df.columns:
+        print(f"  - {col}")
+
+    # Map Excel columns to job data fields
+    # Adjust these mappings based on your actual Excel column names
+    column_mappings = {
+        "id": ["id", "job id", "job_id", "jobid", "reference", "ref"],
+        "title": ["title", "job title", "job_title", "position", "role"],
+        "company": ["company", "company name", "employer", "organization"],
+        "description": ["description", "job description", "details", "summary"],
+        "required_skills": ["skills", "required skills", "skill requirements", "technical skills"],
+        "required_experience": ["experience", "required experience", "years of experience", "exp"],
+        "required_education": ["education", "required education", "educational requirements", "degree"]
+    }
+
+    # Find the best match for each expected field
+    field_to_column = {}
+    for field, possible_columns in column_mappings.items():
+        found = False
+        for col_name in possible_columns:
+            matches = [c for c in df.columns if c.lower() == col_name.lower()]
+            if matches:
+                field_to_column[field] = matches[0]
+                found = True
+                break
+
+        if not found:
+            print(f"Warning: No column found for '{field}'. Using a default value.")
+
+    # Convert dataframe to list of job dictionaries
+    jobs = []
+    for _, row in df.iterrows():
+        job = {}
+
+        # Process ID (generate one if not present)
+        if "id" in field_to_column:
+            job["id"] = str(row[field_to_column["id"]])
+        else:
+            job["id"] = f"job{len(jobs) + 1:03d}"
+
+        # Process basic text fields
+        for field in ["title", "company", "description"]:
+            if field in field_to_column:
+                job[field] = str(row[field_to_column[field]])
+            else:
+                job[field] = ""
+
+        # Process required_skills (convert to list if needed)
+        if "required_skills" in field_to_column:
+            skills_value = row[field_to_column["required_skills"]]
+            if pd.isna(skills_value):
+                job["required_skills"] = []
+            elif isinstance(skills_value, str):
+                # Split by commas, semicolons, or newlines
+                skills = re.split(r'[,;\n]+', skills_value)
+                job["required_skills"] = [s.strip() for s in skills if s.strip()]
+            else:
+                job["required_skills"] = [str(skills_value)]
+        else:
+            job["required_skills"] = []
+
+        # Process required_experience
+        if "required_experience" in field_to_column:
+            job["required_experience"] = str(row[field_to_column["required_experience"]])
+        else:
+            job["required_experience"] = ""
+
+        # Process required_education (convert to list if needed)
+        if "required_education" in field_to_column:
+            education_value = row[field_to_column["required_education"]]
+            if pd.isna(education_value):
+                job["required_education"] = []
+            elif isinstance(education_value, str):
+                # Split by commas, semicolons, or newlines
+                education = re.split(r'[,;\n]+', education_value)
+                job["required_education"] = [e.strip() for e in education if e.strip()]
+            else:
+                job["required_education"] = [str(education_value)]
+        else:
+            job["required_education"] = []
+
+        jobs.append(job)
+
+    print(f"Successfully processed {len(jobs)} job listings")
+    return jobs
+
+def prepare_jobs_for_resume_matcher(excel_file, output_json_file, sheet_name=0):
+    """
+    Read job listings from Excel and save them in the format required by the resume matcher.
+
+    Parameters:
+    -----------
+    excel_file : str
+        Path to the Excel file containing job listings
+    output_json_file : str
+        Path where the JSON job data should be saved
+    sheet_name : str or int, default 0
+        Name or index of the sheet containing the job data
+
+    Returns:
+    --------
+    bool
+        True if successful, False otherwise
+    """
+    # Load jobs from Excel
+    jobs = load_jobs_from_excel(excel_file, sheet_name)
+
+    if not jobs:
+        print("No jobs found or error processing the Excel file.")
+        return False
+
+    # Save to JSON file
+    try:
+        with open(output_json_file, 'w') as f:
+            json.dump(jobs, f, indent=2)
+
+        print(f"Successfully saved {len(jobs)} job listings to {output_json_file}")
+        print("Sample job listing:")
+        print(json.dumps(jobs[0], indent=2))
+        return True
+    except Exception as e:
+        print(f"Error saving job data to JSON: {e}")
+        return False
+
 def process_job_openings(job_descriptions, model):
     """Process job descriptions for semantic matching."""
     job_texts = []
@@ -533,12 +689,30 @@ def main():
                         help='Sentence transformer model for embeddings')
     parser.add_argument('--top-k', type=int, default=5,
                         help='Number of top matches to return for each resume')
+    parser.add_argument('--excel-jobs',
+                        help='Path to Excel file containing job listings')
+    parser.add_argument('--excel-sheet', default=0,
+                        help='Sheet name or index in the Excel file (default: 0)')
 
     args = parser.parse_args()
 
     # Initialize the LLM backend
     print(f"Initializing Ollama with model: {args.model}")
     backend = OllamaBackend(model_name=args.model)
+
+    # In the main function
+    if args.excel_jobs:
+        print(f"Converting Excel job listings from {args.excel_jobs}")
+
+        # Generate a temporary JSON file for the jobs
+        temp_json_path = "jobs_from_excel.json"
+
+        if prepare_jobs_for_resume_matcher(args.excel_jobs, temp_json_path, args.excel_sheet):
+            # Use this JSON file for job matching
+            args.job_file = temp_json_path
+            print(f"Excel jobs converted and saved to {temp_json_path}")
+        else:
+            print("Error converting Excel jobs. Continuing with original job file if specified.")
 
     # Process resume(s)
     if args.file:

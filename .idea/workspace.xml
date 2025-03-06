@@ -5,23 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a951af20-2087-4a3b-9066-c4d435888293" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/candidate_rankings_bump_chart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/match_score_distributions.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matched_results-updated.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matched_results.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/radar_chart_Data_Scientist.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/radar_chart_Project_Manager.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/radar_chart_Senior_Software_Engineer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visualization_3d_plotly.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visualization_networkx.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visualization_plotly.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visualization_quality_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visualization_ranking_bump_charts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visualization_score_distribution_histogram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visualization_streamlit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visualization_top_candidates_radar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visualization_word_cloud.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main_ollama_semantic_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_ollama_semantic_search.py" afterDir="false" />
     </list>
@@ -71,6 +54,7 @@
     "Python.main_ollama_semantic_search.executor": "Run",
     "Python.resume-extractor.executor": "Run",
     "Python.visualization_3d_plotly.executor": "Run",
+    "Python.visualization_heatmap.executor": "Run",
     "Python.visualization_networkx.executor": "Run",
     "Python.visualization_plotly.executor": "Run",
     "Python.visualization_quality_matrix.executor": "Run",
@@ -196,7 +180,7 @@
       <option name="presentableId" value="Default" />
       <updated>1741202446908</updated>
       <workItem from="1741202448252" duration="4709000" />
-      <workItem from="1741217490172" duration="7252000" />
+      <workItem from="1741217490172" duration="7969000" />
     </task>
     <servers />
   </component>
@@ -206,18 +190,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main_ollama_semantic_search.py</url>
-          <line>594</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/resume_matcher_v4$visualization_heatmap.coverage" NAME="visualization_heatmap Coverage Results" MODIFIED="1741225804718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/resume_matcher_v4$visualization_3d_plotly.coverage" NAME="visualization_3d_plotly Coverage Results" MODIFIED="1741225720546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/resume_matcher_v4$visualization_top_candidates_radar.coverage" NAME="visualization_top_candidates_radar Coverage Results" MODIFIED="1741224797992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/resume_matcher_v4$visualization_networkx.coverage" NAME="visualization_networkx Coverage Results" MODIFIED="1741224630953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
