@@ -1,0 +1,370 @@
+{
+  "metadata": {
+    "timestamp": "2025-03-06T00:05:53.900660",
+    "resume_model": "paraphrase-mpnet-base-v2",
+    "job_file": "..\\data\\jobs\\arpa-h-jobs.json",
+    "resume_file": "..\\data\\candidates\\extracted_resumes-test.json",
+    "num_resumes": 5,
+    "num_jobs": 35
+  },
+  "results": [
+    {
+      "name": "Adelina Dana Hilotii",
+      "years_experience": 3,
+      "degrees": [
+        "Master of Science, Data Science",
+        "Bachelor of Science, Psychology",
+        "Bachelor of Science, Biological Sciences",
+        "Associate of Arts, General Studies - Science Emphasis"
+      ],
+      "skills": [
+        "Software: Microsoft Office (Word, Excel, PowerPoint); Qualtrics; R/R Studio; SnapGene; KiNG, SAS; PowerBI; Google Analytics; Google BigQuery, Tableau",
+        "Experience: Laboratory (PCR, SDS-PAGE, Western Blot, CRISPR, Recombinant DNA Technology, etc.); Research (Research design, data collection, analysis, and interpretation); CITI training; Data Analysis; Management; Leadership; Strategic Planning; Mass DNA Extraction using various instruments",
+        "Languages: Romanian (fluent)"
+      ],
+      "work_experience": [
+        {
+          "position": "Lab Technician, DNA Extraction",
+          "company": "GeneDx, Gaithersburg, MD",
+          "dates": "Dec. 2023-Present"
+        },
+        {
+          "position": "Founder",
+          "company": "Full Moon Balloon, Columbia, MD",
+          "dates": "Jul. 2022-Present"
+        },
+        {
+          "position": "Restaurant Manager",
+          "company": "Boston Market, Columbia, MD",
+          "dates": "Sep. 2018- Apr. 2021"
+        },
+        {
+          "position": "Intern",
+          "company": "Howard County General Hospital, Columbia, MD",
+          "dates": "Sep. 2017- Feb. 2019"
+        }
+      ],
+      "file_path": "..\\data\\candidates\\test\\AdelinaHilotiiJr.pdf"
+    },
+    {
+      "name": "Alaina Thomas",
+      "years_experience": 4,
+      "degrees": [
+        "Master of Public Administration"
+      ],
+      "file_path": "..\\data\\candidates\\test\\ALAINATHOMAS.pdf"
+    },
+    {
+      "name": "Anna Lu",
+      "years_experience": 10,
+      "degrees": [
+        "M.S. IT Project Mgmt.",
+        "B.S. Biomedical Eng., Computer Science"
+      ],
+      "file_path": "..\\data\\candidates\\test\\ANNA LU.pdf"
+    },
+    {
+      "name": "Wade",
+      "education": [
+        {
+          "degree": "Master of Arts in Teaching (MAT)",
+          "gpa": 4.0,
+          "year": 2003
+        },
+        {
+          "degree": "Bachelor of Arts (BA)",
+          "gpa": 3.43,
+          "year": 2002
+        }
+      ],
+      "work_experience": [
+        {
+          "title": "Education Manager",
+          "company": "LeMay America's Car Museum, Tacoma, WA",
+          "hours_per_week": ">40",
+          "duration": "September 2012 - April 2013"
+        },
+        {
+          "title": "School Programs Coordinator",
+          "company": "High Museum of Art, Atlanta, GA",
+          "hours_per_week": ">40",
+          "duration": "February 2006 - March 2008"
+        },
+        {
+          "title": "Assistant Curator, Education",
+          "company": "Tampa Museum of Art, Tampa, FL",
+          "hours_per_week": ">40",
+          "duration": "March 2004 - February 2006"
+        },
+        {
+          "title": "Museum Educator",
+          "company": "Smithsonian Institution, Washington, DC",
+          "hours_per_week": ">40",
+          "duration": "July 2003 - June 2004"
+        },
+        {
+          "title": "Elementary School Teacher",
+          "company": "District of Columbia Public Schools (DCPS), Washington, DC",
+          "hours_per_week": ">40",
+          "duration": "June 2003 - May 2004"
+        }
+      ],
+      "skills": [
+        "Grant Writing",
+        "Grants Development",
+        "Grants Management and Administration",
+        "Grants Monitoring and Compliance",
+        "Grants Training and Technical Assistance",
+        "Federal Financial Assistance Subrecipient Monitoring and Management",
+        "Federal, State, City, and County Funded Financial Assistance Grant Programs"
+      ],
+      "certifications": [
+        {
+          "name": "Crossroads Antiracism Organizing Training & Facilitation",
+          "duration": "June 2015 - June 2020"
+        },
+        {
+          "name": "Grants Management Certifications Federal, Pass-Through, Recipient (GMCP)",
+          "duration": "August 2017 - August 2019"
+        }
+      ],
+      "affiliations": [
+        {
+          "name": "Government Finance Officers Association (GFOA)",
+          "duration": "September 2014 - May 2022"
+        },
+        {
+          "name": "National Association of Counties",
+          "duration": "February 2020 - January 2022"
+        }
+      ],
+      "awards": [
+        {
+          "name": "Adaptive Project Leadership, Project Management Institute (PMI)",
+          "year": 2022
+        },
+        {
+          "name": "DARPA Other Transactions (OT) Training",
+          "year": 2022
+        }
+      ],
+      "file_path": "..\\data\\candidates\\test\\AnnaWade.pdf"
+    },
+    {
+      "name": "Arya M. Amin-Haghighi\",",
+      "file_path": "..\\data\\candidates\\test\\ARIA PEZESHK.pdf"
+    }
+  ],
+  "job_matches": {
+    "..\\data\\candidates\\test\\AdelinaHilotiiJr.pdf": [
+      {
+        "job_id": "job032",
+        "score": 0.5925660729408264,
+        "job_title": "Intermediate Data Scientist",
+        "job_company": "ARPA-H",
+        "similarity_score": 0.5925660729408264,
+        "candidate_name": "Adelina Dana Hilotii"
+      },
+      {
+        "job_id": "job030",
+        "score": 0.5761199593544006,
+        "job_title": "Advanced Scientist, Engineer",
+        "job_company": "ARPA-H",
+        "similarity_score": 0.5761199593544006,
+        "candidate_name": "Adelina Dana Hilotii"
+      },
+      {
+        "job_id": "job024",
+        "score": 0.5574504137039185,
+        "job_title": "Basic Scientist/Engineer (Data modeler)",
+        "job_company": "ARPA-H",
+        "similarity_score": 0.5574504137039185,
+        "candidate_name": "Adelina Dana Hilotii"
+      },
+      {
+        "job_id": "job007",
+        "score": 0.5307018756866455,
+        "job_title": "Advanced Systems Analyst",
+        "job_company": "ARPA-H",
+        "similarity_score": 0.5307018756866455,
+        "candidate_name": "Adelina Dana Hilotii"
+      },
+      {
+        "job_id": "job006",
+        "score": 0.5260535478591919,
+        "job_title": "Advanced AI/ML Scientist",
+        "job_company": "ARPA-H",
+        "similarity_score": 0.5260535478591919,
+        "candidate_name": "Adelina Dana Hilotii"
+      }
+    ],
+    "..\\data\\candidates\\test\\ALAINATHOMAS.pdf": [
+      {
+        "job_id": "job001",
+        "score": 0.5629632472991943,
+        "job_title": "TO Program Manager",
+        "job_company": "ARPA-H",
+        "similarity_score": 0.5629632472991943,
+        "candidate_name": "Alaina Thomas"
+      },
+      {
+        "job_id": "job029",
+        "score": 0.4483719766139984,
+        "job_title": "Advanced Systems Architect",
+        "job_company": "ARPA-H",
+        "similarity_score": 0.4483719766139984,
+        "candidate_name": "Alaina Thomas"
+      },
+      {
+        "job_id": "job010",
+        "score": 0.43943271040916443,
+        "job_title": "Basic Executive Assistant",
+        "job_company": "ARPA-H",
+        "similarity_score": 0.43943271040916443,
+        "candidate_name": "Alaina Thomas"
+      },
+      {
+        "job_id": "job003",
+        "score": 0.4386291205883026,
+        "job_title": "Basic Action Officer",
+        "job_company": "ARPA-H",
+        "similarity_score": 0.4386291205883026,
+        "candidate_name": "Alaina Thomas"
+      },
+      {
+        "job_id": "job034",
+        "score": 0.42818495631217957,
+        "job_title": "Intermediate Travel Specialist",
+        "job_company": "ARPA-H",
+        "similarity_score": 0.42818495631217957,
+        "candidate_name": "Alaina Thomas"
+      }
+    ],
+    "..\\data\\candidates\\test\\ANNA LU.pdf": [
+      {
+        "job_id": "job029",
+        "score": 0.6008424758911133,
+        "job_title": "Advanced Systems Architect",
+        "job_company": "ARPA-H",
+        "similarity_score": 0.6008424758911133,
+        "candidate_name": "Anna Lu"
+      },
+      {
+        "job_id": "job030",
+        "score": 0.5812196731567383,
+        "job_title": "Advanced Scientist, Engineer",
+        "job_company": "ARPA-H",
+        "similarity_score": 0.5812196731567383,
+        "candidate_name": "Anna Lu"
+      },
+      {
+        "job_id": "job007",
+        "score": 0.5606948137283325,
+        "job_title": "Advanced Systems Analyst",
+        "job_company": "ARPA-H",
+        "similarity_score": 0.5606948137283325,
+        "candidate_name": "Anna Lu"
+      },
+      {
+        "job_id": "job011",
+        "score": 0.5533794164657593,
+        "job_title": "Intermediate Subject Matter Expert",
+        "job_company": "ARPA-H",
+        "similarity_score": 0.5533794164657593,
+        "candidate_name": "Anna Lu"
+      },
+      {
+        "job_id": "job015",
+        "score": 0.5104740262031555,
+        "job_title": "Basic Subject Matter Expert (Data Strategy)",
+        "job_company": "ARPA-H",
+        "similarity_score": 0.5104740262031555,
+        "candidate_name": "Anna Lu"
+      }
+    ],
+    "..\\data\\candidates\\test\\AnnaWade.pdf": [
+      {
+        "job_id": "job030",
+        "score": 0.41483843326568604,
+        "job_title": "Advanced Scientist, Engineer",
+        "job_company": "ARPA-H",
+        "similarity_score": 0.41483843326568604,
+        "candidate_name": "Wade"
+      },
+      {
+        "job_id": "job034",
+        "score": 0.39871299266815186,
+        "job_title": "Intermediate Travel Specialist",
+        "job_company": "ARPA-H",
+        "similarity_score": 0.39871299266815186,
+        "candidate_name": "Wade"
+      },
+      {
+        "job_id": "job017",
+        "score": 0.39547911286354065,
+        "job_title": "Intermediate Technical Management Advisor",
+        "job_company": "ARPA-H",
+        "similarity_score": 0.39547911286354065,
+        "candidate_name": "Wade"
+      },
+      {
+        "job_id": "job032",
+        "score": 0.3867741823196411,
+        "job_title": "Intermediate Data Scientist",
+        "job_company": "ARPA-H",
+        "similarity_score": 0.3867741823196411,
+        "candidate_name": "Wade"
+      },
+      {
+        "job_id": "job001",
+        "score": 0.38362443447113037,
+        "job_title": "TO Program Manager",
+        "job_company": "ARPA-H",
+        "similarity_score": 0.38362443447113037,
+        "candidate_name": "Wade"
+      }
+    ],
+    "..\\data\\candidates\\test\\ARIA PEZESHK.pdf": [
+      {
+        "job_id": "job030",
+        "score": 0.41483843326568604,
+        "job_title": "Advanced Scientist, Engineer",
+        "job_company": "ARPA-H",
+        "similarity_score": 0.41483843326568604,
+        "candidate_name": "Arya M. Amin-Haghighi\","
+      },
+      {
+        "job_id": "job034",
+        "score": 0.39871299266815186,
+        "job_title": "Intermediate Travel Specialist",
+        "job_company": "ARPA-H",
+        "similarity_score": 0.39871299266815186,
+        "candidate_name": "Arya M. Amin-Haghighi\","
+      },
+      {
+        "job_id": "job017",
+        "score": 0.39547911286354065,
+        "job_title": "Intermediate Technical Management Advisor",
+        "job_company": "ARPA-H",
+        "similarity_score": 0.39547911286354065,
+        "candidate_name": "Arya M. Amin-Haghighi\","
+      },
+      {
+        "job_id": "job032",
+        "score": 0.3867741823196411,
+        "job_title": "Intermediate Data Scientist",
+        "job_company": "ARPA-H",
+        "similarity_score": 0.3867741823196411,
+        "candidate_name": "Arya M. Amin-Haghighi\","
+      },
+      {
+        "job_id": "job001",
+        "score": 0.38362443447113037,
+        "job_title": "TO Program Manager",
+        "job_company": "ARPA-H",
+        "similarity_score": 0.38362443447113037,
+        "candidate_name": "Arya M. Amin-Haghighi\","
+      }
+    ]
+  }
+}

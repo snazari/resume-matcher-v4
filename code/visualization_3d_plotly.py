@@ -5,7 +5,7 @@ import numpy as np
 from sklearn.decomposition import PCA
 
 # Load your matching results
-with open('../output/matched_results.json', 'r') as f:
+with open('../output/matches-large.json', 'r') as f:
     data = json.load(f)
 
 # Get the resume data and job matches

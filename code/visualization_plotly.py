@@ -6,7 +6,7 @@ import pandas as pd
 import json
 
 # Load your matching results
-with open('../output/matched_results-updated.json', 'r') as f:
+with open('../output/matches-large.json', 'r') as f:
     data = json.load(f)
 
 # Convert to a format suitable for visualization
@@ -39,7 +39,7 @@ app.layout = html.Div([
                 min=0,
                 max=100,
                 step=5,
-                value=50,
+                value=40,
                 marks={i: f'{i}%' for i in range(0, 101, 10)}
             ),
             html.Label("Job Title:"),
@@ -59,7 +59,7 @@ app.layout = html.Div([
         html.Div([
             html.H3("Top Candidates by Job"),
             dcc.Graph(id='heatmap-graph')
-        ], style={'width': '70%', 'display': 'inline-block', 'padding': '20px'})
+        ], style={'width': '70%', 'display': 'inline-block', 'padding': '10px'})
     ]),
 
     html.Div([

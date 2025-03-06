@@ -1,250 +1,3960 @@
 {
   "metadata": {
-    "timestamp": "2025-03-05T15:15:46.963473",
+    "timestamp": "2025-03-05T23:30:14.696658",
     "model": "llama3.1:latest",
-    "num_files": 3,
-    "success_count": 3,
-    "error_count": 0
+    "num_files": 114,
+    "success_count": 112,
+    "error_count": 2
   },
   "results": [
     {
-      "name": "Bisi Alli, DO, MS, FACP, FAMWA, dip ABLM",
+      "name": "Adelina Dana Hilotii",
+      "years_experience": 3,
+      "degrees": [
+        "Master of Science, Data Science",
+        "Bachelor of Science, Psychology",
+        "Bachelor of Science, Biological Sciences",
+        "Associate of Arts, General Studies - Science Emphasis"
+      ],
+      "skills": [
+        "Software: Microsoft Office (Word, Excel, PowerPoint); Qualtrics; R/R Studio; SnapGene; KiNG, SAS; PowerBI; Google Analytics; Google BigQuery, Tableau",
+        "Experience: Laboratory (PCR, SDS-PAGE, Western Blot, CRISPR, Recombinant DNA Technology, etc.); Research (Research design, data collection, analysis, and interpretation); CITI training; Data Analysis; Management; Leadership; Strategic Planning; Mass DNA Extraction using various instruments",
+        "Languages: Romanian (fluent)"
+      ],
+      "work_experience": [
+        {
+          "position": "Lab Technician, DNA Extraction",
+          "company": "GeneDx, Gaithersburg, MD",
+          "dates": "Dec. 2023-Present"
+        },
+        {
+          "position": "Founder",
+          "company": "Full Moon Balloon, Columbia, MD",
+          "dates": "Jul. 2022-Present"
+        },
+        {
+          "position": "Restaurant Manager",
+          "company": "Boston Market, Columbia, MD",
+          "dates": "Sep. 2018- Apr. 2021"
+        },
+        {
+          "position": "Intern",
+          "company": "Howard County General Hospital, Columbia, MD",
+          "dates": "Sep. 2017- Feb. 2019"
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\AdelinaHilotiiJr.pdf"
+    },
+    {
+      "name": "Alaina Thomas",
+      "years_experience": 4,
+      "degrees": [
+        "Master of Public Administration"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\ALAINATHOMAS.pdf"
+    },
+    {
+      "name": "Anna Lu",
+      "years_experience": 10,
+      "degrees": [
+        "M.S. IT Project Mgmt.",
+        "B.S. Biomedical Eng., Computer Science"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\ANNA LU.pdf"
+    },
+    {
+      "name": "Wade",
+      "education": [
+        {
+          "degree": "Master of Arts in Teaching (MAT)",
+          "gpa": 4.0,
+          "year": 2003
+        },
+        {
+          "degree": "Bachelor of Arts (BA)",
+          "gpa": 3.43,
+          "year": 2002
+        }
+      ],
+      "work_experience": [
+        {
+          "title": "Education Manager",
+          "company": "LeMay America's Car Museum, Tacoma, WA",
+          "hours_per_week": ">40",
+          "duration": "September 2012 - April 2013"
+        },
+        {
+          "title": "School Programs Coordinator",
+          "company": "High Museum of Art, Atlanta, GA",
+          "hours_per_week": ">40",
+          "duration": "February 2006 - March 2008"
+        },
+        {
+          "title": "Assistant Curator, Education",
+          "company": "Tampa Museum of Art, Tampa, FL",
+          "hours_per_week": ">40",
+          "duration": "March 2004 - February 2006"
+        },
+        {
+          "title": "Museum Educator",
+          "company": "Smithsonian Institution, Washington, DC",
+          "hours_per_week": ">40",
+          "duration": "July 2003 - June 2004"
+        },
+        {
+          "title": "Elementary School Teacher",
+          "company": "District of Columbia Public Schools (DCPS), Washington, DC",
+          "hours_per_week": ">40",
+          "duration": "June 2003 - May 2004"
+        }
+      ],
+      "skills": [
+        "Grant Writing",
+        "Grants Development",
+        "Grants Management and Administration",
+        "Grants Monitoring and Compliance",
+        "Grants Training and Technical Assistance",
+        "Federal Financial Assistance Subrecipient Monitoring and Management",
+        "Federal, State, City, and County Funded Financial Assistance Grant Programs"
+      ],
+      "certifications": [
+        {
+          "name": "Crossroads Antiracism Organizing Training & Facilitation",
+          "duration": "June 2015 - June 2020"
+        },
+        {
+          "name": "Grants Management Certifications Federal, Pass-Through, Recipient (GMCP)",
+          "duration": "August 2017 - August 2019"
+        }
+      ],
       "affiliations": [
         {
-          "title": "Professor of Medicine",
-          "institution": "Michigan State University College of Osteopathic Medicine"
+          "name": "Government Finance Officers Association (GFOA)",
+          "duration": "September 2014 - May 2022"
         },
         {
-          "title": "Associate Professor of Medicine",
-          "institution": "Banner University Medical Center"
-        }
-      ],
-      "publications": [
-        {
-          "type": "Journal Article",
-          "title": "The Effects of Ethanol on GABAergic and Glutamatergic Neurotransmission\u2014A Link to Cancer?",
-          "journal": "Wayne State University School of Medicine",
-          "year": 2005
-        },
-        {
-          "type": "Book Chapter",
-          "title": "Finding the Right Mentor & Maintaining the Relationship through Key Conversations",
-          "editors": [
-            "Alli, et al."
-          ],
-          "year": 2024,
-          "status": "Forthcoming"
-        }
-      ],
-      "awards": [],
-      "research_interests": [
-        {
-          "title": "Ethanol and Cancer"
-        },
-        {
-          "title": "GABAergic and Glutamatergic Neurotransmission"
-        }
-      ],
-      "education": [
-        {
-          "degree": "DO",
-          "institution": "Michigan State University College of Osteopathic Medicine"
-        },
-        {
-          "degree": "MS",
-          "institution": "Banner University Medical Center"
-        }
-      ],
-      "professional_memberships": [
-        {
-          "title": "FACP",
-          "organization": "American College of Physicians"
-        },
-        {
-          "title": "FAMWA",
-          "organization": "Fellow American Medical Women's Association"
-        }
-      ],
-      "service_activities": [
-        {
-          "title": "Professor of Medicine, Michigan State University College of Osteopathic Medicine",
-          "year": 2016
-        },
-        {
-          "title": "Associate Professor of Medicine, Banner University Medical Center",
-          "year": 2015
-        }
-      ],
-      "talks_and_presentations": [
-        {
-          "title": "Increasing Inclusion, Diversity, Anti-racism, and Equity with a Medical School Curriculum Quality Improvement Project",
-          "institution": "Mayo Quality Improvement Journal Club",
-          "year": 2023
-        },
-        {
-          "title": "10 Nutrition Myths: Calories Equal Weight Gain and Diabetics Can't Eat Fruit",
-          "institution": "NPR: The Brian Lehrer Show",
-          "year": 2023
-        }
-      ],
-      "ask_mayo_expert_topics": [
-        {
-          "title": "Discussing Code Status Ask Mayo Expert",
-          "year": 2020
-        },
-        {
-          "title": "Time-limited Treatment Trial in Serious Illness Ask Mayo Expert",
-          "year": 2020
-        }
-      ],
-      "miscellaneous": [
-        {
-          "title": "Incorporating Families into the Care Team: Involving One Member of a Patient's Family Can Benefit the Patient and Boost Work Efficiency",
-          "institution": "Pearls From I.M. Peers",
-          "year": 2022
-        },
-        {
-          "title": "Advance Care Planning",
-          "institution": "Women's Health Source Blog, Women's Health Internal Medicine Mayo Clinic Arizona",
-          "year": 2022
-        }
-      ],
-      "file_path": "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume_matcher\\data\\resume_test\\Dr.BisiAlli2024CV.pdf"
-    },
-    {
-      "name": "David S. Ricketts",
-      "title": "Professor of Electrical Engineering and Computer Science",
-      "affiliation": "University of Maryland, Baltimore County",
-      "email": "david.ricketts@umaryland.edu",
-      "phone": "(410) 455-2300",
-      "address": "UMBC, 1000 Hilltop Circle, Baltimore, MD 21250",
-      "education": [
-        {
-          "degree": "Doctor of Philosophy (PhD)",
-          "institution": "Harvard University",
-          "year": "2006"
-        },
-        {
-          "degree": "Master of Science Electrical Engineering (MSEE)",
-          "institution": "Worcester Polytechnic Institute",
-          "year": "1997"
-        },
-        {
-          "degree": "Bachelor of Science Electrical Engineering (BSEE)",
-          "institution": "Worcester Polytechnic Institute",
-          "year": "1995"
-        }
-      ],
-      "research_interests": [
-        "High-speed wireless transceivers",
-        "Nanomanufacturing",
-        "Linear power amplification for mm-wave radar and communications",
-        "GaN RF DC-DC converter design",
-        "Wireless power transfer (WPT)"
-      ],
-      "publications": [
-        {
-          "title": "Build a 950 MHz Radar in a Day",
-          "conference": "IEEE International Microwave Symposium, Boston, MA"
-        },
-        {
-          "title": "Design, Fabricate, and Test Your Own Microwave Component",
-          "conference": "IEEE International Microwave Symposium, Boston, MA"
-        },
-        {
-          "title": "5th European Microwave Student and Doctoral Schools: Build a Modern Digital Radio",
-          "conference": "IEEE European Microwave Week, Paris, France"
-        }
-      ],
-      "patents": [
-        {
-          "number": "8,154,354",
-          "title": "Nonlinear pulse oscillator methods and apparatus"
-        },
-        {
-          "number": "7,339,440",
-          "title": "Nonlinear pulse oscillator methods and apparatus"
-        },
-        {
-          "number": "9,625,247",
-          "title": "Systems and methods for position tracking using magnetoquasistatic fields"
-        }
-      ],
-      "invited_and_contributed_talks": [
-        {
-          "title": "State of the art and future of high-speed wireless transceivers: Opportunities and challenges for near-THz communication",
-          "conference": "CMOS Emerging Technologies Conference, Plenary"
-        },
-        {
-          "title": "Enabling Rapid Innovation in Nanomanufacturing",
-          "conference": "ENRI NSF workshop keynote, Napa, CA"
-        }
-      ],
-      "file_path": "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume_matcher\\data\\resume_test\\Dr.DavidRickettsDatalyticaSeniorBusinessAdvisor_SeniorTechnicalAdvisor.pdf"
-    },
-    {
-      "name": "John Doe",
-      "title": "Senior Research Scientist",
-      "experience": [
-        {
-          "position": "Senior Research Scientist",
-          "company": "Datalytica",
-          "dates": "2020 - Present"
-        },
-        {
-          "position": "Research Scientist",
-          "company": "University of Illinois",
-          "dates": "2011 - 2015"
-        }
-      ],
-      "education": [
-        {
-          "degree": "PhD",
-          "field": "Microbiology",
-          "university": "University of Illinois"
-        },
-        {
-          "degree": "MS",
-          "field": "Microbiology",
-          "university": "University of Illinois"
-        },
-        {
-          "degree": "BS",
-          "field": "Biology",
-          "university": "Benedictine University"
+          "name": "National Association of Counties",
+          "duration": "February 2020 - January 2022"
         }
       ],
       "awards": [
         {
-          "award": "DHS S&T Undersecretary's Award",
-          "year": "2018 and 2019"
+          "name": "Adaptive Project Leadership, Project Management Institute (PMI)",
+          "year": 2022
         },
         {
-          "award": "NBACC William Patrick Award",
-          "year": ""
+          "name": "DARPA Other Transactions (OT) Training",
+          "year": 2022
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\AnnaWade.pdf"
+    },
+    {
+      "name": "Arya M. Amin-Haghighi\",",
+      "file_path": "..\\data\\candidates\\gap_solutions\\ARIA PEZESHK.pdf"
+    },
+    {
+      "name": "Ayah Elnafe",
+      "years_experience": 3,
+      "degrees": [
+        "Bachelor of Science in Health, Physical Education, and Exercise Science"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\AyahElnafe.pdf"
+    },
+    {
+      "name": "Benjamin S. Rinehart",
+      "years_experience": 11,
+      "degrees": [
+        "B.S., Biomedical Engineering",
+        "M.S., Biomedical Engineering",
+        "Ph.D., Biomedical Engineering"
+      ],
+      "education_institution": "Wright State University",
+      "research_areas": [
+        "Signal and Image processing",
+        "AI/ML",
+        "EO/IR Imaging",
+        "Medical Imaging"
+      ],
+      "teaching_experience": {
+        "institution": "Wright State University",
+        "course_name": "Medical Imaging (BME-4703)",
+        "responsibilities": [
+          "Leading supplementary lectures and discussions for cross-listed 4th year B.S. and 1st year M.S course"
+        ]
+      },
+      "publications": {
+        "count": 7,
+        "first_author_count": 3
+      },
+      "file_path": "..\\data\\candidates\\gap_solutions\\Benjamin S. Rinehart.pdf"
+    },
+    {
+      "name": "Benjamin T. DeJarnett",
+      "years_experience": 3,
+      "degrees": [
+        "Master of Business Administration (Public Health and Healthcare Management)",
+        "Bachelor of Science in Biology"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\BenjaminT.DeJarnett.docx"
+    },
+    {
+      "name": "Blake Shepard",
+      "years_experience": 20,
+      "degrees": [
+        "Ph.D."
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\Blake_Shepard_Cover_Letter_2025-02-20.pdf"
+    },
+    {
+      "name": "Blake Shepard",
+      "years_experience": 24,
+      "degrees": [
+        "PhD in Philosophy"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\Blake_Shepard_Resume_2025-02-20.pdf"
+    },
+    {
+      "name": "Robyn Bower\",",
+      "file_path": "..\\data\\candidates\\gap_solutions\\Bower-R-ResumeBFM092024update.pdf"
+    },
+    {
+      "name": "Lu Calvin",
+      "years_experience": 3,
+      "degrees": [
+        "Doctor of Philosophy (Ph.D.) Cognitive Motor Neuroscience"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\Calvin Lu.pdf"
+    },
+    {
+      "name": "MS Marine Corps University\",",
+      "file_path": "..\\data\\candidates\\gap_solutions\\CARLA.MECCA.pdf"
+    },
+    {
+      "name": "Dr. Pak",
+      "positions": [
+        {
+          "company": "Northrop Grumman",
+          "years": "1984-2011",
+          "position": "Technology Manager"
         },
         {
-          "award": "NBACC Outstanding Performance Awards",
-          "year": "Multiple years"
+          "company": "Columbia Pike DISA office",
+          "years": "",
+          "position": "Project Manager and technical lead providing Defense Message System (DMS) support"
+        },
+        {
+          "company": "Northrop Grumman",
+          "years": "1984-2011",
+          "position": "Technical Lead in charge of project personnel designing hardware, software, and telecommunications architectures for Department of Defense (DOD), federal, and commercial applications"
+        }
+      ],
+      "education": [
+        {
+          "degree": "Ph.D. in Information Security",
+          "university": "Nova Southeastern University",
+          "location": "Ft. Lauderdale, Florida",
+          "year": "2011"
+        },
+        {
+          "degree": "MS, Network Security",
+          "university": "Capitol College",
+          "location": "Laurel, Maryland",
+          "year": "2005",
+          "gpa": "4.0"
+        },
+        {
+          "degree": "BS, Electrical Engineering",
+          "university": "Pennsylvania State University",
+          "location": "State College, Pennsylvania",
+          "year": "1984"
+        }
+      ],
+      "affiliations": [
+        {
+          "organization": "IEEE",
+          "type": ""
+        },
+        {
+          "organization": "ACM (Association for Computing Machinery)",
+          "type": ""
+        },
+        {
+          "organization": "ISACA",
+          "type": ""
+        },
+        {
+          "organization": "(ISC)2",
+          "type": ""
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\Charles Pak.pdf"
+    },
+    {
+      "publications": [
+        {
+          "title": "Quantitative PET imaging biomarkers for treatment response assessment",
+          "venue": "National Institute of Standards and Technology: Radiation Physics Division, Gaithersburg, MD. December 2018.",
+          "year": 2018
+        },
+        {
+          "title": "Graduate Student-Led Outreach Increases Awareness of and Interest in Medical Physics",
+          "venue": "Medical Physics 45 (6), E424-E425. August 2018.",
+          "year": 2018
+        },
+        {
+          "title": "Clinical trial design for quantitative imaging: estimating sample size for a population of patients with multiple ROIs",
+          "venue": "Journal of Nuclear Medicine 59 (supplement 1), 661-661. 2018.",
+          "year": 2018
+        },
+        {
+          "title": "Evaluation of changes in PET-based texture features for quantitative response assessment",
+          "venue": "Journal of Nuclear Medicine 59 (supplement 1), 659-659. 2018.",
+          "year": 2018
+        },
+        {
+          "title": "Quantitative PET for Response Assessment",
+          "venue": "Massachusetts General Hospital, Department of Radiation Oncology: Physics Seminar. December 2017.",
+          "year": 2017
+        },
+        {
+          "title": "Anti-tumor DNA vaccines - how to image their effects and efficacy",
+          "venue": "UW-Madison, Prostate Cancer Research Group. December 2017.",
+          "year": 2017
+        },
+        {
+          "title": "Quantifying Response Heterogeneity of MCRPC Lesions with NaF PET/CT",
+          "venue": "Medical Physics 44 (6), August 2017.",
+          "year": 2017
+        },
+        {
+          "title": "Assessing the Impact of Post-injection Acquisition Time in 18F-NaF PET/CT",
+          "venue": "Medical Physics 44 (6), August 2017.",
+          "year": 2017
+        },
+        {
+          "title": "Impact of PET Scanner Harmonization on Quantitative Response Assessment",
+          "venue": "Medical Physics 44 (6), August 2017.",
+          "year": 2017
+        },
+        {
+          "title": "An evaluation of reference tissue normalization in quantitative 18F-NaF PET/CT",
+          "venue": "Journal of Nuclear Medicine. May 1, 2017 vol. 58 no. supp 1 665. June 2017.",
+          "year": 2017
+        },
+        {
+          "title": "Impact of Lesion Location on the Repeatability of 18F-NaF PET/CT",
+          "venue": "Annual Meeting of the AAPM, Washington, DC. June 2016.",
+          "year": 2016
+        },
+        {
+          "title": "Factors influencing the repeatability of 18F-NaF PET/CT",
+          "venue": "Journal of Nuclear Medicine. vol. 57 no. supp 2 362. May 2016.",
+          "year": 2016
+        },
+        {
+          "title": "18F-NaF PET/CT Imaging Biomarkers in Metastatic Prostate Cancer",
+          "venue": "58th Annual Meeting of the AAPM, Washington, DC. June 2016.",
+          "year": 2016
+        },
+        {
+          "title": "Repeatability of 18F-NaF PET Imaging Biomarkers for Bone Lesions: A Multicenter Study",
+          "venue": "Annual Meeting of the AAPM, Anaheim, CA. July 2015.",
+          "year": 2015
+        },
+        {
+          "title": "Development of a Radiation Monitoring Device Using a Low-Cost CCD Camera Following Radionuclide Therapy",
+          "venue": "57th Annual Meeting of the AAPM, Anaheim, CA. July 2015.",
+          "year": 2015
+        },
+        {
+          "title": "Subpopulations of Similarly-Responding Lesions in Metastatic Prostate Cancer",
+          "venue": "Annual Meeting of the AAPM, Austin, TX. July 2014.",
+          "year": 2014
+        },
+        {
+          "title": "Linear Regression Analysis of 2D Projection Image Data of 6 Degrees-Of-Freedom Transformed 3D Image Sets for Stereotactic Radiotherapy",
+          "venue": "Annual Meeting of AAPM, Charlotte, NC. July 2012.",
+          "year": 2012
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\ChristieLin.pdf"
+    },
+    {
+      "name": "Cornelius J. Reynolds",
+      "positions": [
+        {
+          "title": "Sr. Financial Analyst",
+          "company": "Alion Science and Technology",
+          "dates": "April 2006 \u2013 September 2012"
+        },
+        {
+          "title": "Sr. Budget Analyst",
+          "company": "AECOM",
+          "dates": "December 2012 \u2013 December 2015"
+        },
+        {
+          "title": "Budget Analyst ",
+          "company": "BETAH Associates",
+          "dates": "December 2015-October 2016"
+        },
+        {
+          "title": "Sr. Financial Analyst, PEO SHIPS\u00a0PMS 385 Strategic and Theater Sealift",
+          "company": "Precept LLC",
+          "dates": "October 2016 \u2013 October 2019"
+        },
+        {
+          "title": "Financial Analyst, DISA Defense Information Systems Agency",
+          "company": "STF, System Technology Forum - Ft.Meade ",
+          "dates": "October 2012-December 2012 "
+        },
+        {
+          "title": "Sr. Budget Analyst, PEO Submarines\u00a0PMS 450 Virginia Class Submarines\u00a0and PMS 320 Electric Ships",
+          "company": "AECOM",
+          "dates": "December 2012 \u2013 December 2015"
+        }
+      ],
+      "skills": [
+        {
+          "name": "Navy ERP",
+          "level": "Expert"
+        },
+        {
+          "name": "Costpoint",
+          "level": "Intermediate"
+        },
+        {
+          "name": "JAMIS",
+          "level": "Basic"
+        },
+        {
+          "name": "PRISMS",
+          "level": "Basic"
+        },
+        {
+          "name": "AutoDoc",
+          "level": "Basic"
+        },
+        {
+          "name": "STARS",
+          "level": "Basic"
+        },
+        {
+          "name": "COBRA",
+          "level": "Basic"
+        },
+        {
+          "name": "PBIS",
+          "level": "Basic"
+        },
+        {
+          "name": "NEPS",
+          "level": "Basic"
+        },
+        {
+          "name": "Enterprise Data Warehouse (EDW)",
+          "level": "Intermediate"
+        },
+        {
+          "name": "iNAVSEA",
+          "level": "Basic"
+        }
+      ],
+      "training": [
+        {
+          "name": "Sarbanes-Oxley (SOX)",
+          "level": "Expert"
+        },
+        {
+          "name": "Organizational Conflicts of Interest (OCI)",
+          "level": "Intermediate"
+        },
+        {
+          "name": "GAAP, DFAR, FAR",
+          "level": "Basic"
+        },
+        {
+          "name": "Earned Value Management (EVM)",
+          "level": "Intermediate"
+        }
+      ],
+      "education": [
+        {
+          "name": "J. Sergeant Reynolds",
+          "location": "Richmond, VA",
+          "dates": "Coursework in Business Administration (June 2001)"
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\CornellaChambersBFM.docx"
+    },
+    {
+      "name": "Edwin A. Lomotan\",",
+      "degrees": [
+        "MD",
+        "FAMIA"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\cover letter Edwin Lomotan.pdf"
+    },
+    {
+      "name": "Cristy Miles",
+      "years_experience": 8,
+      "degrees": [
+        "Master of Business Administration (Honors)",
+        "Master of Public Health",
+        "Bachelor of Science in Health Sciences"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\CristyMiles,MPH,MBA_Stanford,_ATL.pdf"
+    },
+    {
+      "name": "Dana N. Gonzalez",
+      "years_experience": 10,
+      "degrees": [
+        "Bachelor of Arts"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\DanaGonzalez.pdf"
+    },
+    {
+      "name": "Danielle Elenita G. Borgonia",
+      "years_experience": 3,
+      "degrees": [
+        "B.A. Biology, Statistics with a concentration in Biology"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\DANIELLEELENITAG.BORGONIA.pdf"
+    },
+    {
+      "name": "Deb",
+      "phone_number": "225-287-2319",
+      "email": "dbernardselvage@hotmail.com",
+      "location": "Washington, DC",
+      "experience": [
+        {
+          "title": "Senior Grants & Finance Administrator",
+          "company": "Children's National Medical Center",
+          "dates": "Jan 2016 - Mar 2017"
+        },
+        {
+          "title": "Pre-Award Sponsored Projects Administrator (SPA) I",
+          "company": "George Washington University",
+          "dates": "Nov 2014 - Dec 2015"
+        },
+        {
+          "title": "Grants & Contract Specialist",
+          "company": "Tulane University",
+          "dates": "Sep 2010 - Apr 2014"
+        },
+        {
+          "title": "Intern, Public Administration",
+          "company": "Montgomery County Office of Procurement",
+          "dates": "May 2014 - Nov 2014"
+        }
+      ],
+      "education": [
+        {
+          "title": "Tulane University",
+          "dates": "Sep 2010 - Apr 2014"
+        },
+        {
+          "title": "Montgomery County Office of Procurement",
+          "dates": "May 2014 - Nov 2014"
+        }
+      ],
+      "skills": [
+        "Grant Administration",
+        "Contract Management",
+        "Procurement",
+        "Public Administration"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\DeitricB.Selvage.pdf"
+    },
+    {
+      "Name": "Diana Dunnigan",
+      "Title": "MD",
+      "Education": [
+        {
+          "Degree": "Doctor of Medicine",
+          "Institution": "University of Arizona College of Medicine"
+        }
+      ],
+      "Work Experience": [
+        {
+          "Company": "Phoenix Indian Medical Center",
+          "Position": "Pediatrician",
+          "Duration": "2001-2022"
+        },
+        {
+          "Company": "Arizona Reach out and Read",
+          "Position": "Liaison",
+          "Duration": "2010-2018"
+        }
+      ],
+      "Publications": [
+        {
+          "Title": "Effect of severe obesity in childhood and adolescence on risk of type 2 diabetes in youth and early adulthood in an American Indian population",
+          "Authors": [
+            "Tanamas, SK; Reddy, S; Chambers, M; Clark, E; Dunnigan, D; Hanson, R; Nelson, RG; Knowler, WC; Sinha, M"
+          ]
+        },
+        {
+          "Title": "Growth Tracking in Severely Obese or Underweight Children",
+          "Authors": [
+            "Chambers, M; Tanamas, S; Clark, E; Dunnigan, D; Kapadia, C; Hanson, R; Nelson, R; Knowler, W; Sinha, M"
+          ]
+        }
+      ],
+      "Professional Societies and Community Involvement": [
+        {
+          "Society": "American Academy of Pediatrics",
+          "Position": "Fellow",
+          "Duration": "2001-present"
+        },
+        {
+          "Society": "Arizona Reach out and Read",
+          "Position": "Board Member",
+          "Duration": "2006-2009"
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\DianaDunniganCV2024-05.pdf"
+    },
+    {
+      "name": "Zain Abbas",
+      "years_experience": 4,
+      "degrees": [
+        "Master of Data Science and Analytics",
+        "Master of Actuarial Studies",
+        "Bachelor of Actuarial Science & Risk Management"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\DIRO - Intermediate Data Analytics Analysis Support - Zain Abbas.pdf"
+    },
+    {
+      "name": "Jason Bulger",
+      "years_experience": 20,
+      "degrees": [
+        "M.B.A., Business Administration",
+        "B.S., Marketing"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\DOC - Advanced Marketing Specialist - Jason Bulger.pdf"
+    },
+    {
+      "name": "Matt Parsons",
+      "years_experience": 17,
+      "degrees": [],
+      "file_path": "..\\data\\candidates\\gap_solutions\\DOC - Advanced Marketing Specialist - Matt Parsons.pdf"
+    },
+    {
+      "name": "Sarah Zamanian",
+      "positions": [
+        {
+          "company": "Bakeco and FD Neurotechnologies",
+          "title": "Marketing Manager",
+          "location": "Sterling, Virginia",
+          "dates": "2019-2021",
+          "responsibilities": [
+            "Prepared a customized analysis of market potential, created a project plan, and led team members to implement the project plan.",
+            "Designed and executed ten-plus market research campaigns, gathering insights from over 5,000 respondents.",
+            "Trained 15 team members on market research methodologies, increasing team efficiency by 30%."
+          ]
+        },
+        {
+          "company": "Japan Tobacco International (JTI)",
+          "title": "Marketing Manager",
+          "location": "Geneva, Switzerland",
+          "dates": "2015-2019",
+          "responsibilities": [
+            "Led cycle planning for all marketing and sales projects.",
+            "Designed, monitored, and reported customer loyalty campaigns.",
+            "Streamlined the platform plan with JTI global practices and arranged ongoing training for the sales team, based on marketing requirements."
+          ]
+        },
+        {
+          "company": "Industrial Management College (IMC)",
+          "title": "Adjunct Faculty",
+          "location": "Dubai, United Arab Emirates",
+          "dates": "2015-2019",
+          "responsibilities": [
+            "Prepared and delivered lectures, tutorials, workshops, and seminars.",
+            "Developed curricula and course material that could be used across several platforms."
+          ]
+        },
+        {
+          "company": "British American Tobacco (BAT)",
+          "title": "Marketing Specialist",
+          "location": "London, United Kingdom",
+          "dates": "2007-2015",
+          "responsibilities": [
+            "Assisted the marketing director in creating integrated marketing campaigns.",
+            "Partnered with outside creative agencies to ensure quality and on-time delivery of marketing programs and assets."
+          ]
+        }
+      ],
+      "education": [
+        {
+          "institution": "Industrial Management College (IMC)",
+          "location": "Dubai, United Arab Emirates",
+          "dates": "2015-2019",
+          "title": "Adjunct Faculty"
+        },
+        {
+          "institution": "D.C. Digital Marketing Summit",
+          "location": "",
+          "dates": "2022 and 2023",
+          "title": ""
+        }
+      ],
+      "professional development": [
+        {
+          "program": "Leadership Through Influencing, Ashridge House, Hult International Business School"
+        },
+        {
+          "program": "Strategic Red Teaming, Leadium Company, Istanbul"
+        },
+        {
+          "program": "Coaching, Gallup Group"
+        },
+        {
+          "program": "M&L Training - Management and Leadership, Leadership House of London"
+        },
+        {
+          "program": "Leadership in Action"
+        },
+        {
+          "program": "Working in Cross-Cultural Teams, Dubai Business Center"
+        },
+        {
+          "program": "Project Management, London School of Business and Finance, Certification"
+        },
+        {
+          "program": "Analytical Prediction by Corporate Parity, Amsterdam, Certification"
+        }
+      ],
+      "technical skills": [
+        {
+          "skill": "Google Ads"
+        },
+        {
+          "skill": "Salesforce CRM"
+        },
+        {
+          "skill": "Project Management Software (PMS)"
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\DOC - Advanced Marketing Specialist - Sarah Zamanian.pdf"
+    },
+    {
+      "name": "Kristin Laing",
+      "years_experience": 11,
+      "degrees": [
+        "Post-Graduate Certificate - Child Trauma and Protection",
+        "Certificate - Project Management Professional Certification Program",
+        "Bachelor of Science - International Studies"
+      ],
+      "awards_and_achievements": [
+        {
+          "year": 2023,
+          "category": "Marcom Platinum Team Achievement",
+          "award": "Platinum"
+        },
+        {
+          "year": 2022,
+          "category": "Long COVID Campaign",
+          "award": "Gold"
+        },
+        {
+          "year": 2022,
+          "category": "Communication Plan",
+          "award": "Gold"
+        },
+        {
+          "year": 2022,
+          "category": "Crisis Communications Plan/Response Award",
+          "award": "Gold"
+        },
+        {
+          "year": 2022,
+          "category": "Specialty Item",
+          "award": "Gold"
+        },
+        {
+          "year": 2023,
+          "category": "Telly Bronze Government Relations Non-Broadcast Video",
+          "award": "Bronze"
+        },
+        {
+          "year": 2023,
+          "category": "Communicator Distinction Level Strategic Marketing Achievement/Crisis Response Campaign",
+          "award": "Distinction"
+        },
+        {
+          "year": 2023,
+          "category": "Hermes Gold Strategic Campaigns Pandemic Response Category",
+          "award": "Gold"
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\DOC - Intermediate Communications Specialist - Kristin Laing.pdf"
+    },
+    {
+      "name": "Dominic",
+      "positions": [
+        {
+          "title": "Director (Research and Analysis) - Risk Management & Compliance",
+          "company": "HITRUST Alliance",
+          "dates": "Aug 2020 - Oct 2022"
+        },
+        {
+          "title": "Assistant Dean (IT/Cybersecurity)",
+          "company": "Lindenwood University",
+          "dates": "Oct 2016 - Aug 2020"
+        },
+        {
+          "title": "Co-founder",
+          "company": "Three Quality Services (Kenya- Remote)",
+          "dates": "Oct 2014 - Aug 2020"
+        },
+        {
+          "title": "Sr. Software Assurance and Testing Lead",
+          "company": "TapRoot Systems",
+          "dates": "Mar 2007 - Sept 2009"
+        },
+        {
+          "title": "Secure Software Development Project Manager",
+          "company": "Anritsu Company",
+          "dates": "Sept 2009 - Oct 2014"
+        }
+      ],
+      "education": [
+        {
+          "school": "Lindenwood University",
+          "degree": "PhD in Cybersecurity"
+        },
+        {
+          "school": "HITRUST Alliance",
+          "degree": "Director (Research and Analysis) - Risk Management & Compliance"
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\Dominic Boamah.pdf"
+    },
+    {
+      "name": "Don Woodbury",
+      "years_experience": 22,
+      "degrees": [],
+      "file_path": "..\\data\\candidates\\gap_solutions\\DonWoodburyLinkedInresume2024.pdf"
+    },
+    {
+      "name": "Bisi Alli, DO, MS, FACP, FAMWA, dip ABLM",
+      "affiliations": [
+        {
+          "name": "Mayo Clinic Arizona",
+          "type": "Medical School"
+        },
+        {
+          "name": "Banner University Medical Center",
+          "type": "Hospital"
         }
       ],
       "publications": [
         {
-          "title": "Nine peer reviewed publications",
-          "count": "9"
+          "title": "The Effects of Ethanol on GABAergic and Glutamatergic Neurotransmission\u2014A Link to Cancer?",
+          "year": 2005,
+          "type": "Thesis"
+        },
+        {
+          "title": "Increasing Inclusion, Diversity, Anti-racism, and Equity with a Medical School Curriculum Quality Improvement Project",
+          "year": 2023,
+          "type": "Miscellaneous"
+        },
+        {
+          "title": "10 Nutrition Myths: Calories Equal Weight Gain and Diabetics Can't Eat Fruit",
+          "year": 2023,
+          "type": "Miscellaneous"
+        },
+        {
+          "title": "Incorporating families into the care team: Involving one member of a patient's family can benefit the patient and boost work efficiency",
+          "year": 2022,
+          "type": "Miscellaneous"
+        },
+        {
+          "title": "Advance Care Planning",
+          "year": 2022,
+          "type": "Miscellaneous"
+        },
+        {
+          "title": "Just Stay Home",
+          "year": 2020,
+          "type": "Miscellaneous"
+        }
+      ],
+      "awards": [
+        {
+          "name": "FAMWA",
+          "year": null
+        },
+        {
+          "name": "dip ABLM",
+          "year": null
+        }
+      ],
+      "research_interests": [
+        {
+          "title": "Finding the Right Mentor & Maintaining the Relationship through Key Conversations"
+        },
+        {
+          "title": "Launching an Academic PACT Residency Clinic in the Phoenix VA Health Care System"
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\Dr.BisiAlli2024CV.pdf"
+    },
+    {
+      "name": "Administrative Assistant",
+      "experience": [
+        {
+          "title": "Patient Care Coordinator",
+          "company": "NIH NHLBI",
+          "location": "Bethesda, MD",
+          "dates": "01/2022 to 09/2022"
+        },
+        {
+          "title": "Medical Office Assistant/Surgical Coordinator",
+          "company": "Johns Hopkins Medicine",
+          "location": "Bethesda, MD",
+          "dates": "10/2018 to 02/2022"
+        },
+        {
+          "title": "Events Manager, Intern",
+          "company": "AYS Events Planner, LLC",
+          "location": "Alexandria, VA",
+          "dates": "10/2017 to 12/2018"
+        },
+        {
+          "title": "Executive Administrative Assistant",
+          "company": "Achieva Partners",
+          "location": "Washington, DC",
+          "dates": "09/2016 to 08/2017"
+        }
+      ],
+      "skills": [
+        "Computer Proficiency (EMR (EPIC & CRIS), Microsoft Suite, Adobe, Google Suite)",
+        "Medical Terminology",
+        "Multi-Line Telephone Systems",
+        "Healthcare System Navigation",
+        "Patient Records Management",
+        "HIPAA Compliance",
+        "Clerical and Filing Support"
+      ],
+      "awards": [
+        {
+          "title": "2023 NINDS Administrative Excellence Award"
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\DSPR - Basic Executive Secretariat support - Scarlette Cella.pdf"
+    },
+    {
+      "name": "Zi Zhou",
+      "years_experience": 4,
+      "degrees": [
+        "Bachelor of Science"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\DSPR - Basic Executive Secretariat Support - Zi Zhou.pdf"
+    },
+    {
+      "file_path": "..\\data\\candidates\\gap_solutions\\DSPR - Intermediate Program Coordinator - Leah White.pdf"
+    },
+    {
+      "file_path": "..\\data\\candidates\\gap_solutions\\Edwin Lomotan.pdf"
+    },
+    {
+      "name": "Erica L. Troncoso",
+      "years_experience": 10,
+      "degrees": [
+        "MA"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\Erica Troncoso Cover Letter.pdf"
+    },
+    {
+      "name": "Erica Troncoso",
+      "years_experience": 11,
+      "degrees": [
+        "M.A. Biomedical Visualization",
+        "B.A. Fine Arts"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\Erica Troncoso.pdf"
+    },
+    {
+      "experience": [
+        {
+          "company": "ManTech International Corporation",
+          "position": "Sr. Director, Capture/Business Development",
+          "years": "2013-2015"
+        },
+        {
+          "company": "ASRC Federal Inc.",
+          "position": "Sr. Director Business Development",
+          "years": "2011-2012"
+        },
+        {
+          "company": "Y-Consulting",
+          "position": "Principal Consultant",
+          "years": "2016-2017"
+        },
+        {
+          "company": "DHHS GWAC/IDIQ Task Order Capture Support",
+          "position": "GWAC/IDIQ-Task order Capture Support",
+          "years": "2016-2017"
+        },
+        {
+          "company": "Y-Consulting",
+          "position": "Principal Consultant",
+          "years": "2016-2017"
+        },
+        {
+          "company": "ManTech International Corporation",
+          "position": "Sr. Director, Capture/Business Development",
+          "years": "2013-2015"
+        },
+        {
+          "company": "ASRC Federal Inc.",
+          "position": "Sr. Director Business Development",
+          "years": "2011-2012"
+        },
+        {
+          "company": "JACOBS Vice President, Business Development DHHS Solutions",
+          "position": "Vice President, Business Development DHHS Solutions",
+          "years": "2008-2010"
+        },
+        {
+          "company": "XEROX Corporation Vice President",
+          "position": "Vice President",
+          "years": "2005-2007"
+        },
+        {
+          "company": "Catapult Technology Sr. Director Business Development",
+          "position": "Sr. Director Business Development",
+          "years": "2001-2005"
+        }
+      ],
+      "education": [
+        {
+          "university": "University of the District of Columbia, Washington, DC",
+          "degree": "Business Administration, Bachelor of Arts BA-1987"
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\FeleciaYounger.docx"
+    },
+    {
+      "name": "Gabrielle K. Hines",
+      "years_experience": 11,
+      "degrees": [
+        "Master of Science (MS) in Toxicology for Human Risk Assessment",
+        "Graduate Certificate in Risk Sciences and Public Policy",
+        "Bachelor of Science (BS) in Anthropology and Human Biology",
+        "Bachelor of Arts (BA) in Human Health"
+      ],
+      "work_experience": [
+        {
+          "title": "Research Intern - Department of Toxic Substances Control",
+          "company": "California Environmental Protection Agency (CalEPA)",
+          "dates": "May 2023 - December 2023",
+          "responsibilities": [
+            "Led screening research to aid in the prioritization of chemical product combinations for phthalate alternatives with potential for use in children's toys and care products based on their similarity to ortho-phthalate's chemical structure, industrial function, and physical-chemical properties",
+            "Integrated 5 EPA tools to compare exposure, hazard, and ecotoxicity metrics for phthalates and potential alternatives",
+            "Identified 10 current and proposed regulations at the state and federal level related to the use of 12 phthalates in children's products to highlight current disparities in legislative coverage",
+            "Conducted risk assessments to evaluate lifetime exposure to phthalates from menstrual products, generating various scenarios to yield high, moderate, and low hazard estimates",
+            "Prepared a detailed technical report, effectively communicated findings to a variety of stakeholders, and provided actionable recommendations for future regulatory decision-making"
+          ]
+        },
+        {
+          "title": "Research Analyst - Emory School of Public Health",
+          "company": "Laboratory for Exposure Assessment and Development in Environmental Research",
+          "dates": "May 2021 - July 2022",
+          "responsibilities": [
+            "Conducted sample preparation, analysis, and data integration on over 2,000 samples from serum and urine matrices to investigate environmental exposure biomarkers, including pesticides, inflammatory markers, and flame retardants via liquid, gas chromatography-mass spectrometry (LC-MS/GC-MS), and ELISA assay techniques",
+            "Oversaw the acquisition of 600 urinary fungicide metabolite concentrations via targeted quantitative analysis to ascertain exposure levels to ethylene thiourea and propylene thiourea in adolescent populations in Ecuador",
+            "Orchestrated the inventory and organization of 20,000+ urine and blood samples from 4 countries for the international Household Air Pollution Investigation Network (HAPIN) trial to optimize inter-laboratory efficiency"
+          ]
+        },
+        {
+          "title": "Orientation Leader",
+          "company": "Emory New Student Program",
+          "dates": "August 2019 - December 2019",
+          "responsibilities": [
+            "Advised a group of 17 first-year students during their first weeks on campus and through orientation activities",
+            "Trained in group facilitation skills to aid in the first-year students\u2019 college transition and build group relationships",
+            "Developed a course titled 'Learning to Lead' for a cohort of 15 students, focused on essential principles and practices of effective leadership, including communication, teamwork, decision-making, and conflict resolution"
+          ]
+        },
+        {
+          "title": "Special Needs Dance Teacher",
+          "company": "Sell\u2019s Broadway Dance Company",
+          "dates": "August 2016 - July 2018",
+          "responsibilities": [
+            "Established and taught an adaptive dance class for special needs individuals to enhance accessibility",
+            "Advocated for spaces that were disability inclusive and engaged with stakeholders to ascertain community needs"
+          ]
+        },
+        {
+          "title": "Retail Sales Manager",
+          "company": "Conch Republic Grill and Bar",
+          "dates": "August 2014 - July 2018",
+          "responsibilities": [
+            "Fostered excellent customer relations to provide guests with memorable moments of hospitality",
+            "Oversaw both retail and take-out food sales for a high-volume retail and restaurant venue",
+            "Maintained favorable profit margins via nightly, weekly, and quarterly inventories"
+          ]
+        }
+      ],
+      "honor": [
+        "National Endowment for the Humanities Scholar",
+        "1st Place at National History Day",
+        "Lambda Alpha Honor Society"
+      ],
+      "skills": [
+        "Proficiency with STATA statistical software package",
+        "Fluency in written and conversational Spanish"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\GabrielleK.Hines.pdf"
+    },
+    {
+      "name": "Giancarlo Monasterio",
+      "years_experience": 4,
+      "degrees": [],
+      "file_path": "..\\data\\candidates\\gap_solutions\\GiancarloMonasterio.docx"
+    },
+    {
+      "education": [
+        {
+          "degree": "B.S.",
+          "field_of_study": "Physiology",
+          "university_name": "University of Toledo"
+        },
+        {
+          "degree": "Ph.D. Candidate (ABD)",
+          "field_of_study": "Anatomy and Physiology",
+          "university_name": "Medical College of Ohio"
+        },
+        {
+          "degree": "M.B.A.",
+          "fields_of_study": [
+            "Marketing",
+            "Finance"
+          ],
+          "university_name": "Temple University/University of Toledo"
+        }
+      ],
+      "professional_associations": [
+        {
+          "name": "Neurotechnology Institute",
+          "position": "Board of Directors",
+          "location": "Columbus, OH"
+        },
+        {
+          "name": "JumpStart, Inc.",
+          "position": "Executive in Residence",
+          "location": "Cleveland, OH"
+        },
+        {
+          "name": "Rev 1 Ventures",
+          "position": "Advisor/Mentor",
+          "location": "Columbus, OH"
+        },
+        {
+          "name": "Fisher College of Business (OSU)",
+          "position": "Mentor",
+          "field_of_study": "Technology Entrepreneurship and Commercialization"
+        },
+        {
+          "name": "Order of St. Francis Healthcare System",
+          "position": "Innovations/Commercialization Board",
+          "location": "Peoria, IL"
+        },
+        {
+          "name": "AdvaMed",
+          "position": "Member and Medical Technology Panelist",
+          "location": "Washington, DC"
+        },
+        {
+          "name": "OHIO LIFE SCIENCES",
+          "position": "Member",
+          "location": "Columbus, OH"
+        },
+        {
+          "name": "Toledo Rotary International",
+          "position": "Member",
+          "location": "Toledo, OH"
+        }
+      ],
+      "experience": [
+        {
+          "company_name": "Life Sciences Technology Group, Ltd.",
+          "position": "Founder - Principal",
+          "field_of_study": "Med-tech commercialization",
+          "start_date": "2013",
+          "end_date": "present"
+        },
+        {
+          "company_name": "Gelmann Sciences",
+          "position": "Worldwide Director of Marketing and Business Development",
+          "field_of_study": "$350 million medical device business manufacturing and marketing critical care, drug delivery and infusion microfiltration systems and devices to both clinical and OEM customers",
+          "start_date": "1994",
+          "end_date": "1996"
+        },
+        {
+          "company_name": "Medex, Inc.",
+          "position": "Worldwide Director of Marketing, Interventional Cardiology and Critical Care",
+          "field_of_study": "$128 million medical device business manufacturing and marketing cardiac catheterization and critical care devices and related products for drug and fluid delivery",
+          "start_date": "1991",
+          "end_date": "1994"
+        },
+        {
+          "company_name": "Air-Shields Vickers, PLC",
+          "position": "Product Manager - Acquired, completed development and launched (worldwide) FetaScan\u2122, the industry\u2019s first microprocessor based multiple transducer fetal monitoring and clinical information system.",
+          "field_of_study": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        {
+          "company_name": "United Medical Products",
+          "position": "Sales Representative \u2013 Top sales producer for Datascope\u00ae and Spacelabs\u00ae physiological monitoring and clinical information systems \u2013 markets included Anesthesia, ICU, CCU, NICU and ER.",
+          "field_of_study": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        {
+          "company_name": "Battelle Memorial Institute",
+          "position": "Vice President, Life Science Technologies",
+          "field_of_study": "Battelle is a world leader in innovation and technology development and commercialization, generating $4.0 billion in annual revenues serving biomedical, life science, energy, defense and national security markets for government and commercial customers.",
+          "start_date": "1996",
+          "end_date": "2006"
+        },
+        {
+          "company_name": "TechColumbus",
+          "position": "Executive in Residence 2023 (Cleveland, OH)",
+          "field_of_study": "",
+          "start_date": "",
+          "end_date": ""
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\GLSExecLeadership10.2023.pdf"
+    },
+    {
+      "name": "John Doe",
+      "title": "Chief Information Security Officer",
+      "experience": [
+        {
+          "company": "ABC Corporation",
+          "position": "Chief Information Security Officer",
+          "dates": "2020-2023"
+        },
+        {
+          "company": "XYZ Corporation",
+          "position": "Director of Information Security",
+          "dates": "2015-2020"
+        }
+      ],
+      "education": [
+        {
+          "institution": "University of Phoenix",
+          "degree": "Doctor of Management",
+          "concentration": "Information Systems and Technology",
+          "expected_date": "2028"
+        },
+        {
+          "institution": "University of Maryland Global Campus",
+          "degree": "Master of Business Administration"
+        },
+        {
+          "institution": "University of Maryland Global Campus",
+          "degree": "Master of Science in Cybersecurity"
+        },
+        {
+          "institution": "George Mason University",
+          "degree": "Master of Public Administration",
+          "concentration": "Emergency Management Homeland Security"
+        },
+        {
+          "institution": "George Mason University",
+          "degree": "Bachelor of Arts",
+          "majors": [
+            "Government and International Politics",
+            "Religious Studies"
+          ],
+          "cum_laude": true
+        }
+      ],
+      "training_and_certifications": [
+        {
+          "name": "Certified Information Systems Security Professional (CISSP)",
+          "date": ""
+        },
+        {
+          "name": "Certified Information Security Manager (CISM)",
+          "date": ""
+        },
+        {
+          "name": "Certified Information Security Auditor (CISA)",
+          "date": ""
+        },
+        {
+          "name": "Security Specialist",
+          "date": ""
+        },
+        {
+          "name": "Reid Technique of Interviewing & Interrogation",
+          "date": ""
+        },
+        {
+          "name": "Continuity of Operations (COOP) Awareness",
+          "date": ""
+        },
+        {
+          "name": "Physical Security Training",
+          "date": ""
+        },
+        {
+          "name": "Derivative Classifier Training",
+          "date": ""
+        },
+        {
+          "name": "SECURITY+",
+          "date": ""
+        },
+        {
+          "name": "NETWORK+",
+          "date": ""
+        },
+        {
+          "name": "ASIS Professional Security Professional (PSP)",
+          "date": ""
+        },
+        {
+          "name": "ASIS Certified Protection Professional (CPP)",
+          "date": ""
+        },
+        {
+          "name": "Internal Audit Subject Matter Specialist & Business Continuity Planning",
+          "date": ""
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Artificial Intelligence for Business (Wharton)"
+        },
+        {
+          "name": "Certified Business Continuity Professional (DRI International)"
+        },
+        {
+          "name": "Executive Protection Certification"
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\GREGORY C. THOMPSON.docx"
+    },
+    {
+      "experience": [
+        {
+          "employer": "US Navy, Naval Supply Systems Command (NAVSUP) Business Systems Center (BSC)",
+          "title": "GS-2210-11 INFOSEC and Systems Analyst (Secret)",
+          "salary": "$65,000/yr",
+          "start_date": "July 2005",
+          "end_date": "October 2012"
+        },
+        {
+          "employer": "Indigo IT",
+          "title": "Cybersecurity Consultant",
+          "salary": "$80,000/yr",
+          "start_date": "October 2012",
+          "end_date": "October 2013"
+        },
+        {
+          "employer": "Evolver Inc.",
+          "title": "Cybersecurity Consultant",
+          "salary": "$95,000/yr",
+          "start_date": "October 2013",
+          "end_date": "June 2014"
+        },
+        {
+          "employer": "US Navy, Naval Supply Systems Command (NAVSUP) Business Systems Center (BSC)",
+          "title": "GS-2210-11 INFOSEC and Systems Analyst (Secret)",
+          "salary": "$65,000/yr",
+          "start_date": "July 2005",
+          "end_date": "October 2012"
+        },
+        {
+          "employer": "First Health Services Corp-Pace Operations",
+          "title": "Clerk, Manufacturer Rebate Asst.",
+          "salary": "$0/yr",
+          "start_date": "May 2004",
+          "end_date": "August 2004"
+        }
+      ],
+      "tools": [
+        {
+          "tool_name": ".Net 2005 suite",
+          "used_at": "US Navy, Naval Supply Systems Command (NAVSUP) Business Systems Center (BSC)"
+        },
+        {
+          "tool_name": "Windows XP",
+          "used_at": "US Navy, Naval Supply Systems Command (NAVSUP) Business Systems Center (BSC)"
+        },
+        {
+          "tool_name": "HBSS",
+          "used_at": "US Navy, Naval Supply Systems Command (NAVSUP) Business Systems Center (BSC)"
+        }
+      ],
+      "trainings": [
+        {
+          "training_name": "Information Assurance trainings",
+          "taken_at": "US Navy, Naval Supply Systems Command (NAVSUP) Business Systems Center (BSC)"
+        },
+        {
+          "training_name": "SANS IPv6",
+          "taken_at": "US Navy, Naval Supply Systems Command (NAVSUP) Business Systems Center (BSC)"
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\IsiahJones_TSSCInoPoly_20yrSME_DC_$200Kpy.pdf"
+    },
+    {
+      "education": [
+        {
+          "title": "Master of Public Health",
+          "institution": "University of Maryland",
+          "date": "2008-2010"
+        },
+        {
+          "title": "Bachelor of Science in Nutrition and Food Science",
+          "institution": "University of Maryland",
+          "date": "2004-2005"
+        }
+      ],
+      "work_experience": [
+        {
+          "position": "Executive Director",
+          "company": "Healthy Howard",
+          "date": "2010-2022"
+        },
+        {
+          "position": "Program Coordinator I",
+          "company": "Healthy Howard",
+          "date": "2009-2010"
+        },
+        {
+          "position": "Program Specialist",
+          "company": "Primary Care Coalition of Montgomery County",
+          "date": "2007-2009"
+        },
+        {
+          "position": "Nutrition Education Coordinator",
+          "company": "University of Maryland Extension Program",
+          "date": "2005-2008"
+        },
+        {
+          "position": "Nutrition Food Assistant",
+          "company": "National Institutes of Health",
+          "date": "2005-2006"
+        },
+        {
+          "position": "Laboratory Assistant",
+          "company": "Holy Cross Hospital",
+          "date": "2004-2006"
+        },
+        {
+          "position": "Research Assistant",
+          "company": "USDA Agricultural Research Service (ARS)",
+          "date": "2004-2004"
+        },
+        {
+          "position": "Health Enrollment Specialist",
+          "company": "DC Healthcare Alliance",
+          "date": "2003-2003"
+        }
+      ],
+      "skills": [
+        {
+          "skill": "Public Health",
+          "level": "Expert"
+        },
+        {
+          "skill": "Nutrition and Food Science",
+          "level": "Advanced"
+        },
+        {
+          "skill": "Program Management",
+          "level": "Intermediate"
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\ITDI - Basic Action Office - Fernanda Azucena.pdf"
+    },
+    {
+      "name": "IT Project Management Professional\",",
+      "file_path": "..\\data\\candidates\\gap_solutions\\ITDI - Basic Action Officer - Bethanne Poindexter.pdf"
+    },
+    {
+      "file_path": "..\\data\\candidates\\gap_solutions\\ITDI - Basic Executive Assistant - Sadoniya Whitaker.pdf"
+    },
+    {
+      "name": "Dr. [Name]",
+      "title": "Senior Research Scientist",
+      "affiliation": "[Affiliation]",
+      "research_areas": [
+        "Natural Language Processing",
+        "Machine Learning",
+        "Information Retrieval"
+      ],
+      "publications": [
+        {
+          "title": "Title of Publication 1",
+          "journal": "Journal Name 1",
+          "year": 2020
+        },
+        {
+          "title": "Title of Publication 2",
+          "journal": "Journal Name 2",
+          "year": 2019
+        }
+      ],
+      "awards": [
+        {
+          "name": "Award Name 1",
+          "year": 2020,
+          "description": "Description of Award 1"
+        },
+        {
+          "name": "Award Name 2",
+          "year": 2018,
+          "description": "Description of Award 2"
+        }
+      ],
+      "education": [
+        {
+          "degree": "Ph.D.",
+          "field_of_study": "Computer Science",
+          "university_name": "[University Name]",
+          "graduation_year": 2020
+        },
+        {
+          "degree": "M.Sc.",
+          "field_of_study": "Information Technology",
+          "university_name": "[University Name]",
+          "graduation_year": 2015
+        }
+      ],
+      "programming_skills": [
+        {
+          "language": "C/C++",
+          "level": "Expert"
+        },
+        {
+          "language": "Python",
+          "level": "Intermediate"
+        }
+      ],
+      "research_techniques": [
+        {
+          "technique": "Information Retrieval",
+          "level": "Advanced"
+        },
+        {
+          "technique": "Machine Learning",
+          "level": "Expert"
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\ITDI - Basic Software Developer - Yuqing Mao.pdf"
+    },
+    {
+      "name": "M.A.B.S. Akhonda",
+      "title": "Senior Data Scientist",
+      "company": "GAP Solutions, Inc.",
+      "location": "USA",
+      "summary": "Data scientist with expertise in machine learning, deep learning, and computer vision. Skilled in Python, C++, Java, MATLAB, PyTorch, TensorFlow, Docker, Kubernetes, SLURM, PyQt, Git/GitHub, PyPI, Hugging Face.",
+      "experience": [
+        {
+          "company": "GAP Solutions, Inc.",
+          "job_title": "Senior Data Scientist",
+          "duration": "2023 - Present"
+        },
+        {
+          "company": "University of Maryland",
+          "job_title": "Research Assistant",
+          "duration": "2018 - 2020"
+        }
+      ],
+      "education": [
+        {
+          "institution": "University of Maryland",
+          "degree": "Ph.D. in Electrical and Computer Engineering",
+          "duration": "2015 - 2020"
+        },
+        {
+          "institution": "University of Maryland",
+          "degree": "M.S. in Electrical and Computer Engineering",
+          "duration": "2013 - 2015"
+        }
+      ],
+      "publications": [
+        {
+          "title": "Investigating the association between human brainstem microstructural integrity and hypertension using magnetic resonance relaxometry.",
+          "year": "2025",
+          "authors": [
+            "J.P. Laporte",
+            "M.A.B.S. Akhonda",
+            "L.E. Cortina"
+          ]
+        },
+        {
+          "title": "Optimal transport framework to indicate sources of AI performance bias through subgroup feature alignment.",
+          "year": "2024",
+          "authors": [
+            "M. A. B. S. Akhonda",
+            "A. Burgon K. Cha",
+            "Y. Yesha"
+          ]
+        }
+      ],
+      "research_interests": [
+        "Healthcare AI",
+        "Computer Vision",
+        "Deep Learning",
+        "Generative AI",
+        "Large Language Models (LLMs)",
+        "Signal Processing",
+        "Medical Imaging (Ultrasound)",
+        "Big Data Analysis",
+        "Optimization",
+        "Transfer Learning",
+        "Graph Neural Networks",
+        "Mobile Healthcare",
+        "Data Science"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\ITDI - Intermediate AI_ML Scientist - Mohammad Abu Baker Siddique Akhonda.pdf"
+    },
+    {
+      "name": "Neda Bostani",
+      "positions": [
+        {
+          "title": "Research Scholar/Science Diplomat",
+          "organization": "American Association for the Advancement of Sciences, AAAS",
+          "location": "Washington DC, U.S.",
+          "dates": "Mar. 2014 - Sep.2015"
+        },
+        {
+          "title": "Postdoctoral Fellow",
+          "organization": "Institute of High Energy Physics (IHEP)",
+          "location": "Beijing, China",
+          "dates": "2009 - 2014"
+        }
+      ],
+      "publications": [
+        {
+          "title": "Identifying Reliable Predictors of Educational Outcomes through Machine-Learning Predictive Modeling",
+          "authors": [
+            "M. Musso",
+            "E. Cascallar",
+            "N. Bostani",
+            "M. Crawford"
+          ],
+          "journal": "Frontiers in Education (2020)"
+        },
+        {
+          "title": "Are Teaching Practices and School Characteristics Reliable Proxies for Learning Gains? A Results-based Approach to Financing of Education through Machine-Learning Predictive Modeling.",
+          "authors": [
+            "M. Musso",
+            "E. Cascallar",
+            "N. Bostani",
+            "M. Crawford"
+          ],
+          "journal": "World Bank Working Paper (2018)"
+        },
+        {
+          "title": "Growing Smarter: Learning and Equitable Development in East Asia and Pacific",
+          "authors": [
+            "World Bank"
+          ],
+          "journal": "World Bank East Asia and Pacific Regional Report (2017)"
+        }
+      ],
+      "experience": [
+        {
+          "title": "Use Cases Development and Providing Advise on the Application of Emerging Technologies Specifically Artificial Intelligence in Education Sector in Vietnam",
+          "organization": "",
+          "location": "",
+          "dates": ""
+        },
+        {
+          "title": "Methodology Preparation and Implementation of Science, Technology and Innovation (STI) Roadmaps",
+          "organization": "",
+          "location": "",
+          "dates": ""
+        }
+      ],
+      "education": [
+        {
+          "title": "Institute of High Energy Physics (IHEP)",
+          "organization": "Chinese Academy of Sciences",
+          "location": "Beijing, China",
+          "dates": "2009 - 2014"
+        },
+        {
+          "title": "Science Diplomacy Center, American Association for the Advancement of Sciences, AAAS",
+          "organization": "",
+          "location": "Washington DC, U.S.",
+          "dates": "Mar. 2014 - Sep.2015"
+        }
+      ],
+      "awards": [],
+      "skills": [
+        {
+          "title": "Machine Learning",
+          "level": ""
+        },
+        {
+          "title": "Science Diplomacy",
+          "level": ""
+        },
+        {
+          "title": "STI Roadmaps",
+          "level": ""
+        }
+      ],
+      "tools": [],
+      "languages": [
+        {
+          "title": "English",
+          "level": ""
+        },
+        {
+          "title": "Chinese",
+          "level": ""
+        },
+        {
+          "title": "Arabic",
+          "level": ""
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\ITDI - Intermediate Data Scientist - Neda Bostani.pdf"
+    },
+    {
+      "name": "Allwyn\",",
+      "file_path": "..\\data\\candidates\\gap_solutions\\ITDI - Intermediate Data Scientist - Veronica Boateng.pdf"
+    },
+    {
+      "file_path": "..\\data\\candidates\\gap_solutions\\ITDI - Intermediate Policy Analyst - Anjiline Sirsikar.pdf"
+    },
+    {
+      "name": "Jeremy Epstein",
+      "title": "Data and Policy Analyst",
+      "experience": [
+        {
+          "company": "Start-Up Nation Central",
+          "position": "Data & Policy Analyst",
+          "duration": "Sep 2017 - Jul 2018"
+        },
+        {
+          "company": "Maryland Department of Human Services",
+          "position": "Data Analyst",
+          "duration": "Sep 2016 - Aug 2017"
+        },
+        {
+          "company": "United States General Services Administration",
+          "position": "Innovation Specialist",
+          "duration": "Apr 2015 - Dec 2015"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "AI Policy Program with Distinction",
+          "issuer": "Center for AI & Digital Policy",
+          "date": "Dec 2023"
+        }
+      ],
+      "publications": [
+        {
+          "title": "Ensuring Social Impact at Every Stage of Technology Research & Development",
+          "journal": "Journal of Science Policy & Governance",
+          "volume": "18",
+          "issue": "3",
+          "date": "Aug 2021"
+        },
+        {
+          "title": "The Swartz Legacy: The Input of Technologists in a Technological World",
+          "journal": "Journal of Science Policy & Governance",
+          "volume": "4",
+          "issue": "1",
+          "date": "Jan 2014"
+        }
+      ],
+      "explainers": [
+        {
+          "title": "The Need for Speed \u2013 Gauging Required Speeds for Broadband Buildout",
+          "issuer": "Bipartisan Policy Center",
+          "date": "Nov 2022"
+        },
+        {
+          "title": "Explainer: Impact Assessments for Artificial Intelligence",
+          "issuer": "Bipartisan Policy Center",
+          "date": "Nov 2022"
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\ITDI - Intermediate Policy Analyst - Jeremy Pesner.pdf"
+    },
+    {
+      "name": "James \"Jim\" Rubocki",
+      "years_experience": 25,
+      "degrees": [
+        "M.S. Integrated Supply Chain Management",
+        "B.S. Agricultural & Applied Economics"
+      ],
+      "certifications": [
+        "Project Management Professional (PMP)",
+        "Advanced Logistics Instructor",
+        "Facilities Maintenance Officer",
+        "Ground Safety Officer",
+        "White Belt Lean Six Sigma"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\JAMES\u201cJIM\u201dRUBOCKI_TSSCI_USMCO-5_SOCCOM_globallogisticsSCM_QunaticoTRNG_XO_PMP_MSSC_FL.pdf"
+    },
+    {
+      "name": "Jason Wulff",
+      "education": [
+        {
+          "title": "Graduate Research Assistant",
+          "institution": "University of Kentucky, Dept. of Entomology",
+          "duration": "2008-2014"
+        },
+        {
+          "title": "Postdoctoral Scholar",
+          "institution": "Eubanks Lab, Texas A&M University",
+          "duration": "2014-2016"
+        },
+        {
+          "title": "Postdoctoral Scholar",
+          "institution": "Sword Lab, Texas A&M University",
+          "duration": "2016-2020"
+        }
+      ],
+      "publications": [
+        {
+          "title": "From the bellies of babes: a larval-based approach to ant molecular gut content analysis.",
+          "journal": "Insectes Sociaux",
+          "year": "2021",
+          "authors": [
+            "Wulff J.",
+            "M. K. Kjeldgaard",
+            "M. D. Eubanks",
+            "G. A. Sword"
+          ]
+        },
+        {
+          "title": "Differences in Microbiota Between Two Multilocus Lineages of the Sugarcane Aphid (Melanaphis sacchari) in the Continental United States.",
+          "journal": "Annals of the Entomological Society of America",
+          "year": "2020",
+          "authors": [
+            "Holt J.",
+            "A. Styer",
+            "J. White",
+            "J. Armstrong",
+            "S. Nibouche",
+            "L. Costet",
+            "A. Malacrin\u00f2",
+            "J. Antwi",
+            "J. Wulff",
+            "G. Peterson",
+            "N. Mclaren",
+            "R. Medina"
+          ]
+        },
+        {
+          "title": "Neonicotinoid Insecticides Alter the Transcriptome of Soybean and Decrease Plant Resistance.",
+          "journal": "International Journal of Molecular Sciences",
+          "year": "2019",
+          "authors": [
+            "Wulff J.",
+            "M. Kiani",
+            "K. Regan",
+            "M. Eubanks",
+            "A. Szczepaniec"
+          ]
+        },
+        {
+          "title": "The endosymbiont Arsenophonus provides a general benefit to its host soybean aphid (Hemiptera:Aphididae) regardless of host plant resistance.",
+          "journal": "Environmental Entomology",
+          "year": "2015",
+          "authors": [
+            "Wulff J. A.",
+            "J. A.White"
+          ]
+        },
+        {
+          "title": "Phylogeny and Character Evolution of Papaveraceae s.l. (Ranunculales).",
+          "journal": "Systematic Botany",
+          "year": "2015",
+          "authors": [
+            "Hoot S. B.",
+            "K. M.Wefferling",
+            "J. A.Wulff"
+          ]
+        },
+        {
+          "title": "Worldwide populations of the aphid, Aphis craccivora, are infected with diverse facultative bacterial symbionts.",
+          "journal": "Microbial Ecology",
+          "year": "2014",
+          "authors": [
+            "Brady C. M.",
+            "M. K. Asplen",
+            "N. Desneux",
+            "G. E. Heimpel",
+            "K. R. Hopper",
+            "C. R. Linnen",
+            "K. M. Oliver",
+            "J. A. Wulff",
+            "J. A.White"
+          ]
+        },
+        {
+          "title": "The endosymbiont Arsenophonus is widespread in soybean aphid, Aphis glycines, but doesn\u2019t provide protection from parasitoids or a fungal pathogen.",
+          "journal": "PLoS ONE",
+          "year": "2013",
+          "authors": [
+            "Wulff J. A.",
+            "K. Buckman",
+            "K. Wu",
+            "G.E.Heimpel",
+            "J. A. White"
+          ]
+        }
+      ],
+      "research_experience": [
+        {
+          "title": "Postdoctoral Scholar",
+          "institution": "Eubanks Lab, Texas A&M University",
+          "duration": "2014-2016"
+        },
+        {
+          "title": "Postdoctoral Scholar",
+          "institution": "Sword Lab, Texas A&M University",
+          "duration": "2016-2020"
+        }
+      ],
+      "education_background": [
+        {
+          "title": "Graduate Research Assistant",
+          "institution": "University of Kentucky, Dept. of Entomology",
+          "duration": "2008-2014"
+        },
+        {
+          "title": "Postdoctoral Scholar",
+          "institution": "Eubanks Lab, Texas A&M University",
+          "duration": "2014-2016"
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\JasonWulffMidAnalyst.pdf"
+    },
+    {
+      "name": "Jaswanth Erusu",
+      "years_experience": 3,
+      "degrees": [
+        "Master of Science in Data Analytics Engineering"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\Jaswanth Erusu.pdf"
+    },
+    {
+      "file_path": "..\\data\\candidates\\gap_solutions\\JEANFELIPETEOTONIO.docx",
+      "error": "Could not extract text from file: ..\\data\\candidates\\gap_solutions\\JEANFELIPETEOTONIO.docx"
+    },
+    {
+      "file_path": "..\\data\\candidates\\gap_solutions\\JeffFoti_MD_Pediatrician_AZ_RecRev.pdf"
+    },
+    {
+      "name": "Jennifer Bullard Madsen",
+      "title": "Senior Advisor, Health Policy and Business Strategy",
+      "company": "Avalere",
+      "location": "Washington, DC",
+      "email": null,
+      "phone": null,
+      "linkedin": "https://www.linkedin.com/in/jenbullardmadsen/",
+      "x": "https://www.x.com/jenmadsenmph",
+      "education": [
+        {
+          "institution": "Yale University",
+          "degree": "Master of Public Health in Health Policy"
+        },
+        {
+          "institution": "Rice University",
+          "degree": "Bachelor of Arts in Biochemistry"
+        }
+      ],
+      "affiliations": [
+        {
+          "name": "Mental Health America",
+          "position": "Member of the Board of Directors"
+        },
+        {
+          "name": "St. Andrew's Episcopal Church",
+          "position": "Senior Warden"
+        }
+      ],
+      "publications": [
+        {
+          "title": "Accelerating Innovation For Better Health: A MITRE Framework Supporting The Proposed Advanced Research Projects Agency For Health (ARPA-H)"
+        },
+        {
+          "title": "FDA Regulation of Laboratory-Developed Tests: What to Expect, How to Prepare"
         }
       ],
       "presentations": [
         {
-          "type": "Lectures",
-          "count": "40"
+          "title": "Health Policy Issues for the Laboratory Industry",
+          "location": "Orlando, FL"
         },
         {
-          "type": "Posters",
-          "count": "60"
+          "title": "The U.S. Healthcare System's Drive to Value-Based Payment: What Will It Mean for Precision Medicine?",
+          "location": "London, UK"
         }
       ],
-      "file_path": "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume_matcher\\data\\resume_test\\Dr.IanGutDatalytica.pdf"
+      "experience": [
+        {
+          "company": "Avalere",
+          "position": "Senior Strategic Advisor",
+          "duration": "4 years"
+        },
+        {
+          "company": "Congressional Budget Office",
+          "position": "Associate Analyst",
+          "duration": "3 years"
+        }
+      ],
+      "selected_works": [
+        {
+          "title": "Health Economics of Cardiovascular Disease: Defining the Research Agenda"
+        },
+        {
+          "title": "Untangling the Potential Impact of Comparative Effectiveness Research on Pharmaceutical Innovation"
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\JenMadsenSr.pdf"
+    },
+    {
+      "name": "Jen Madsen",
+      "years_experience": 25,
+      "degrees": [
+        "MPH in Health Policy",
+        "BA in Biochemistry"
+      ],
+      "organizations_advised": [
+        "Advanced Research Projects Agency for Health (ARPA-H)",
+        "National Institutes of Health (NIH)",
+        "Food Allergy Research and Education (FARE)",
+        "American Clinical Lab Association",
+        "Theranos",
+        "Centers for Medicare and Medicaid Services (CMS)",
+        "Mental Health America (MHA)",
+        "Pfizer",
+        "Quest",
+        "Juvenile Diabetes Research Foundation (JDRF)",
+        "Roche",
+        "AstraZeneca",
+        "Labcorp",
+        "Merck",
+        "Wellcare"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\JenMadsenSrBio.pdf"
+    },
+    {
+      "name": "Jennifer Anyikude\",",
+      "years_experience": 11,
+      "degrees": [
+        "["
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\JENNIFERANYIKUDE.docx"
+    },
+    {
+      "name": "John L. Cook",
+      "title": "Occupational and Environmental Medicine Specialist",
+      "education": [
+        {
+          "degree": "Master of Science in Environmental Toxicology",
+          "university": "University of California, Irvine"
+        },
+        {
+          "degree": "Doctor of Philosophy in Occupational and Environmental Medicine",
+          "university": "University of California, San Francisco"
+        }
+      ],
+      "experience": [
+        {
+          "position": "Occupational and Environmental Medicine Specialist",
+          "company": "US Navy",
+          "duration": "2018-2022"
+        },
+        {
+          "position": "Occupational and Environmental Medicine Specialist",
+          "company": "US Navy",
+          "duration": "2015-2018"
+        }
+      ],
+      "publications": [
+        {
+          "title": "Triage and treatment of mass casualty decompression sickness after depressurization at 6400 m.",
+          "journal": "Aerospace Medicine and Human Performance",
+          "year": "2018"
+        },
+        {
+          "title": "Perfluoryl- and Polyfluryl-alkyl Substances (PFAS)",
+          "conference": "ACOEM Annual Conference, Anaheim",
+          "year": "2019"
+        }
+      ],
+      "professional_societies": [
+        {
+          "name": "American College of Occupational and Environmental Medicine (ACOEM)",
+          "position": "Member since 2009",
+          "sections": [
+            {
+              "name": "Federal and Military OEM section",
+              "position": "Chair, 2018-2019"
+            },
+            {
+              "name": "Corporate Medicine section",
+              "position": "Member since 2017"
+            }
+          ]
+        },
+        {
+          "name": "Western Occupational and Environmental Medicine Association (WOEMA)",
+          "position": "Member since 2009",
+          "sections": [
+            {
+              "name": "WOEMA Newsletter Committee",
+              "position": "Member and contributor, 2016"
+            },
+            {
+              "name": "WOEMA representative to House of Delegates to ACOEM",
+              "position": "Since 2017"
+            }
+          ]
+        }
+      ],
+      "awards": [
+        {
+          "title": "Occupational Medicine Specialist Certification",
+          "year": "2018"
+        },
+        {
+          "title": "Environmental Medicine Specialist Certification",
+          "year": "2020"
+        }
+      ],
+      "research_interests": [
+        {
+          "name": "Occupational and Environmental Medicine",
+          "description": "Research interests include occupational and environmental medicine, with a focus on the intersection of work and health."
+        },
+        {
+          "name": "Toxicology",
+          "description": "Research interests include toxicology, with a focus on the effects of chemicals on human health."
+        }
+      ],
+      "professional_courses": [
+        {
+          "title": "Occupational Medicine Specialist Certification Course",
+          "year": "2018"
+        },
+        {
+          "title": "Environmental Medicine Specialist Certification Course",
+          "year": "2020"
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\Jerald.Cook_MD_RetNavyDoc_OccMed_Entrepreneur.pdf"
+    },
+    {
+      "name": "John A. Steinbeck, Jr.",
+      "years_experience": 20,
+      "degrees": [],
+      "file_path": "..\\data\\candidates\\gap_solutions\\JOHN+A.+STEINBECK+CL+ARPA.docx"
+    },
+    {
+      "name": "John A. Steinbeck Jr.",
+      "years_experience": 13,
+      "degrees": [
+        "Pursuing a dual Master/PhD in ONTOLOGY",
+        "Master\u2019s Degree in LIBRARY & INFORMATION SCIENCE/HEALTH SCIENCES",
+        "Bachelor's degree in Computer Science"
+      ],
+      "work_experience": [
+        {
+          "company": "Biologics by McKesson, Specialty Pharmacy",
+          "position": "Data Architect, Strategic Information Group (SIG)",
+          "duration": "2012-2022",
+          "responsibilities": [
+            "Supported expansion from 90 to 500+ employees.",
+            "Provided thought leadership on database modernization, optimization and utilization.",
+            "Oversaw migration from multiple source systems into one dispensing source system and integration to Snowflake as the Data Warehouse/Data Lake."
+          ]
+        },
+        {
+          "company": "PNC Bank/PNC Bank Mortgage",
+          "position": "Data Governance Risk Analyst",
+          "duration": "2010-2011",
+          "responsibilities": [
+            "Recruited for telecommuting assignments that encompassed mentoring database developers, bolstering security and identifying database/data mining opportunities to influence business decision-making.",
+            "Oversaw the risk assessment of Access databases\u2019 processes, resolved security risks and added permission-driven protocols for the mortgage business."
+          ]
+        },
+        {
+          "company": "United States Air Force",
+          "position": "Data Architect",
+          "duration": "2009-2010",
+          "responsibilities": [
+            "Collaborated with human resource professionals while developing stages and process flows to make database system more efficient and effective when recruiting, hiring, and onboarding service members into active-duty positions."
+          ]
+        },
+        {
+          "company": "Biologics by McKesson, Specialty Pharmacy",
+          "position": "Data Architect",
+          "duration": "2012-2022",
+          "responsibilities": [
+            "Worked on digital transformation strategy (pharmacy dispensing software) and developed the proprietary integration layer to import >500 patients\u2019 data daily form Salesforce, third party vendors, and other internal case management software.",
+            "Designed real-time model data warehouse structure, creating workflow process stages for reference data and metadata management to align the metadata and semantic mapping of events for clients to meet contractual reporting requirements effectively."
+          ]
+        }
+      ],
+      "tools": [
+        "Microsoft Access",
+        "VBA",
+        "ADO",
+        "Excel",
+        "SQL",
+        "SSIS",
+        "Informatica",
+        "Dell Boomi",
+        "MuleSoft",
+        "Toad",
+        "DBeaver",
+        "Visual Studio"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\JOHN+A.+STEINBECK+resume.docx"
+    },
+    {
+      "name": "John R. Choate",
+      "years_experience": 20,
+      "degrees": [
+        "Executive MBA",
+        "BS in Biology & Genetic Engineering"
+      ],
+      "certifications": [
+        "Certified Scrum Master (CSM)"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\JohnChoate_Resume.pdf"
+    },
+    {
+      "name": "Joshua Kadetz",
+      "years_experience": 20,
+      "degrees": [
+        "M.D. Doctor of Medicine, Ross University School of Medicine",
+        "Bachelor of Science: Biochemistry/Chemical Engineering, Northern Kentucky University"
+      ],
+      "certifications": [
+        "Crisis Prevention Intervention",
+        "Outbreak Disease Management",
+        "Epidemiological Investigation",
+        "Diagnosing Conditions",
+        "SAS expert proficiency",
+        "Board Certified in Emergency Medicine",
+        "Board Certified in Family Medicine",
+        "ATLS",
+        "PALS",
+        "ACLS",
+        "BLS",
+        "KY License"
+      ],
+      "affiliations": [
+        "American Medical Association",
+        "American College of Epidemiology",
+        "American Public Health Association",
+        "Association for Professionals in Infection Control and Epidemiology",
+        "American College of Emergency Physicians"
+      ],
+      "languages": [
+        "German (Novice)",
+        "Medical Spanish",
+        "French (Highly proficient)"
+      ],
+      "interests": [
+        "Avid long distance runner completing over five ultramarathons"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\JoshuaKadetz.pdf"
+    },
+    {
+      "name": "Epidemiology Researcher\",",
+      "file_path": "..\\data\\candidates\\gap_solutions\\JULAINEMKING.pdf"
+    },
+    {
+      "name": "Kimberly Blough",
+      "years_experience": 8,
+      "degrees": [
+        "M.P.H. Public Health",
+        "B.A. Public Health"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\KimberlyBlough.pdf"
+    },
+    {
+      "name": "Kishan Gangarama",
+      "years_experience": 2,
+      "degrees": [
+        "Masters of Science in Data Science, Stevens Institute of Technology (2024)",
+        "Bachelor of Engineering in Electronics and Communication, JSS Academy of Technical Education (2022)"
+      ],
+      "skills": [
+        "Python",
+        "R",
+        "MySQL",
+        "PostgreSQL",
+        "TSQL",
+        "SQL Server",
+        "Azure Synapse",
+        "Google BigQuery",
+        "Snowflake",
+        "Oracle",
+        "MS Access",
+        "EPIC (Chronicles, Clarity, Caboodle)",
+        "Pandas",
+        "NumPy",
+        "MatplotLib",
+        "SeaBorn",
+        "TensorFlow",
+        "Scikit-Learn",
+        "Alteryx",
+        "Azure Data Factory",
+        "Azure Databricks",
+        "Dataiku",
+        "Google Cloud Data Flow",
+        "PowerBI",
+        "Tableau",
+        "Adobe Analytics",
+        "Spotfire",
+        "Google Analytics",
+        "Qlik Sense",
+        "SAP Analytics",
+        "Looker"
+      ],
+      "tools": [
+        "Big Data Spark",
+        "Hive",
+        "Hadoop",
+        "Pig",
+        "MapReduce",
+        "Apache Kafka",
+        "Apache Airflow",
+        "Impala",
+        "Flume",
+        "Sqoop"
+      ],
+      "data_analytics_skills": [
+        "Data Cleaning",
+        "Data Visualization",
+        "Data Analysis",
+        "Data Extraction"
+      ],
+      "ml_techniques": [
+        "Clustering",
+        "KNN",
+        "Predictive Modeling",
+        "Deep Learning",
+        "Regression",
+        "Logistic Regression"
+      ],
+      "project_sdlc": [
+        "Project SDLC",
+        "Agile",
+        "Waterfall",
+        "Scrum",
+        "MS Project",
+        "JIRA",
+        "Smartsheet",
+        "Kanbanize",
+        "Trello",
+        "Monday.com"
+      ],
+      "operating_systems": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "other_analytics_tools": [
+        "SSIS",
+        "SSAS",
+        "SSRS",
+        "DAX",
+        "M",
+        "ServiceNow",
+        "SharePoint & Project Management Board"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\Kishan+Data+Analyst.pdf"
+    },
+    {
+      "name": "Kulsoom Abdullah",
+      "years_experience": 17,
+      "degrees": [
+        "PhD in Electrical & Computer Engineering",
+        "MS in Electrical Engineering",
+        "BS in Computer Engineering"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\Kulsoom Abdullah.pdf"
+    },
+    {
+      "name": "Kyle Mcgregor",
+      "years_experience": 11,
+      "degrees": [
+        "Master of Business Administration (University of Cambridge\u2014Judge Business School)",
+        "Postdoctoral Certificate (Yale University)",
+        "PHD (Indiana University)",
+        "MSW (University of Michigan)",
+        "MPP (Loyola University Chicago)"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\KYLEMCGREGOR.docx"
+    },
+    {
+      "name": "Leila Shinaishin",
+      "years_experience": 3,
+      "degrees": [
+        "B.S. in Neuroscience"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\LeilaShinaishin.pdf"
+    },
+    {
+      "education": [
+        {
+          "institution": "UNIVERSITY OF SAN FRANCISCO",
+          "degree": "Bachelor of Science in Organizational Behavior (2001) ~ Honors"
+        },
+        {
+          "institution": "SANFRANCISCOCITYCOLLEGE",
+          "degree": "Associate of Arts in Business Administration (1993)"
+        }
+      ],
+      "certifications": [
+        {
+          "credential": "Project Management Professional (PMP)",
+          "status": "Active-2025"
+        },
+        {
+          "credential": "ScrumMaster/Agile",
+          "status": "Certification underway"
+        },
+        {
+          "credential": "Telecommunication Trends Certified",
+          "status": ""
+        }
+      ],
+      "professional affiliations": [
+        {
+          "affiliation": "Member, Project Management Institute (PMI)",
+          "status": "7/2005-10/2029 (PMP certified)"
+        }
+      ],
+      "work experience": [
+        {
+          "company": "AT&T/SBC/PACIFICBELL",
+          "position": "Executive CFO Assistant (1991-2000); Data Administrator (1987-1988); Director Assistant (1989-1990); Operator Assistant (1981-1986)"
+        },
+        {
+          "company": "ITIL",
+          "position": ""
+        }
+      ],
+      "software and network protocols": [
+        {
+          "protocol": "Cloud Computing/Virtualized environments/Big Data (ETL, clusters, etc.)"
+        },
+        {
+          "protocol": "Hive/MS Project/MS Office365 Professional Suite (2020), GSuite, PowerBI, PowerAutomate, Project for the Web/Project Online, Visio, Exchange, C Technologies (Rally)"
+        },
+        {
+          "protocol": "Nortel Desktop Applications, Oracle, Linux, Avaya, Cisco, McAfee"
+        }
+      ],
+      "hardware": [
+        {
+          "equipment": "ISDN/DSL, Optical Network, SONET, PBX Systems, Fiber Optic Products, Engineering for SONET/OPTI-Mon/GigaMAN, Transport/Switches (Cisco, FM150, MQ1/2/3, DACs, DAS)"
+        }
+      ],
+      "other": [
+        {
+          "technology": "CA/Rally/Confluence/Primavera/Sharepoint/Salesforce/AWS/SSL/HTTP/SaaS/IaaS"
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\LindaE.Solorzano_HealthcareITPMO_StanfordHC_SFcityHC_SonyHPKPATTPGEMonster_PMP_SFCA.pdf"
+    },
+    {
+      "name": "Mark Mitsules",
+      "years_experience": 3,
+      "degrees": [],
+      "file_path": "..\\data\\candidates\\gap_solutions\\Mark Mitsules.docx"
+    },
+    {
+      "name": "Matthew A. Feinberg",
+      "years_experience": 26,
+      "degrees": [
+        "Master's in Chemistry",
+        "Bachelor of Science in Chemistry"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\Matthew A. Feinberg.pdf"
+    },
+    {
+      "name": "Matt Leard",
+      "years_experience": 20,
+      "degrees": [
+        "Master of Science: Intelligence Management (2021-Present)",
+        "Bachelor of Science: Homeland Security and Minor: Intelligence Studies (2017)",
+        "Graduate Certification: Intelligence Studies (2017)"
+      ],
+      "awards_decorations": [
+        "Army Commendation Medal (5 Awards)",
+        "Army Achievement Medal (3 Awards)",
+        "North Atlantic Treaty Organization (NATO) Medal",
+        "Afghanistan Campaign Medal (Campaign Star)",
+        "Iraq Campaign Medal (Two Phases)",
+        "Global War on Terrorism (Service Medal)",
+        "Global War on Terrorism Expeditionary Medal",
+        "Non-Commissioned Officer Professional Development Medal",
+        "Army Good Conduct Medal (3 Awards)",
+        "IMPACT Award (BAE Systems \u2013 2 Awards)"
+      ],
+      "education_training": [
+        {
+          "institution": "University of Maryland, College Park, MD",
+          "program": "Master of Science: Intelligence Management",
+          "status": "2021-Present"
+        },
+        {
+          "institution": "American Military University, Manassas, VA",
+          "program": "Bachelor of Science: Homeland Security and Minor: Intelligence Studies",
+          "status": "2017"
+        },
+        {
+          "institution": "American Military University, Manassas, VA",
+          "program": "Graduate Certification: Intelligence Studies",
+          "status": "2017"
+        },
+        {
+          "institution": "Joint Counterintelligence Training Academy, Quantico, VA",
+          "program": [
+            "Countersurveillance/Surveillance Detection Course",
+            "Advanced Counterintelligence Collection Course",
+            "Counterintelligence Special Agent Course",
+            "Joint Source Validation Course"
+          ],
+          "status": "2014"
+        },
+        {
+          "institution": "The 101st Airborne Division Non-Commissioned Officer Course, Fort Campbell, KY",
+          "program": "Commandant's List \u2013 Honor Graduate",
+          "status": "2013"
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\MATT_LEARD.docx"
+    },
+    {
+      "file_path": "..\\data\\candidates\\gap_solutions\\MD_JeffFoti_ARPA-H.pdf"
+    },
+    {
+      "education": [
+        {
+          "name": "MS - Marine Corps University",
+          "description": "Command & Staff College"
+        },
+        {
+          "name": "BA - Bethany College",
+          "description": ""
+        }
+      ],
+      "certification": [
+        {
+          "name": "Certified Project Management- PMI ",
+          "description": ""
+        },
+        {
+          "name": "Professional with ITIL Certification Quantum",
+          "description": ""
+        },
+        {
+          "name": "Certified COTR. DC Certificate Course",
+          "description": ""
+        }
+      ],
+      "professional_courses": [
+        {
+          "name": "Doing Business with the Federal Government Part 1 (Certification)",
+          "description": ""
+        },
+        {
+          "name": "Leadership Principles",
+          "description": ""
+        },
+        {
+          "name": "Project Management",
+          "description": ""
+        },
+        {
+          "name": "Contract Pricing Accurate Project Estimating",
+          "description": ""
+        },
+        {
+          "name": "Plainview",
+          "description": ""
+        },
+        {
+          "name": "Certified Business Analysis Professional Course (Exam Not Taken)",
+          "description": ""
+        },
+        {
+          "name": "Optimizing Microsoft Project for Earned Value Management",
+          "description": ""
+        },
+        {
+          "name": "Remedy Training (BMC)",
+          "description": ""
+        },
+        {
+          "name": "International Computer Negotiations (ICN) 3 Class",
+          "description": ""
+        },
+        {
+          "name": "Software Procurement",
+          "description": ""
+        },
+        {
+          "name": "Hardware Procurement",
+          "description": ""
+        },
+        {
+          "name": "Total Vendor Management Course",
+          "description": ""
+        }
+      ],
+      "experience": [
+        {
+          "title": "Project Analysis/Project Manager Y2K",
+          "company": "",
+          "dates": "1998-2000",
+          "description": "Responsible for multiple Public Safety agencies Y2K initiative including the Emergency Management department, Fire Department, and other mission critical departments."
+        },
+        {
+          "title": "United States Marine Corps, Major (USMCR Retired)",
+          "company": "",
+          "dates": "1972 \u2013 1995",
+          "description": "Served the United States Marine Corps in several leadership capacities over a twenty-year period. "
+        }
+      ],
+      "achievements": [
+        {
+          "title": "Organized and implemented a core Inter-agency Y2K Program.",
+          "company": "",
+          "dates": "",
+          "description": ""
+        },
+        {
+          "title": "Provided Y2K audit and oversight liaison between Government Accounting Offices\u2019 (GAO) Y2K Auditors and District.",
+          "company": "",
+          "dates": "",
+          "description": ""
+        }
+      ],
+      "awards": [
+        {
+          "name": "Received my best active duty fitness report, statement in section C \u201cthis Officer has accomplished more than any other two officers previously sent as Liaison to this exercise\u201d.",
+          "company": "",
+          "dates": "",
+          "description": ""
+        }
+      ],
+      "projects": [
+        {
+          "title": "Remedy ITSM Suite Implementation",
+          "company": "",
+          "dates": "",
+          "description": "Coordinated the implementation, integration, and upgrade of the Remedy ITSM suite on an enterprise platform to support agency and district customers."
+        },
+        {
+          "title": "Business Service Management (BSM) tool implementation",
+          "company": "",
+          "dates": "",
+          "description": ""
+        }
+      ],
+      "publications": [
+        {
+          "name": "",
+          "company": "",
+          "dates": "",
+          "description": ""
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\Mecca_Carl_Resume.docx"
+    },
+    {
+      "education": [
+        {
+          "institution": "University of Arizona",
+          "degree": "B.S.",
+          "major": "Entrepreneurship & Business Administration"
+        }
+      ],
+      "certifications": [
+        {
+          "organization": "Project Management Institute",
+          "title": "Project Management Professional (PMP)",
+          "year": null
+        },
+        {
+          "organization": "Prosci",
+          "title": "Certified Change Management Professional (CCMP)",
+          "year": null
+        },
+        {
+          "organization": "ISACA",
+          "title": "Certified Information Security Manager (CISM)",
+          "year": null
+        }
+      ],
+      "professional_development": [
+        {
+          "topic": "Archer IRM - A&A, Policy, SecOps, System Architect",
+          "year": 2019
+        },
+        {
+          "topic": "ICA - Group Facilitation Methods",
+          "year": 2015
+        },
+        {
+          "topic": "SharePoint Management Training",
+          "year": 2014
+        },
+        {
+          "topic": "Advanced Microsoft Project Training",
+          "year": 2011
+        },
+        {
+          "topic": "Carrol-Keller Group - Time Management Training",
+          "year": 2008
+        }
+      ],
+      "work_experience": [
+        {
+          "company": "WGM Associates LLC",
+          "position": "Information Security Consultant",
+          "duration": "09/2013 - 01/2014"
+        },
+        {
+          "company": "CNA National",
+          "position": "Senior IT Project Manager",
+          "duration": "12/2012 - 04/2013"
+        },
+        {
+          "company": "Northrop Grumman Corp.",
+          "position": "Senior Program Planner",
+          "duration": "03/2006 - 11/2012"
+        }
+      ],
+      "projects": [
+        {
+          "project_name": null,
+          "description": null
+        },
+        {
+          "project_name": null,
+          "description": null
+        },
+        {
+          "project_name": null,
+          "description": null
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\MichaelStaub_CISMPMPCCMP_IRMGRC_PubTrust_MD.pdf"
+    },
+    {
+      "name": "Martin L. Nolan",
+      "title": "Epidemiologist and Research Scientist",
+      "affiliation": "New York City Department of Health and Mental Hygiene",
+      "education": [
+        {
+          "degree": "PhD",
+          "field_of_study": "Epidemiology",
+          "institutions": "Columbia University"
+        },
+        {
+          "degree": "MPH",
+          "field_of_study": "Epidemiology",
+          "institutions": "Columbia University"
+        }
+      ],
+      "research_interests": [
+        "Substance use epidemiology",
+        "Infectious disease epidemiology",
+        "Public health surveillance",
+        "Scientific communication",
+        "Observational data analysis",
+        "Machine learning"
+      ],
+      "publications": [
+        {
+          "title": "Nowcasting Drug Overdose Deaths in New York City Using Emergency Department Syndromic Surveillance Data and Machine Learning Methods.",
+          "year": "2022",
+          "type": "Seminar Series"
+        },
+        {
+          "title": "Drug overdose deaths in New York City during 2020.",
+          "year": "2022",
+          "type": "Seminar"
+        }
+      ],
+      "awards": [
+        {
+          "name": "Distinguished Service Award",
+          "year": "2020",
+          "issuer": "New York City Department of Health and Mental Hygiene"
+        },
+        {
+          "name": "First Place, Columbia Healthcare Case Competition",
+          "year": "2011",
+          "issuer": "Columbia University"
+        }
+      ],
+      "grants": [
+        {
+          "title": "Strategies To Operationalize the Prevention of Overdose Deaths (STOP OD)",
+          "amount": "$7,078,074",
+          "duration": "September 2019 \u2013 August 2022",
+          "issuer": "CDC"
+        }
+      ],
+      "skills": [
+        {
+          "name": "R programming language",
+          "level": "Proficient"
+        },
+        {
+          "name": "SAS programming language",
+          "level": "Proficient"
+        },
+        {
+          "name": "Python programming language",
+          "level": "Intermediate"
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\Michelle Nolan.pdf"
+    },
+    {
+      "file_path": "..\\data\\candidates\\gap_solutions\\NAHYUNLEE.pdf",
+      "error": "Could not extract text from file: ..\\data\\candidates\\gap_solutions\\NAHYUNLEE.pdf"
+    },
+    {
+      "name": "Natalie Williams",
+      "years_experience": 13,
+      "degrees": [],
+      "file_path": "..\\data\\candidates\\gap_solutions\\NATALIEWILLIAMS.pdf"
+    },
+    {
+      "name": "Neftali Rosado Bermudez",
+      "years_experience": 9,
+      "degrees": [
+        "Master of Science: Information Technology",
+        "Bachelor of Arts: Behavioral Biology"
+      ],
+      "skills": [
+        "Certified Scrum Master, Business Intelligence and Data Analyst (BIDA)",
+        "Advanced Excel, Microsoft Suite, Tableau, Power Query, Power BI, Jira, Azure",
+        "HTML, CSS, JS, C#, Java, Python, R, SQL, PostgreSQL, SQL Server Management Studio, Oracle"
+      ],
+      "languages": [
+        "English and Spanish (bilingual)"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\Neftali Rosado Bermudez.pdf"
+    },
+    {
+      "name": "Senior Data Scientist",
+      "experience": [
+        {
+          "title": "Senior Staff Fellow",
+          "duration": "September 2017 - August 2019",
+          "description": [
+            {
+              "project": "510(k) TIMELINE PREDICTOR",
+              "outcome": "Improved predictive accuracy of regulatory project timelines by 45%"
+            },
+            {
+              "project": "NETWORK JUMPSTART",
+              "outcome": "Streamlined regulatory review, reducing precedent mapping from hours to seconds"
+            },
+            {
+              "project": "SIMPLIFY",
+              "outcome": "Integrated real-time enterprise data and automated stakeholder reports, cutting reporting time by 90%"
+            }
+          ]
+        },
+        {
+          "title": "Senior Data Scientist",
+          "duration": "January 2016 - September 2017",
+          "description": [
+            {
+              "project": "JURKAT SCRAPER",
+              "outcome": "Saved thousands in maintenance costs by enabling early issue detection"
+            },
+            {
+              "project": "Oncology Data Project",
+              "outcome": "Discovered mechanisms of action for 5 clinically relevant anti-cancer drugs"
+            }
+          ]
+        },
+        {
+          "title": "Charles King Trust Fellow",
+          "duration": "September 2013-December 2015",
+          "description": [
+            {
+              "project": "Statistical Analysis Pipeline",
+              "outcome": "Reduced analysis time by 30%"
+            },
+            {
+              "project": "Inventory Database Modernization",
+              "outcome": "Enabled fast retrieval of over 1,000 critical assets and streamlined lab operations"
+            }
+          ]
+        }
+      ],
+      "education": [
+        {
+          "institution": "Georgia Institute of Technology",
+          "degree": "Master of Science (MS) in Analytics",
+          "duration": "May 2021"
+        },
+        {
+          "institution": "University College London (UCL)",
+          "degree": "Doctor of Philosophy (Ph.D.) in Biochemistry and Molecular Biology",
+          "duration": "February 2010"
+        },
+        {
+          "institution": "Middle East Technical University (METU)",
+          "degree": "Bachelor of Science (BSc) in Molecular Biology and Genetics",
+          "duration": "June 2006"
+        }
+      ],
+      "awards": [
+        {
+          "award": "AI for Regulatory Review Award, FDA",
+          "year": "2024"
+        },
+        {
+          "award": "FDA Incentive Award",
+          "year": "2024"
+        },
+        {
+          "award": "FDA Honor Award",
+          "year": "2021"
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\Ozan Aygun.pdf"
+    },
+    {
+      "name": "Pamela Epperson",
+      "years_experience": 25,
+      "degrees": [
+        "Ph.D. Neurophysiology of Behavior, Meharry Medical College, Nashville, TN",
+        "Bachelor of Science, Biology, Virginia Union University, Richmond, VA"
+      ],
+      "skills": [
+        "Client Presentation",
+        "Business Development",
+        "Implementation Plans",
+        "Strategic Programs",
+        "Project Governance",
+        "Program Evaluation",
+        "Program Management",
+        "Natural Language Processing",
+        "Generative AI",
+        "AI Trainer",
+        "Team Coordination",
+        "Stakeholder Management",
+        "Presentation Skills",
+        "Data Analysis",
+        "Collaboration Skills",
+        "Technical Writing",
+        "Project Management",
+        "People Management"
+      ],
+      "publications": [
+        {
+          "title": "Are Behavioral Effects of Early Experience Mediated by Oxytocin?",
+          "authors": [
+            "Karen L. Bales",
+            "Ericka Boone",
+            "Pamela Epperson",
+            "Gloria Hoffman",
+            "C. Sue Carter"
+          ],
+          "journal": "Front Psychiatry",
+          "year": 2011,
+          "doi": "10.3389/fpsyt.2011.00024"
+        },
+        {
+          "title": "Intraspecific variation in estrogen receptor alpha and the expression of male sociosexual behavior in two populations of prairie voles.",
+          "authors": [
+            "Cushing BS",
+            "Razzoli M",
+            "Murphy AZ",
+            "Epperson PM",
+            "Le WW",
+            "Hoffman GE"
+          ],
+          "journal": "Brain Res",
+          "year": 2004,
+          "doi": "10.1016/j.brainres.2004.05.010"
+        },
+        {
+          "title": "Neonatal manipulations of oxytocin alter expression of oxytocin and vasopressin immunoreactive cells in the paraventricular nucleus of the hypothalamus in a gender-specific manner.",
+          "authors": [
+            "Yamamoto Y",
+            "Cushing BS",
+            "Kramer KM",
+            "Epperson PD",
+            "Hoffman GE",
+            "Carter CS"
+          ],
+          "journal": "Neuroscience",
+          "year": 2004,
+          "doi": "10.1016/j.neuroscience.2004.02.028"
+        },
+        {
+          "title": "Combinations of variations in multiple genes are associated with hypertension.",
+          "authors": [
+            "Williams SM",
+            "Addy JH",
+            "Phillips JA 3rd",
+            "Dai M",
+            "Kpodonu J",
+            "Afful J",
+            "Jackson H",
+            "Joseph K",
+            "Eason F",
+            "Murray MM",
+            "Epperson P",
+            "Aduonum A",
+            "Wong LJ",
+            "Jose PA",
+            "Felder RA"
+          ],
+          "journal": "Hypertension",
+          "year": 2000,
+          "doi": "10.1161/01.hyp.36.1.2"
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\Pamela Epperson.docx"
+    },
+    {
+      "name": "LaTosha Wills",
+      "years_experience": 11,
+      "certifications": [
+        {
+          "name": "Project Management Professional (PMP)",
+          "date_range": [
+            "September 2019",
+            "September 2022"
+          ]
+        },
+        {
+          "name": "Personnel Security Certification",
+          "date_range": [
+            "January 2017",
+            "Present"
+          ]
+        }
+      ],
+      "positions": [
+        {
+          "title": "Senior Project Manager II (SPM)",
+          "company": "National Science Foundation (NSF)",
+          "location": "Alexandria, VA",
+          "dates": [
+            "October 2015",
+            "June 2024"
+          ],
+          "responsibilities": [
+            "Managing and overseeing the analytical work of the division such as forecasting workload, conducting long-term planning and management, and developing policy.",
+            "Supervising and managing a Program Support Team of 253 staff members engaged in the end to end business processing of scientific proposal funding.",
+            "Full range of managerial and supervisory functions including but not limited to:",
+            "- Participating in the recruitment and selection process;",
+            "- Coordinating and allocating workload for the program support team;",
+            "- Monitoring and tracking successful completion of work products;",
+            "- Identifying, projecting, and allocating resources required to provide administrative support.",
+            "Provide leadership over a government contract with budgets totaling over $2.4 million",
+            "Serve as liaison with the federal project officer (FPO) daily",
+            "Monitor and approve all budget expenditures",
+            "Provide updates and all communications with stakeholders/COR",
+            "Supervise and track timely completion of deliverables, lead and provide assistance to project managers and team leads",
+            "Provide monthly and special reports to the federal client as requested (quality assured deliverables)",
+            "Maintains substantive knowledge of all subject areas and activities affecting the performance of the project.",
+            "Develop and manage program budgets, ensuring efficient allocation of resources",
+            "Coordinate and collaborate with stakeholders to identify program goals and objectives",
+            "Create and implement program strategies, including grant writing and fundraising efforts",
+            "Collaborate with external partners to enhance program visibility and impact"
+          ]
+        },
+        {
+          "title": "Project Manager",
+          "company": "Dominion National",
+          "location": "Alexandria, VA",
+          "dates": [
+            "October 2013",
+            "October 2016"
+          ],
+          "responsibilities": [
+            "Managed over 55 employees processing medical and dental claims (electronic & paper claims) in accordance with the claims processing system and other department guidelines for Kaiser Permanente, Capital Blue Cross, UHC, BCD, Fed VIP, CHIP, Medicaid & Medicare.",
+            "Investigated and resolved claim concerns; reverse and reprocess claims as necessary.",
+            "Responded to specialized claims inquiries from patients, providers, stakeholders and leadership.",
+            "Determine liability as it relates to COB claims, disburse payments.",
+            "Ensure that appropriate follow-up to claims inquiries/requests is complete and timely.",
+            "Maintains current knowledge of Claims policies and procedures.",
+            "Performed ICD-9 & CPT coding used daily.",
+            "Supervised day to day performance and activity for Member Services team.",
+            "Provide insight to stakeholders, ensuring deliverables are met.",
+            "Conducted team meetings to communicate updates and short trainings to agents.",
+            "Responsible for coaching and counseling agent performance; develop performance action plans; deliver formal disciplinary actions.",
+            "Quality Assured all deliverables (weekly, monthly, quarterly, yearly).",
+            "Monitored and maintained records on each agent related to attendance, call stats, quality scores and overall performance."
+          ]
+        },
+        {
+          "title": "Client Care Manager",
+          "company": "Southern Maryland Cooperative",
+          "location": "Hughesville, MD",
+          "dates": [
+            "March 2008",
+            "September 2013"
+          ],
+          "responsibilities": [
+            "Handled customer complaints, questions, inbound calls, and billing inquires with the highest degree of courtesy and professionalism to resolve customer issues",
+            "Assisted in training new employees",
+            "Supported and provided superior service via phone",
+            "Ensured representatives were in adherence to rules and regulations of the call center",
+            "Monitored calls in queue to ensure they were answered in timely manner",
+            "Performed reviews and performance evaluations",
+            "Held weekly meetings to update staff on current events and trends, process work orders on WMIS",
+            "Started new services and stop existing services per customer request",
+            "Provided assistance to collections department and processed payments",
+            "Set schedules and kept accord/approval of time sheets and leave slips",
+            "Prepared Service Profitability Report (deliverable) for weekly and monthly distribution"
+          ]
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\PATIO - Basic Project Manager (ANH) - LaTosha Wills.pdf"
+    },
+    {
+      "name": "Cristina",
+      "positions": [
+        {
+          "company": "GENEDX",
+          "title": "Analysis Lead, Copy Number Variation (CNV)",
+          "duration": "2014-2018"
+        },
+        {
+          "company": "GENEDX",
+          "title": "Senior Molecular Genetics Analyst, Microarray",
+          "duration": "2014"
+        },
+        {
+          "company": "GENEDX",
+          "title": "Molecular Genetics Analyst, Microarray",
+          "duration": "2013-2014"
+        },
+        {
+          "company": "GENEDX",
+          "title": "Molecular Genetics Technologist, Microarray",
+          "duration": "2012-2013"
+        },
+        {
+          "company": "GAP Solutions",
+          "title": "Analysis Lead, Copy Number Variation (CNV)",
+          "duration": "2014-2018"
+        },
+        {
+          "company": "GENEDX",
+          "title": "Senior Molecular Genetics Analyst, Microarray",
+          "duration": "2014"
+        },
+        {
+          "company": "GAP Solutions",
+          "title": "Analysis Lead, Copy Number Variation (CNV)",
+          "duration": "2014-2018"
+        },
+        {
+          "company": "GENEDX",
+          "title": "Molecular Genetics Analyst, Microarray",
+          "duration": "2013-2014"
+        },
+        {
+          "company": "GAP Solutions",
+          "title": "Analysis Lead, Copy Number Variation (CNV)",
+          "duration": "2014-2018"
+        },
+        {
+          "company": "GENEDX",
+          "title": "Molecular Genetics Technologist, Microarray",
+          "duration": "2012-2013"
+        }
+      ],
+      "technical_skills": [
+        "Microsoft Office Suite",
+        "Microsoft Teams",
+        "Microsoft SharePoint",
+        "Google Suite",
+        "Zoom",
+        "Smartsheet",
+        "Confluence",
+        "Slack",
+        "Lucidchart",
+        "Visio",
+        "Miro",
+        "LIMS"
+      ],
+      "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "Portuguese"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\PATIO - Intermediate Program Analyst - Cristina Rios.pdf"
+    },
+    {
+      "name": "Madji Lodoumgoto",
+      "years_experience": 3,
+      "degrees": [
+        "B.S. in Translational Life Science Technology"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\PATIO - Intermediate Program Analyst - Madji Lodoumgoto.pdf"
+    },
+    {
+      "name": "Shaji D\",\"title",
+      "file_path": "..\\data\\candidates\\gap_solutions\\PATIO - Intermediate Scientist_Patient_Engagement_Design - Shaji Daniel.pdf"
+    },
+    {
+      "name": "Yuri Piterskii",
+      "years_experience": 12,
+      "degrees": [],
+      "file_path": "..\\data\\candidates\\gap_solutions\\PXD - Advanced Financial Analyst - Yuri Piterskii.pdf"
+    },
+    {
+      "experience": [
+        {
+          "title": "Executive Assistant",
+          "company": "Georgetown University Law Center",
+          "location": "Washington, DC",
+          "dates": "December 2017-March 2018"
+        },
+        {
+          "title": "Administrative Officer",
+          "company": "Georgetown University Department of Family Medicine",
+          "location": "Washington, DC",
+          "dates": "November 2016-September 2017"
+        },
+        {
+          "title": "Fellowship Manager",
+          "company": "University of Wisconsin-Madison Department of Family Medicine",
+          "location": "Madison, WI",
+          "dates": "January 2015-August 2016"
+        }
+      ],
+      "education": [],
+      "skills": [
+        {
+          "name": "Proficient in Microsoft Suite, Google Workspace, Concur, Adobe Acrobat Pro, Peoplesoft, WebEx and Zoom, iCims, Airtable, Asana",
+          "description": ""
+        },
+        {
+          "name": "Project/program management, C-Suite support, Client-facing, Grant writing, Board management, Financial/budget management, Business operations",
+          "description": ""
+        }
+      ],
+      "awards": [
+        {
+          "title": "SPOT Award-Commended for steadfast support of the Total Rewards billing process for benefits vendors; Pew-July 2021"
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\PXD - Basic Executive Assistant - Ariel Ausmer.pdf"
+    },
+    {
+      "name": "Caprice Washington",
+      "years_experience": 5,
+      "degrees": [
+        "Masters in Industrial Organizational Psychology"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\PXD - Basic Executive Assistant - Caprice Washington.pdf"
+    },
+    {
+      "name": "Jacqueline Griswold",
+      "years_experience": 8,
+      "degrees": [
+        "Master's Degree in Business Administration"
+      ],
+      "work_history": [
+        {
+          "title": "Inside Liability Analyst and Claims Quality Reviewer, Allstate Insurance Company",
+          "duration": "January. 2019 - February. 2022"
+        },
+        {
+          "title": "Human Resources Representative, Six Flags of America",
+          "duration": "April. 2018 - July. 2019"
+        },
+        {
+          "title": "Store Manager, Hollister",
+          "duration": "April. 2017 - March. 2018"
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\PXD - Basic Human Resource Specialist - Jacqueline Griswold.pdf"
+    },
+    {
+      "name": "Elsie Conteh",
+      "years_experience": 11,
+      "degrees": [
+        "MBA",
+        "B.A., Business Marketing"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\PXD - Basic Onboarding Specialist - Elsie Conteh.pdf"
+    },
+    {
+      "name": "John Doe",
+      "title": "Human Resources Specialist",
+      "experience": [
+        {
+          "company": "GAP Solutions, Inc.",
+          "position": "Human Resources Specialist",
+          "duration": "2022-2023"
+        },
+        {
+          "company": "Avant Garde LLC",
+          "position": "Federal Employee Relations Specialist",
+          "duration": "2019-2020"
+        },
+        {
+          "company": "Department of Navy",
+          "position": "Human Resource Specialist",
+          "duration": "2018-2019"
+        }
+      ],
+      "education": [
+        {
+          "institution": "University of XYZ",
+          "degree": "Bachelor's Degree",
+          "field": "Human Resources"
+        }
+      ],
+      "skills": [
+        "Recruitment",
+        "Employee Relations",
+        "Performance Management",
+        "Benefits Administration",
+        "HRIS Systems"
+      ],
+      "awards": [
+        {
+          "name": "Civilian Service Achievement Medal",
+          "year": "2021"
+        },
+        {
+          "name": "Certified Project Officer",
+          "year": "2021"
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\PXD - Basic Onboarding Specialist - Kameika Jones.pdf"
+    },
+    {
+      "name": "Olakunbi Kekere-Ekun",
+      "years_experience": 13,
+      "degrees": [
+        "Bachelor of Arts Human Resources Communication"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\PXD - Basic Onboarding Specialist - Olakunbi Kekere-Ekun.pdf"
+    },
+    {
+      "Summary": null,
+      "Work Experience": [
+        {
+          "Company": "OneMain Financial (Citi Group)",
+          "Job Title": "Senior Branch Account Executive",
+          "Duration": "2012 - 2014"
+        },
+        {
+          "Company": "Citi Group",
+          "Job Title": "Account Manager- Collector 1",
+          "Duration": "2009 to 2012"
+        },
+        {
+          "Company": "Lens Crafter",
+          "Job Title": "Eyewear Consultant",
+          "Duration": "2006 to 2008"
+        }
+      ],
+      "Education": null,
+      "Skills": [
+        {
+          "Category": "Operating Systems",
+          "Tools": [
+            "Windows/ XP/ Vista",
+            "Symphony",
+            "NetSuite",
+            "Adobe Captivate",
+            "Camtasia",
+            "ADP"
+          ]
+        },
+        {
+          "Category": "Devices",
+          "Tools": [
+            "Verifone",
+            "Equinox",
+            "Ingenico"
+          ]
+        },
+        {
+          "Category": "Tools/CRM",
+          "Tools": [
+            "O365 Dynamics",
+            "SharePoint Online",
+            "MS PowerBi",
+            "MS Planner",
+            "MS Teams",
+            "MS Groups",
+            "WebEx",
+            "Zoom",
+            "MS Project"
+          ]
+        },
+        {
+          "Category": "Administrative",
+          "Tools": [
+            "MS Project Word",
+            "Excel",
+            "Outlook",
+            "PowerPoint",
+            "Visio",
+            "Project",
+            "Adobe Acrobat",
+            "Adobe Encoder",
+            "Learning Management System (LMS)"
+          ]
+        }
+      ],
+      "Certification": {
+        "Category": "Foundations in Design Thinking"
+      },
+      "Achievements": [
+        {
+          "Company": "OneMain Financial (Citi Group)",
+          "Award": "Certificate of Services for loaning over $100k to OneMain Financial clientele nine of the past twelve months",
+          "Duration": null
+        },
+        {
+          "Company": "OneMain Financial (Citi Group)",
+          "Award": "Reached the $200k threshold in loaning company products to clients",
+          "Duration": null
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\PXD - Basic Training Coordinator - Christal Hale.pdf"
+    },
+    {
+      "name": "Andrea Benn",
+      "years_experience": 11,
+      "degrees": [
+        "Master of Arts- Organizational Communications",
+        "Bachelor of Arts- Mass Communications"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\PXD - Intermediate  Human Resource Specialist - Andrea Benn.pdf"
+    },
+    {
+      "name": "Soraya Schwartz",
+      "years_experience": 11,
+      "degrees": [
+        "B.A. in Mass Communication",
+        "Professional Certificate in Event Management"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\PXD - Intermediate Conference_Events Planner - Soraya Schwartz.pdf"
+    },
+    {
+      "name": "Hewan Teklu",
+      "years_experience": 7,
+      "degrees": [
+        "Master of Science, Cybersecurity, Marymount University May 2020",
+        "Master of Business Administration, Human Resource Management, Liberty University May 2017",
+        "Bachelor of Science, Business Administration \u2013 HR Management & International Business, Liberty University May 2015"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\PXD - Intermediate Human Resource Specialist - Hewan Teklu.pdf"
+    },
+    {
+      "name": "Imari L. Gillispie",
+      "years_experience": 8,
+      "degrees": [
+        "Master's Degree in Human Resource Management"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\PXD Advanced Human Resources Specialist - Imari Gillispie.pdf"
+    },
+    {
+      "name": "Laquisha Robertson",
+      "years_experience": 4,
+      "degrees": [
+        "Master of Healthcare Administration"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\PXD- Basic Human Resource Specialist - Laquisha Robertson.pdf"
+    },
+    {
+      "name": "Raed M. Salih",
+      "years_experience": 20,
+      "degrees": [
+        "Ph.D. Computer Science (2018)",
+        "Masters of Science, Data Security (2002)",
+        "Bachelor of Science, Physics (1996)"
+      ],
+      "technical_skills": [
+        "Software Programming",
+        "Security"
+      ],
+      "software_proficiency": [
+        "Microsoft 365",
+        "Azure Active Directory",
+        "Java",
+        "Python",
+        "MATLAB",
+        "SAS",
+        "VB.Net",
+        "Nessus",
+        "Nmap",
+        "OpenVAS"
+      ],
+      "operating_systems": [
+        "Windows 10",
+        "Windows Server 2016",
+        "Linux"
+      ],
+      "product_lifecycle_management": [
+        "PTC Windchill/ MOVE WM"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\RAED M. SALIH.pdf"
+    },
+    {
+      "name": "Raed Salih",
+      "years_experience": 8,
+      "degrees": [
+        "Ph.D. Computer Science",
+        "Masters of Science, Data Security",
+        "Bachelor of Science, Physics"
+      ],
+      "technical_skills": [
+        "Microsoft 365",
+        "Azure Active Directory",
+        "Java",
+        "Python (NumPy, Pandas)",
+        "MATLAB",
+        "SAS",
+        "VB.Net",
+        "SQL",
+        "Windows 10",
+        "Windows Server 2016",
+        "Linux",
+        "PTC Windchill/ MOVE WMS"
+      ],
+      "awards": [
+        "Special Research Recognition award",
+        "Doctoral Graduate Honor Roll award",
+        "Grateful Recognition award",
+        "Doctoral Excellence in Research award"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\Raed Salih.pdf"
+    },
+    {
+      "name": "John Doe\",",
+      "file_path": "..\\data\\candidates\\gap_solutions\\ResumeGlennSCanty21FEB.pdf"
+    },
+    {
+      "name": "Samuel Chapman",
+      "years_experience": 15,
+      "degrees": [],
+      "file_path": "..\\data\\candidates\\gap_solutions\\Samuel Chapman.docx"
+    },
+    {
+      "name": "Joanne St Fleur",
+      "email": "joannestfleurj@gmail.com",
+      "mobile": "571-469-2150",
+      "experience": [
+        {
+          "title": "Assistant Project Manager",
+          "company": "Hebrew Quality Construction, Inc.",
+          "location": "Salisbury, Maryland",
+          "dates": "January 2006 - December 2010"
+        },
+        {
+          "title": "Account Manager",
+          "company": "Sallie Mae/United States Department of Education",
+          "location": "Newark, Delaware",
+          "dates": "Jan 2011 - August 2011"
+        },
+        {
+          "title": "Graduate Internship",
+          "company": "Proxtronics Inc/United States Department of Energy",
+          "location": "Washington, DC",
+          "dates": "August 2011 - November 2011"
+        }
+      ],
+      "education": [
+        {
+          "title": "CON 091 - Contract Fundamentals",
+          "company": "Defense Acquisition University"
+        },
+        {
+          "title": "CON 121 - Contract Planning",
+          "company": "Defense Acquisition University"
+        },
+        {
+          "title": "CON 100 - Shaping Smart Business Arrangements",
+          "company": "Defense Acquisition University"
+        },
+        {
+          "title": "CON 124 - Contract Execution",
+          "company": "Defense Acquisition University"
+        }
+      ],
+      "skills": [
+        {
+          "title": "Contract Management",
+          "description": "Support interdisciplinary functional acquisition teams."
+        },
+        {
+          "title": "Pre-award and Award Documentation",
+          "description": "Assist in preparing pre-award and award documentation for acquisitions, with an emphasis on service contracting."
+        },
+        {
+          "title": "Source Selections",
+          "description": "Assist in source selections and drafting source selection documents;"
+        },
+        {
+          "title": "Contract Management Support",
+          "description": "Provide contract management support."
+        }
+      ],
+      "achievements": [
+        {
+          "title": "Increased Cash Collections",
+          "description": "Managed a portfolio of $30 million and increased cash collections 30-40% monthly of potential default account"
+        },
+        {
+          "title": "Recognized New/Emerging Patterns",
+          "description": "Recognized new/emerging patterns and responded with appropriate investigative techniques based on a wide range of research skills."
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\SRBFMWLCResumeJoanneStFleur.pdf"
+    },
+    {
+      "name": "Ling Liu",
+      "years_experience": 18,
+      "degrees": [
+        "MBA - America Public University System, West Virginia",
+        "CPA candidate",
+        "Completed accounting master level classes - George Mason, Virginia",
+        "BS - Computer Information Systems with a minor in Business - Missouri State University, Springfield, MO"
+      ],
+      "certifications": [
+        "PMI - PMP",
+        "ITIL 4",
+        "Six Sigma Training Certification"
+      ],
+      "computer_skills": [
+        "MS Project",
+        "Smartsheet",
+        "Visio",
+        "Power BI",
+        "WPT",
+        "SAP",
+        "WIMS",
+        "OPPM",
+        "Hyperion",
+        "P6",
+        "AS8",
+        "Yardi",
+        "on-base",
+        "Pivot table and VLookup",
+        "Microsoft Dynamics",
+        "Microsoft Access",
+        "Powerpoint",
+        "Sharepoint",
+        "MAS 90",
+        "CostPoint",
+        "MAS 200",
+        "Mcloed",
+        "QuickBooks",
+        "Deltek",
+        "Tableau"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\SRBFMWLCResumeLingLiu.pdf"
+    },
+    {
+      "name": "MaLinda Holmes",
+      "years_experience": 16,
+      "degrees": [
+        "Bachelor of Science in Accounting"
+      ],
+      "work_experience": [
+        {
+          "title": "Budget Analyst",
+          "company": "Alaka'ina Foundation - Fort Meade, MD",
+          "dates": "October 2022 to Present"
+        },
+        {
+          "title": "Budget Analyst",
+          "company": "Alaka`ina Foundation Family of Companies - Fort Meade, MD",
+          "dates": "September 2019 to October 2022"
+        },
+        {
+          "title": "Budget Analyst",
+          "company": "UIC Bowhead Family of Companies - Aberdeen, MD",
+          "dates": "February 2014 to December 2016"
+        },
+        {
+          "title": "Budget Analyst III",
+          "company": "JPEO-CBD Headquarters - Edgewood, MD",
+          "dates": "September 2013 to November 2013"
+        },
+        {
+          "title": "Government Accounting Analyst",
+          "company": "Lockheed Martin - Fort Meade, MD",
+          "dates": "May 2012 to January 2013"
+        },
+        {
+          "title": "Management Analyst",
+          "company": "Alutiiq - Chesapeake, VA",
+          "dates": "November 2008 to March 2010"
+        }
+      ],
+      "skills": [
+        "MS Excel, MS Word, PowerPoint (10+ years)",
+        "Costpoint (10+ years)",
+        "Cognos (8 years)",
+        "Deltek (10+ years)",
+        "Forecasting (10+ years)",
+        "Budget Management (10+ years)",
+        "Oracle (4 years)",
+        "Financial Analysis (10+ years)",
+        "Microsoft SharePoint (10+ years)",
+        "DoD Experience",
+        "Account Reconciliation (10+ years)",
+        "Financial Management (10+ years)",
+        "Accounting (10+ years)",
+        "Contract Management (10+ years)",
+        "Process Improvement (10+ years)",
+        "Market Research (5 years)",
+        "Accounts Receivable",
+        "Financial Acumen (10+ years)",
+        "Financial Report Writing (5 years)"
+      ],
+      "certifications": [
+        {
+          "title": "Secret Clearance",
+          "issuer": "DoD (Department of Defense)",
+          "dates": "January 2009 to May 2029"
+        },
+        {
+          "title": "Certified Investment Management Analyst",
+          "issuer": "",
+          "dates": ""
+        }
+      ],
+      "specialized_training": [
+        {
+          "title": "Federal Appropriations Law",
+          "issuer": "Graduate Studies USA Institute"
+        },
+        {
+          "title": "Fundamentals of Acquisition",
+          "issuer": "Defense Acquisition University (DAU)"
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\SRBFMWLCResumeMaLindaHolmes.pdf"
+    },
+    {
+      "name": "Business Analyst",
+      "experience": [
+        {
+          "company": "BAE",
+          "position": "IMS & AFSP Systems Engineer Lead - Transportation Security Administration (TSA)-Oasis",
+          "dates": "Nov 2010 - Dec 2012",
+          "responsibilities": [
+            "Managed a team of 2 business analysts for IMS (Investigation Management System) and AFSP (Alien Flight Student Program)",
+            "Oversaw and delegated work to 2 business analysts that resulted in an increase in work productivity, improved processes, and exceeding client expectations"
+          ]
+        },
+        {
+          "company": "Transportation Security Administration (TSA)-Secure Flight Deployment Team",
+          "position": "Operations Support Analyst",
+          "dates": "Jan 2010 - Nov 2010",
+          "responsibilities": [
+            "Managed the operations portion of the Secure Flight (SF) deployment team.",
+            "Improved the processes of managing all TSA Personnel information and documents, and the processes of communication between TSA Personnel and stakeholders"
+          ]
+        },
+        {
+          "company": "Census Bureau-Decennial Response Integration System",
+          "position": "Business Analyst",
+          "dates": "Sept 2008 - Oct 2009",
+          "responsibilities": [
+            "Oversaw and improved the processes of the Coverage Follow Up (CFU) application and CFU telephony architecture"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "institution": "Howard University",
+          "degree": "MBA",
+          "dates": "May 2008"
+        },
+        {
+          "institution": "Auburn University",
+          "degree": "BS in Aviation Management",
+          "dates": "May 2003"
+        }
+      ],
+      "awards": [
+        {
+          "name": "BAE IMPACT Award: Certificate of Appreciation",
+          "date": "Sept 2016"
+        },
+        {
+          "name": "IBM Eminence and Excellence Recognition Award",
+          "date": "March 2012"
+        },
+        {
+          "name": "IBM Service Excellence Award",
+          "date": "June 2011"
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\SRBFMWLCResumeNatiaHarris.pdf"
+    },
+    {
+      "name": "Robert Garcia",
+      "years_experience": 13,
+      "degrees": [
+        "Bachelor of Science in Commerce and Business Administration",
+        "Masters of Accountancy"
+      ],
+      "certifications": [
+        "Virginia Board of Accountancy Certified Public Accountant #48468",
+        "PMI Project Management Professional (PMP)",
+        "Uipath Certified RPA Developer"
+      ],
+      "programming_languages": [
+        "Visual Basic",
+        "C#",
+        "Java",
+        "Javascript/Typescript"
+      ],
+      "sql_varieties": [
+        "T-SQL",
+        "PostgreSQL",
+        "PL/SQL",
+        "Informix"
+      ],
+      "other_software_tools": [
+        "Microsoft Office",
+        "IBM Cognos TM1",
+        "Visual Studio",
+        "Microsoft Project",
+        "SAS",
+        "R",
+        "Tableau",
+        "PowerBI",
+        "JPA",
+        "Spring",
+        "Junit"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\SRBFMWLCROBERT23MAY.pdf"
+    },
+    {
+      "file_path": "..\\data\\candidates\\gap_solutions\\SRBFMWLCTHOMAS23MAY.pdf"
+    },
+    {
+      "name": "Monique Frasier",
+      "years_experience": 14,
+      "degrees": [
+        "Master Business Administration, Tritech University (2014)",
+        "Bachelor of Business Administration, Southern Wesleyan University (2011) Cum Laude, Concentration in Office Management",
+        "Associates of Arts, Southern Wesleyan University (2012)",
+        "Human Resources Resilience Certification, Penn State University (2014)"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\SREQUITYOFFWLCMO23MAY.pdf"
+    },
+    {
+      "name": "AWS Certified Developer-Associate",
+      "file_path": "..\\data\\candidates\\gap_solutions\\VICTOR NYARKO.pdf"
+    },
+    {
+      "name": "Data Scientist | AI Engineer",
+      "experience": [
+        {
+          "company": "Horizons University, Paris.",
+          "position": "Doctorate Degree in Business Administration (Multicultural Team Leadership)",
+          "duration": "2020-2022"
+        },
+        {
+          "company": "University of Texas (UT Austin), McCombs School of Business.",
+          "position": "Postgraduate Degree in Artificial Intelligence and Machine Learning",
+          "duration": "2018-2020"
+        },
+        {
+          "company": "University of Maryland Global Campus (UMGC)",
+          "position": "Master's Degree in Instructional Technology",
+          "duration": "2015-2017"
+        },
+        {
+          "company": "Ningbo University",
+          "position": "Master's Degree in Business Administration (Business Analytics)",
+          "duration": "2012-2014"
+        },
+        {
+          "company": "University of Dschang",
+          "position": "Bachelor\u2019s Degree in physics",
+          "duration": "2008-2012"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "IBM Applied Data Science Professional Certificate \u2013 Coursera.",
+          "year": "2020"
+        },
+        {
+          "name": "Generative AI for Natural Language Processing (NLP) \u2013 Great Learning.",
+          "year": "2019"
+        },
+        {
+          "name": "Data Science on Cloud (AWS & Azure, MLOps) \u2013 Great Learning.",
+          "year": "2018"
+        }
+      ],
+      "work_experience": [
+        {
+          "company": "JAKA Robotics, Shanghai, PRC.",
+          "position": "Data Scientist | AI Engineer",
+          "duration": "Nov 2018 - Jan 2020"
+        },
+        {
+          "company": "ICBC, Shanghai, PRC.",
+          "position": "Data Scientist",
+          "duration": "Dec 2015 - Nov 2018"
+        },
+        {
+          "company": "Amway (China), Shanghai, PRC.",
+          "position": "Data Scientist",
+          "duration": "Apr 2013 - Nov 2015"
+        }
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\VINCENT TECHO.pdf"
+    },
+    {
+      "name": "Zamen Shakeel",
+      "years_experience": 3,
+      "degrees": [
+        "B.S. Information Technology (George Mason University)",
+        "A.S. Information Technology (Northern Virginia Community College)"
+      ],
+      "file_path": "..\\data\\candidates\\gap_solutions\\ZamenShakeelResume.docx"
     }
   ]
 }

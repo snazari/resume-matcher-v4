@@ -5,7 +5,7 @@ import json
 import numpy as np
 
 # Load your matching results
-with open('../output/matched_results.json', 'r') as f:
+with open('../output/matches-large.json', 'r') as f:
     data = json.load(f)
 
 # Extract match scores for each job title

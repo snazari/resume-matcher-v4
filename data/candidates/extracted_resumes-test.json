@@ -1,0 +1,190 @@
+{
+  "metadata": {
+    "timestamp": "2025-03-06T01:26:47.574042",
+    "model": "llama3.2:latest",
+    "num_files": 5,
+    "success_count": 5,
+    "error_count": 0
+  },
+  "results": [
+    {
+      "name": "Adelina Dana Hilotii",
+      "years_experience": 3,
+      "degrees": [
+        "Master of Science, Data Science",
+        "Bachelor of Science, Psychology",
+        "Bachelor of Science, Biological Sciences",
+        "Associate of Arts, General Studies - Science Emphasis"
+      ],
+      "file_path": "..\\data\\candidates\\test\\AdelinaHilotiiJr.pdf"
+    },
+    {
+      "name": "Alaina Thomas",
+      "years_experience": 4,
+      "degrees": [
+        "Master of Public Administration",
+        "B.A. Psychology",
+        "B.A. Spanish"
+      ],
+      "file_path": "..\\data\\candidates\\test\\ALAINATHOMAS.pdf"
+    },
+    {
+      "name": "Anna Lu",
+      "years_experience": 10,
+      "degrees": [
+        "M.S. IT Project Mgmt., UMGC (in progress)",
+        "B.S. Biomedical Eng., Computer Science Drexel"
+      ],
+      "experience": [
+        {
+          "title": "Bioinformatics Lead, CDC Center for Emerging Zoonotic Infectious Diseases",
+          "company": "Booz Allen",
+          "dates": "2024-Present"
+        },
+        {
+          "title": "Analytics Lead, Senior Data Scientist, NIH Office of Directorate",
+          "company": "Booz Allen",
+          "dates": "2023-2024"
+        },
+        {
+          "title": "Cloud Project Manager and Tech Lead, NIH NCI, NIAID, CDC",
+          "company": "Booz Allen",
+          "dates": "2021-2023"
+        },
+        {
+          "title": "Senior Software Engineer, National Cancer Institute",
+          "company": "Essex Management",
+          "dates": "2018-2021"
+        },
+        {
+          "title": "Software Engineer, Substance Abuse & Mental Health Services Administration",
+          "company": "Booz Allen",
+          "dates": "2017-2018"
+        },
+        {
+          "title": "Senior Design Partner, Infrascanner and Conquer Collaborative",
+          "company": "Infrascanner and Conquer Collaborative",
+          "dates": "2016-2017"
+        },
+        {
+          "title": "Bioinformatician, Child Brain Tumor Tissue Consortium",
+          "company": "Children\u2019s Hospital of Philadelphia",
+          "dates": "2015-2016"
+        }
+      ],
+      "qualifications": [
+        "Agile Project Management and DevSecOps",
+        "Cloud Data Platform and App Development",
+        "Bioinformatics Data Platform Engineering"
+      ],
+      "certifications": [
+        "CDC & NIH Badged, Public Trust (2018-Present)",
+        "Final DoD Secret Clearance (2018-2023)",
+        "Certified Scrum Master (2021)",
+        "IC Agile (2018)",
+        "AWS Certified Developer Associate (2017-2019)"
+      ],
+      "awards": [
+        "500 Women Scientists, ACM, SWE, Girl Scouts, and Mark Cuban AI Foundation"
+      ],
+      "file_path": "..\\data\\candidates\\test\\ANNA LU.pdf"
+    },
+    {
+      "name": "Wade\",",
+      "file_path": "..\\data\\candidates\\test\\AnnaWade.pdf"
+    },
+    {
+      "name": "Aria",
+      "title": "Research Scientist",
+      "description": "",
+      "experience": [
+        {
+          "company": "US Food and Drug Administration (FDA)",
+          "position": "Research & Regulatory Scientist",
+          "dates": "12/12-1/19",
+          "summary": "Established deep learning research and required infrastructure for medical imaging and algorithms."
+        },
+        {
+          "company": "Intel Corporation (PTD Group)",
+          "position": "Yield Engineer",
+          "dates": "08/11-12/12",
+          "summary": "Developed Automatic Defect Classification platform to detect and classify inline defects on wafers from SEM imagery."
+        },
+        {
+          "company": "GE Global Research Center",
+          "position": "Intern",
+          "dates": "05/08-08/08",
+          "summary": "Developed new decoding schemes for modulation codes under optical and electronic noise for next generation micro holographic data storage systems."
+        },
+        {
+          "company": "Personal Consulting",
+          "position": "Computer Vision Algorithms & Software Consultant",
+          "dates": "12/14-6/16",
+          "summary": "Contracted by NGA to extend PhD work; developed computer vision algorithms for an end-to-end map understanding system."
+        },
+        {
+          "company": "The Pennsylvania State University (PSU)",
+          "position": "Research Assistant",
+          "dates": "08/06-05/11",
+          "summary": "Developed end-to-end CV solution for segmentation and extraction of features in scanned topographic maps."
+        }
+      ],
+      "education": [
+        {
+          "institution": "The Pennsylvania State University (PSU)",
+          "degree": "PhD Electrical Engineering",
+          "dates": "08/05-08/11",
+          "gpa": "3.88/4.0"
+        },
+        {
+          "institution": "Michigan Technological University (MTU)",
+          "degree": "BS Electrical Engineering",
+          "dates": "01/03-05/05",
+          "gpa": "3.94/4.0"
+        }
+      ],
+      "skills": [
+        {
+          "category": "Programming",
+          "technologies": [
+            "Python",
+            "Numpy",
+            "Scikit-learn",
+            "Pandas",
+            "Plotly",
+            "Matplotlib",
+            "TensorFlow",
+            "Keras",
+            "PyTorch"
+          ]
+        },
+        {
+          "category": "Machine Learning",
+          "technologies": [
+            "Deep Learning",
+            "Computer Vision",
+            "Agentic AI & generative AI (RAGs, LLM, VLM, VQA, Fine-tuning, \u2026)",
+            "Object Detection & Classification",
+            "Traditional Machine Learning (random forest, xgboost, SVM, HMM, \u2026)"
+          ]
+        },
+        {
+          "category": "Data Science",
+          "technologies": [
+            "Data Science (clustering, regression, pattern recognition, \u2026)",
+            "Kalman Filters",
+            "Multi-Object Tracking",
+            "Sensor Fusion",
+            "EDA",
+            "Time-series Analysis",
+            "Data Visualization",
+            "Analytics & KPI Definition"
+          ]
+        }
+      ],
+      "status": "US Citizen",
+      "working_status": "Full-time",
+      "file_path": "..\\data\\candidates\\test\\ARIA PEZESHK.pdf"
+    }
+  ]
+}

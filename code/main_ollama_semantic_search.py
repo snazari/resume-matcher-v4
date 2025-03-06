@@ -301,8 +301,9 @@ def enrich_resume_data(resume_data):
 
     return enriched_data
 
-
-def create_resume_embeddings(resume_collection, model_name='paraphrase-mpnet-base-v2'):
+# 'all-MiniLM-L6-v2'
+#
+def create_resume_embeddings(resume_collection, model_name='deepseek-r1:14b'):
     """Generate embeddings for a collection of resume data."""
     # Load an appropriate model
     model = SentenceTransformer(model_name)
