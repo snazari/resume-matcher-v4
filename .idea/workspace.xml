@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a951af20-2087-4a3b-9066-c4d435888293" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/code/convert_csv_to_json.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/main_ollama.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +187,7 @@
       <option name="presentableId" value="Default" />
       <updated>1741202446908</updated>
       <workItem from="1741202448252" duration="4709000" />
-      <workItem from="1741217490172" duration="9790000" />
+      <workItem from="1741217490172" duration="10389000" />
     </task>
     <servers />
   </component>
