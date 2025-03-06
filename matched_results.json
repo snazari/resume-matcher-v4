@@ -1,0 +1,702 @@
+{
+  "metadata": {
+    "timestamp": "2025-03-05T19:48:01.796347",
+    "model": "llama3.1:latest",
+    "num_files": 12,
+    "success_count": 12,
+    "error_count": 0
+  },
+  "results": [
+    {
+      "name": "Ashley Theo J. Savage",
+      "years_experience": 7,
+      "degrees": [
+        "Bachelor of Science (B.S.), Network & Cyber Security, University of Maryland Global Campus"
+      ],
+      "certifications": [
+        "Certified Ethical Hacker (CEH)",
+        "Security +",
+        "SANS 504 Incident Handling and hacker techniques"
+      ],
+      "technical_skills": [
+        "Vulnerability Analysis",
+        "Intrusion Detection",
+        "Information Assurance",
+        "Server Administration",
+        "Customer Service and Support",
+        "Virtualized Infrastructure",
+        "SIEM",
+        "Incident Response",
+        "Blue Team",
+        "Red Team Operations",
+        "Network Traffic Analysis",
+        "Wireshark LAN",
+        "WAN",
+        "VPN",
+        "WLAN",
+        "WPAN",
+        "Switches",
+        "Routers",
+        "Firewalls"
+      ],
+      "software": [
+        "Microsoft Office Suite 365",
+        "Google Docs",
+        "ServiceNow VMware",
+        "Elastic Stack",
+        "Splunk",
+        "Nessus",
+        "RedSeal",
+        "Azure",
+        "Metasploit",
+        "Cobalt strike",
+        "AWS"
+      ],
+      "processes": [
+        "Change Management",
+        "Imaging",
+        "OSI Model",
+        "Active Directory"
+      ],
+      "operating_systems": [
+        "Windows OS",
+        "Windows Server",
+        "MacOS",
+        "Linux (Kali, RedHat, Debian)",
+        "Cisco IOS",
+        "PfSense"
+      ],
+      "programming_languages": [
+        "C++",
+        "Python",
+        "PowerShell",
+        "BASH Script"
+      ],
+      "file_path": "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume-pixy-dust\\semantic_search\\data\\t04\\ASHLEY THEO J. SAVAGE.pdf"
+    },
+    {
+      "name": "Bisar Barua",
+      "years_experience": 13,
+      "degrees": [
+        "Master of Science, George Washington University. Jan' 2021 (Cybersecurity Strategy and Information Management)",
+        "Bachelor of Science, Southeast University, Dhaka, Bangladesh. Dec' 2010 (Information and Telecommunications Engineering)"
+      ],
+      "file_path": "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume-pixy-dust\\semantic_search\\data\\t04\\Bisar Barua.pdf"
+    },
+    {
+      "name": "Christine Clermont",
+      "years_experience": 3,
+      "degrees": [
+        "Master of Public Health in Biostatistics",
+        "Bachelor of Arts in Statistics"
+      ],
+      "work_experience": [
+        {
+          "title": "Tracts Data Analyst",
+          "company": "VA Boston Healthcare System",
+          "dates": "July 2022-Present"
+        },
+        {
+          "title": "Case Investigator",
+          "company": "Staffing Solutions, LLC - (Public Consulting Group)",
+          "dates": "May 2020-June 2022"
+        },
+        {
+          "title": "COVID-Response Student Assistant",
+          "company": "University at Buffalo \u2013 Department of Health Services",
+          "dates": "February 2021-June 2021"
+        },
+        {
+          "title": "Student Fundraiser",
+          "company": "Ruffalo Noel Levitz",
+          "dates": "December 2018-August 2020"
+        }
+      ],
+      "leadership_experience": [
+        {
+          "title": "Intern",
+          "company": "Suffolk County Department of Health Services",
+          "dates": "April 2020-August 2020"
+        },
+        {
+          "title": "Student Leadership International Dialogue & Exchange Program",
+          "company": "",
+          "dates": "May 2019-June 2019"
+        }
+      ],
+      "volunteer_experience": [
+        {
+          "title": "Volunteer",
+          "company": "Roswell Park Comprehensive Cancer Center",
+          "dates": "October 2017-May 2020"
+        }
+      ],
+      "skills": [
+        "SAS programming techniques and procedures",
+        "R programming language",
+        "Salesforce",
+        "Eclipse",
+        "Python",
+        "MATLAB",
+        "Minitab",
+        "Microsoft (Word, Excel, PowerPoint)",
+        "Spanish Language",
+        "French-Creole"
+      ],
+      "file_path": "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume-pixy-dust\\semantic_search\\data\\t04\\Christine Clermont.pdf"
+    },
+    {
+      "name": "Earl Vialpando",
+      "years_experience": 17,
+      "degrees": [
+        "Bachelors of Science in Biology - Biotechnology and Molecular Biology",
+        "Masters of Science in Epidemiology"
+      ],
+      "file_path": "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume-pixy-dust\\semantic_search\\data\\t04\\Earl Vialpando.pdf"
+    },
+    {
+      "name": "Fatima Khokar",
+      "contact_info": [
+        {
+          "email": "fatimakhokar@gmail.com",
+          "phone_number": "703-624-3457"
+        }
+      ],
+      "work_eligibility": "United States Citizen",
+      "education": [
+        {
+          "institution": "George Mason University",
+          "degree": "MPH, Global Health Systems",
+          "duration": "2010-2012"
+        },
+        {
+          "institution": "George Mason University",
+          "degree": "BS in Health Systems Management",
+          "duration": "2004-2008"
+        }
+      ],
+      "accrreditations_and_licenses": [
+        {
+          "certification": "Professional Scrum Master (PSM 1)"
+        },
+        {
+          "certification": "BLS Certification"
+        },
+        {
+          "certification": "Dental X-Ray certification"
+        },
+        {
+          "certification": "Notary Public for the State of Virginia"
+        }
+      ],
+      "work_experience": [
+        {
+          "company": "GW MFA-METRO IMMEDIATE & PRIMARY CARE",
+          "position": "Clinic Director",
+          "duration": "June 2010 - October 2016"
+        },
+        {
+          "company": "Walk-in Medical Care",
+          "position": "Practice Manager",
+          "duration": "June 2008 - May 2010"
+        }
+      ],
+      "skills": [
+        {
+          "skill": "EHR implementation and management"
+        },
+        {
+          "skill": "Project management"
+        },
+        {
+          "skill": "Staff supervision and training"
+        },
+        {
+          "skill": "Community outreach and engagement"
+        },
+        {
+          "skill": "Marketing and public relations"
+        }
+      ],
+      "file_path": "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume-pixy-dust\\semantic_search\\data\\t04\\Fatima Khokhar.pdf"
+    },
+    {
+      "file_path": "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume-pixy-dust\\semantic_search\\data\\t04\\HOWARD UNDERWOOD.pdf"
+    },
+    {
+      "name": "Joshua Zarb",
+      "years_experience": 4,
+      "degrees": [],
+      "file_path": "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume-pixy-dust\\semantic_search\\data\\t04\\Joshua Zarb.pdf"
+    },
+    {
+      "name": "Lu Wang",
+      "title": "MD, MCS, MSTAT",
+      "email": "all8a6WW@proton.me",
+      "phone": "7033417580",
+      "address": "North Bethesda, MD",
+      "experience": [
+        {
+          "company": "DHA | VHA | DoD | CMS and Hospitals",
+          "position": "CPO & CMO, Database Specialist II (Business Manager), Technical Advisor (Technical Manager)",
+          "duration": "1998-2023"
+        }
+      ],
+      "management": [
+        {
+          "team": "Onsite team and offshore team",
+          "methodology": "6 sigma, agile, SAFe etc.",
+          "meetings": [
+            {
+              "name": "Daily Agile Scrum Standup Meeting",
+              "frequency": "2/wk"
+            },
+            {
+              "name": "Cross Functional Team Meeting",
+              "frequency": "1-2/wk"
+            }
+          ]
+        }
+      ],
+      "infrastructures": [
+        {
+          "development_documentation": true,
+          "github": true,
+          "jira": true
+        }
+      ],
+      "skills": [
+        {
+          "name": "Data Engineering",
+          "techniques": [
+            {
+              "name": "Statistics Data Analysis (SAS/Python/Anaconda/PyCharm etc.)",
+              "description": "Enhance data sharing, promote clinical decision support"
+            },
+            {
+              "name": "DB Design and Implementation",
+              "description": "Improve clinical qualities, lower healthcare cost and development cost"
+            }
+          ]
+        },
+        {
+          "name": "Software Engineering",
+          "techniques": [
+            {
+              "name": "N-tiered J2EE Single Page Rich Client Web Application with SOA Microservices",
+              "description": "Package, modernize, enhance system infrastructures"
+            },
+            {
+              "name": "Rule Engines",
+              "description": "Integrate system with DOT, HL7/CCD/CDA, and SAS across various medical domains"
+            }
+          ]
+        }
+      ],
+      "education": [
+        {
+          "school": "Beijing University of Science and Technology",
+          "degree": "MD",
+          "duration": "1998-1999"
+        },
+        {
+          "school": "University of Maryland, Baltimore County",
+          "degree": "MCS",
+          "duration": "2000-2001"
+        }
+      ],
+      "awards": [
+        {
+          "name": "Best Technical Advisor Award",
+          "year": "2022"
+        },
+        {
+          "name": "Best Project Manager Award",
+          "year": "2019"
+        }
+      ],
+      "file_path": "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume-pixy-dust\\semantic_search\\data\\t04\\LU WANG.pdf"
+    },
+    {
+      "name": "Marie\",",
+      "file_path": "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume-pixy-dust\\semantic_search\\data\\t04\\MARQUITTA L. FOSTER.pdf"
+    },
+    {
+      "name": "Steven Strasburg\",",
+      "file_path": "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume-pixy-dust\\semantic_search\\data\\t04\\Steven Strasburg.pdf"
+    },
+    {
+      "name": "TS Beason\",",
+      "file_path": "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume-pixy-dust\\semantic_search\\data\\t04\\Tracey Beason.pdf"
+    },
+    {
+      "name": "Ashley Savage",
+      "student_id": "2000119",
+      "academic_record": [
+        {
+          "program": "UG Associate's Degree",
+          "plan": "General Studies - Computer Studies Curriculum AA Program",
+          "term": "2020 Spring",
+          "courses": [
+            {
+              "course_name": "CMIT 386 Penetrate Test Cyber Red Team",
+              "attempted": "3.000",
+              "earned": "0.000",
+              "grade": "W"
+            },
+            {
+              "course_name": "ARTT 110 Introduction to Drawing",
+              "attempted": "3.000",
+              "earned": "0.000",
+              "grade": "W"
+            }
+          ],
+          "gpa": 2.72,
+          "cumulative_gpa": 2.72
+        },
+        {
+          "program": "UG Bachelor's Degree",
+          "plan": "Computer Networks and Cybersecurity Major",
+          "term": "2020 Fall",
+          "courses": [
+            {
+              "course_name": "CMIT 386 Penetrate Test Cyber Red Team",
+              "attempted": "3.000",
+              "earned": "3.000",
+              "grade": "A"
+            },
+            {
+              "course_name": "WRTG 391 Advanced Research Writing",
+              "attempted": "3.000",
+              "earned": "3.000",
+              "grade": "C"
+            }
+          ],
+          "gpa": 2.72,
+          "cumulative_gpa": 2.72
+        },
+        {
+          "program": "UG Certificate",
+          "plan": "Management Information Systems Certificate",
+          "term": "2024 Summer",
+          "courses": [
+            {
+              "course_name": "ARTT 110 Introduction to Drawing",
+              "attempted": "3.000",
+              "earned": "0.000",
+              "grade": "W"
+            },
+            {
+              "course_name": "CMIT 495 Cybersecurity Tech Capstone",
+              "attempted": "3.000",
+              "earned": "0.000",
+              "grade": "W"
+            }
+          ],
+          "gpa": 2.72,
+          "cumulative_gpa": 2.72
+        },
+        {
+          "program": "UG Associate's Degree",
+          "plan": "General Studies - General Curriculum AA Program",
+          "term": "2024 Fall",
+          "courses": [
+            {
+              "course_name": "CMIT 495 Cybersecurity Tech Capstone",
+              "attempted": "3.000",
+              "earned": "0.000",
+              "grade": "W"
+            },
+            {
+              "course_name": "WRTG 111 Academic Writing I",
+              "attempted": "3.000",
+              "earned": "0.000",
+              "grade": "W"
+            }
+          ],
+          "gpa": 2.72,
+          "cumulative_gpa": 2.72
+        }
+      ],
+      "file_path": "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume-pixy-dust\\semantic_search\\data\\t04\\Transcripts ASHLEY THEO J. SAVAGE.pdf"
+    }
+  ],
+  "job_matches": {
+    "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume-pixy-dust\\semantic_search\\data\\t04\\ASHLEY THEO J. SAVAGE.pdf": [
+      {
+        "job_id": "job001",
+        "score": 0.42374467849731445,
+        "job_title": "Senior Software Engineer",
+        "job_company": "Tech Innovations Inc.",
+        "similarity_score": 0.42374467849731445
+      },
+      {
+        "job_id": "job003",
+        "score": 0.3674860894680023,
+        "job_title": "Project Manager",
+        "job_company": "Global Systems Ltd.",
+        "similarity_score": 0.3674860894680023
+      },
+      {
+        "job_id": "job002",
+        "score": 0.35997575521469116,
+        "job_title": "Data Scientist",
+        "job_company": "Analytics Partners",
+        "similarity_score": 0.35997575521469116
+      }
+    ],
+    "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume-pixy-dust\\semantic_search\\data\\t04\\Bisar Barua.pdf": [
+      {
+        "job_id": "job001",
+        "score": 0.4740248918533325,
+        "job_title": "Senior Software Engineer",
+        "job_company": "Tech Innovations Inc.",
+        "similarity_score": 0.4740248918533325
+      },
+      {
+        "job_id": "job003",
+        "score": 0.40777701139450073,
+        "job_title": "Project Manager",
+        "job_company": "Global Systems Ltd.",
+        "similarity_score": 0.40777701139450073
+      },
+      {
+        "job_id": "job002",
+        "score": 0.37220287322998047,
+        "job_title": "Data Scientist",
+        "job_company": "Analytics Partners",
+        "similarity_score": 0.37220287322998047
+      }
+    ],
+    "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume-pixy-dust\\semantic_search\\data\\t04\\Christine Clermont.pdf": [
+      {
+        "job_id": "job002",
+        "score": 0.5092618465423584,
+        "job_title": "Data Scientist",
+        "job_company": "Analytics Partners",
+        "similarity_score": 0.5092618465423584
+      },
+      {
+        "job_id": "job001",
+        "score": 0.3607563376426697,
+        "job_title": "Senior Software Engineer",
+        "job_company": "Tech Innovations Inc.",
+        "similarity_score": 0.3607563376426697
+      },
+      {
+        "job_id": "job003",
+        "score": 0.3212922215461731,
+        "job_title": "Project Manager",
+        "job_company": "Global Systems Ltd.",
+        "similarity_score": 0.3212922215461731
+      }
+    ],
+    "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume-pixy-dust\\semantic_search\\data\\t04\\Earl Vialpando.pdf": [
+      {
+        "job_id": "job002",
+        "score": 0.4541476368904114,
+        "job_title": "Data Scientist",
+        "job_company": "Analytics Partners",
+        "similarity_score": 0.4541476368904114
+      },
+      {
+        "job_id": "job001",
+        "score": 0.40838876366615295,
+        "job_title": "Senior Software Engineer",
+        "job_company": "Tech Innovations Inc.",
+        "similarity_score": 0.40838876366615295
+      },
+      {
+        "job_id": "job003",
+        "score": 0.3201387822628021,
+        "job_title": "Project Manager",
+        "job_company": "Global Systems Ltd.",
+        "similarity_score": 0.3201387822628021
+      }
+    ],
+    "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume-pixy-dust\\semantic_search\\data\\t04\\Fatima Khokhar.pdf": [
+      {
+        "job_id": "job001",
+        "score": 0.3716520667076111,
+        "job_title": "Senior Software Engineer",
+        "job_company": "Tech Innovations Inc.",
+        "similarity_score": 0.3716520667076111
+      },
+      {
+        "job_id": "job003",
+        "score": 0.3298555016517639,
+        "job_title": "Project Manager",
+        "job_company": "Global Systems Ltd.",
+        "similarity_score": 0.3298555016517639
+      },
+      {
+        "job_id": "job002",
+        "score": 0.3261083662509918,
+        "job_title": "Data Scientist",
+        "job_company": "Analytics Partners",
+        "similarity_score": 0.3261083662509918
+      }
+    ],
+    "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume-pixy-dust\\semantic_search\\data\\t04\\HOWARD UNDERWOOD.pdf": [
+      {
+        "job_id": "job001",
+        "score": 0.3716520667076111,
+        "job_title": "Senior Software Engineer",
+        "job_company": "Tech Innovations Inc.",
+        "similarity_score": 0.3716520667076111
+      },
+      {
+        "job_id": "job003",
+        "score": 0.3298555016517639,
+        "job_title": "Project Manager",
+        "job_company": "Global Systems Ltd.",
+        "similarity_score": 0.3298555016517639
+      },
+      {
+        "job_id": "job002",
+        "score": 0.3261083662509918,
+        "job_title": "Data Scientist",
+        "job_company": "Analytics Partners",
+        "similarity_score": 0.3261083662509918
+      }
+    ],
+    "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume-pixy-dust\\semantic_search\\data\\t04\\Joshua Zarb.pdf": [
+      {
+        "job_id": "job001",
+        "score": 0.42241060733795166,
+        "job_title": "Senior Software Engineer",
+        "job_company": "Tech Innovations Inc.",
+        "similarity_score": 0.42241060733795166
+      },
+      {
+        "job_id": "job003",
+        "score": 0.36612480878829956,
+        "job_title": "Project Manager",
+        "job_company": "Global Systems Ltd.",
+        "similarity_score": 0.36612480878829956
+      },
+      {
+        "job_id": "job002",
+        "score": 0.36313849687576294,
+        "job_title": "Data Scientist",
+        "job_company": "Analytics Partners",
+        "similarity_score": 0.36313849687576294
+      }
+    ],
+    "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume-pixy-dust\\semantic_search\\data\\t04\\LU WANG.pdf": [
+      {
+        "job_id": "job001",
+        "score": 0.3716520667076111,
+        "job_title": "Senior Software Engineer",
+        "job_company": "Tech Innovations Inc.",
+        "similarity_score": 0.3716520667076111
+      },
+      {
+        "job_id": "job003",
+        "score": 0.3298555016517639,
+        "job_title": "Project Manager",
+        "job_company": "Global Systems Ltd.",
+        "similarity_score": 0.3298555016517639
+      },
+      {
+        "job_id": "job002",
+        "score": 0.3261083662509918,
+        "job_title": "Data Scientist",
+        "job_company": "Analytics Partners",
+        "similarity_score": 0.3261083662509918
+      }
+    ],
+    "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume-pixy-dust\\semantic_search\\data\\t04\\MARQUITTA L. FOSTER.pdf": [
+      {
+        "job_id": "job001",
+        "score": 0.3716520667076111,
+        "job_title": "Senior Software Engineer",
+        "job_company": "Tech Innovations Inc.",
+        "similarity_score": 0.3716520667076111
+      },
+      {
+        "job_id": "job003",
+        "score": 0.3298555016517639,
+        "job_title": "Project Manager",
+        "job_company": "Global Systems Ltd.",
+        "similarity_score": 0.3298555016517639
+      },
+      {
+        "job_id": "job002",
+        "score": 0.3261083662509918,
+        "job_title": "Data Scientist",
+        "job_company": "Analytics Partners",
+        "similarity_score": 0.3261083662509918
+      }
+    ],
+    "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume-pixy-dust\\semantic_search\\data\\t04\\Steven Strasburg.pdf": [
+      {
+        "job_id": "job001",
+        "score": 0.3716520667076111,
+        "job_title": "Senior Software Engineer",
+        "job_company": "Tech Innovations Inc.",
+        "similarity_score": 0.3716520667076111
+      },
+      {
+        "job_id": "job003",
+        "score": 0.3298555016517639,
+        "job_title": "Project Manager",
+        "job_company": "Global Systems Ltd.",
+        "similarity_score": 0.3298555016517639
+      },
+      {
+        "job_id": "job002",
+        "score": 0.3261083662509918,
+        "job_title": "Data Scientist",
+        "job_company": "Analytics Partners",
+        "similarity_score": 0.3261083662509918
+      }
+    ],
+    "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume-pixy-dust\\semantic_search\\data\\t04\\Tracey Beason.pdf": [
+      {
+        "job_id": "job001",
+        "score": 0.3716520667076111,
+        "job_title": "Senior Software Engineer",
+        "job_company": "Tech Innovations Inc.",
+        "similarity_score": 0.3716520667076111
+      },
+      {
+        "job_id": "job003",
+        "score": 0.3298555016517639,
+        "job_title": "Project Manager",
+        "job_company": "Global Systems Ltd.",
+        "similarity_score": 0.3298555016517639
+      },
+      {
+        "job_id": "job002",
+        "score": 0.3261083662509918,
+        "job_title": "Data Scientist",
+        "job_company": "Analytics Partners",
+        "similarity_score": 0.3261083662509918
+      }
+    ],
+    "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume-pixy-dust\\semantic_search\\data\\t04\\Transcripts ASHLEY THEO J. SAVAGE.pdf": [
+      {
+        "job_id": "job001",
+        "score": 0.3716520667076111,
+        "job_title": "Senior Software Engineer",
+        "job_company": "Tech Innovations Inc.",
+        "similarity_score": 0.3716520667076111
+      },
+      {
+        "job_id": "job003",
+        "score": 0.3298555016517639,
+        "job_title": "Project Manager",
+        "job_company": "Global Systems Ltd.",
+        "similarity_score": 0.3298555016517639
+      },
+      {
+        "job_id": "job002",
+        "score": 0.3261083662509918,
+        "job_title": "Data Scientist",
+        "job_company": "Analytics Partners",
+        "similarity_score": 0.3261083662509918
+      }
+    ]
+  }
+}

@@ -384,7 +384,7 @@ def process_job_openings(job_descriptions, model):
     return job_data
 
 
-def find_matching_jobs_for_resume(resume_embedding, job_embeddings, top_k=5):
+def find_matching_jobs_for_resume(resume_embedding, job_embeddings, top_k=5, resume_data=None):
     """Find the best matching jobs for a given resume embedding."""
     # Convert embeddings to the format required by semantic_search
     query_embedding = np.array([resume_embedding])
@@ -399,16 +399,22 @@ def find_matching_jobs_for_resume(resume_embedding, job_embeddings, top_k=5):
         job_index = hit['corpus_id']
         job = job_embeddings[job_index]
 
-        matches.append({
+        # Create the match entry dictionary
+        match_entry = {
             'job_id': job['id'],
             'score': float(hit['score']),  # Convert to float for JSON serialization
             'job_title': job['raw_data'].get('title', 'Untitled'),
             'job_company': job['raw_data'].get('company', 'Unknown'),
             'similarity_score': float(hit['score'])
-        })
+        }
+
+        # Add candidate name if resume data is provided
+        if resume_data:
+            match_entry['candidate_name'] = resume_data.get('name', 'Unknown')
+
+        matches.append(match_entry)
 
     return matches
-
 
 # File processing functions
 def extract_text_from_pdf(file_path: str) -> str:
@@ -619,7 +625,12 @@ def main():
             resume_name = resume['raw_data'].get('name', 'Unknown')
             print(f"Finding matches for {resume_name}...")
 
-            matches = find_matching_jobs_for_resume(resume['embedding'], job_embeddings, top_k=args.top_k)
+            matches = find_matching_jobs_for_resume(
+                resume['embedding'],
+                job_embeddings,
+                top_k=args.top_k,
+                resume_data=resume['raw_data']
+            )
             all_matches[resume_id] = matches
 
         # Add matches to output data

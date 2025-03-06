@@ -5,18 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a951af20-2087-4a3b-9066-c4d435888293" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/resume-matcher-v4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/create_test_jobs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_ollama.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_ollama_semantic_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume-extractor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidate_rankings_bump_chart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/match_score_distributions.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matched_results-updated.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matched_results.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/radar_chart_Data_Scientist.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/radar_chart_Project_Manager.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/radar_chart_Senior_Software_Engineer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visualization_3d_plotly.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visualization_networkx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visualization_plotly.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visualization_quality_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visualization_ranking_bump_charts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visualization_score_distribution_histogram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visualization_streamlit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visualization_top_candidates_radar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visualization_word_cloud.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_ollama_semantic_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_ollama_semantic_search.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,19 +55,32 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2tuWTQtMGNq1nLyp6mD4V3pc1Wb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.create_test_jobs.executor": "Run",
     "Python.main.executor": "Run",
     "Python.main_ollama.executor": "Run",
-    "Python.main_ollama_semantic_search.executor": "Debug",
+    "Python.main_ollama_semantic_search.executor": "Run",
     "Python.resume-extractor.executor": "Run",
+    "Python.visualization_3d_plotly.executor": "Run",
+    "Python.visualization_networkx.executor": "Run",
+    "Python.visualization_plotly.executor": "Run",
+    "Python.visualization_quality_matrix.executor": "Run",
+    "Python.visualization_ranking_bump_charts.executor": "Run",
+    "Python.visualization_score_distribution_histogram.executor": "Run",
+    "Python.visualization_streamlit.executor": "Run",
+    "Python.visualization_top_candidates_radar.executor": "Run",
+    "Python.visualization_word_cloud.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/Sam.Nazari/PycharmProjects/resume-matcher-v4",
     "node.js.detected.package.eslint": "true",
@@ -68,7 +88,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable",
+    "settings.editor.selected.configurable": "PyScientificConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -77,7 +97,7 @@
       <recent name="C:\Users\Sam.Nazari\PycharmProjects\resume-matcher-v4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main_ollama_semantic_search">
+  <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="resume-matcher-v4" />
       <option name="ENV_FILES" value="" />
@@ -139,7 +159,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_ollama_semantic_search.py" />
-      <option name="PARAMETERS" value="--directory &quot;C:\Users\Sam.Nazari\PycharmProjects\resume_matcher\data\resume_test&quot; --match --job-file extracted_resumes.json --output matched_results.json" />
+      <option name="PARAMETERS" value="--directory &quot;C:\Users\Sam.Nazari\PycharmProjects\resume_matcher\data\resume_test&quot; --match --job-file sample_jobs.json --output matched_results.json" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -176,34 +196,41 @@
       <option name="presentableId" value="Default" />
       <updated>1741202446908</updated>
       <workItem from="1741202448252" duration="4709000" />
-      <workItem from="1741217490172" duration="544000" />
+      <workItem from="1741217490172" duration="7252000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main_ollama.py</url>
-          <line>438</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/main_ollama_semantic_search.py</url>
-          <line>341</line>
-          <option name="timeStamp" value="3" />
+          <line>594</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/resume_matcher_v4$resume_extractor.coverage" NAME="resume-extractor Coverage Results" MODIFIED="1741202479266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/resume_matcher_v4$main_ollama_semantic_search.coverage" NAME="main_ollama_semantic_search Coverage Results" MODIFIED="1741218017039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/resume_matcher_v4$main.coverage" NAME="main Coverage Results" MODIFIED="1741203133701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/resume_matcher_v4$visualization_3d_plotly.coverage" NAME="visualization_3d_plotly Coverage Results" MODIFIED="1741225720546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/resume_matcher_v4$visualization_top_candidates_radar.coverage" NAME="visualization_top_candidates_radar Coverage Results" MODIFIED="1741224797992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/resume_matcher_v4$visualization_networkx.coverage" NAME="visualization_networkx Coverage Results" MODIFIED="1741224630953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/resume_matcher_v4$main_ollama.coverage" NAME="main_ollama Coverage Results" MODIFIED="1741205996542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/resume_matcher_v4$visualization_score_distribution_histogram.coverage" NAME="visualization_score_distribution_histogram Coverage Results" MODIFIED="1741224690052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/resume_matcher_v4$create_test_jobs.coverage" NAME="create_test_jobs Coverage Results" MODIFIED="1741206003623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/resume_matcher_v4$visualization_quality_matrix.coverage" NAME="visualization_quality_matrix Coverage Results" MODIFIED="1741225651958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/resume_matcher_v4$resume_extractor.coverage" NAME="resume-extractor Coverage Results" MODIFIED="1741202479266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/resume_matcher_v4$visualization_ranking_bump_charts.coverage" NAME="visualization_ranking_bump_charts Coverage Results" MODIFIED="1741225240964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/resume_matcher_v4$main_ollama_semantic_search.coverage" NAME="main_ollama_semantic_search Coverage Results" MODIFIED="1741224424166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/resume_matcher_v4$main.coverage" NAME="main Coverage Results" MODIFIED="1741203133701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/resume_matcher_v4$visualization_word_cloud.coverage" NAME="visualization_word_cloud Coverage Results" MODIFIED="1741225481721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/resume_matcher_v4$visualization_streamlit.coverage" NAME="visualization_streamlit Coverage Results" MODIFIED="1741224962183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/resume_matcher_v4$visualization_plotly.coverage" NAME="visualization_plotly Coverage Results" MODIFIED="1741224477831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
