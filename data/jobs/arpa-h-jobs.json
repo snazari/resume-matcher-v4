@@ -1,0 +1,575 @@
+[
+  {
+    "id": "job001",
+    "title": "TO Program Manager",
+    "description": "Provide oversight/mgmt of the task order",
+    "company": "ARPA-H",
+    "required_education": [
+      "Bachelors in any field"
+    ],
+    "required_experience": "5 years",
+    "required_skills": [
+      "managing ARPA-like support contracts"
+    ]
+  },
+  {
+    "id": "job002",
+    "title": "Advanced Information Security Professional",
+    "description": "Conduct information security and privacy risk assessments;  Conduct testing to identify, document, test, and validate security and usability issues.",
+    "company": "ARPA-H",
+    "required_education": [
+      "Masters",
+      "Cybersecurity",
+      "related field"
+    ],
+    "required_experience": "7 years",
+    "required_skills": [
+      "establishing",
+      "leading technical projects in the federal government requirement"
+    ]
+  },
+  {
+    "id": "job003",
+    "title": "Basic Action Officer",
+    "description": "Provide administrative support to Office leadership including 'Track actions including taskers, briefs, and other deliverables",
+    "company": "ARPA-H",
+    "required_education": [
+      "Bachelors in any field"
+    ],
+    "required_experience": "7 years",
+    "required_skills": [
+      "Ability to establish effective relationships with the public, have customer service expertise, excellent oral/written communication skills, and excellent organizational & time-management skills",
+      "Experience supporting executive-level personnel and working in an R&D environment is highly preferred"
+    ]
+  },
+  {
+    "id": "job004",
+    "title": "Intermediate AI/Cybersecurity Advisor",
+    "description": "Provides techical AI/Cybersecurity risk analysis; Provides expert advice on AI strategy, implementation, and optimization, and its application to ARPA-H programs and business operations.",
+    "company": "ARPA-H",
+    "required_education": [
+      "PhD",
+      "Computational Biology",
+      "related scientific field"
+    ],
+    "required_experience": "15 years",
+    "required_skills": [
+      "large scale",
+      "high dimensional AI/data analysis",
+      "building cross functional teams",
+      "collaboration building"
+    ]
+  },
+  {
+    "id": "job005",
+    "title": "Intermediate AI/ML Scientist",
+    "description": "Generative AI developer, software developer, AI/ML Engineer, AI/ML policy & strategy",
+    "company": "ARPA-H",
+    "required_education": [
+      "Masters",
+      "Biomedical Informatics",
+      "related field"
+    ],
+    "required_experience": "8 years",
+    "required_skills": [
+      "software development",
+      "new product development",
+      "generative AI or bioinformatics"
+    ]
+  },
+  {
+    "id": "job006",
+    "title": "Advanced AI/ML Scientist",
+    "description": "Generative AI developer, software developer, AI/ML Engineer, AI/ML policy & strategy",
+    "company": "ARPA-H",
+    "required_education": [
+      "PhD",
+      "Biosystems Engineering",
+      "Computer Science",
+      "related scientific field"
+    ],
+    "required_experience": "8 years",
+    "required_skills": [
+      "machine learning",
+      "natural language processing",
+      "computation replication",
+      "language modeling",
+      "statistical  or key-phrase extraction",
+      "medical applications"
+    ]
+  },
+  {
+    "id": "job007",
+    "title": "Advanced Systems Analyst",
+    "description": "Develop analytical software, Perform requirement analysis, Bioinformatics",
+    "company": "ARPA-H",
+    "required_education": [
+      "Bachelors",
+      "Biomedical Engineering",
+      "related field"
+    ],
+    "required_experience": "10 years",
+    "required_skills": [
+      "strategy development",
+      "product development",
+      "data driven health platforms"
+    ]
+  },
+  {
+    "id": "job008",
+    "title": "Intermediate Technical Advisor",
+    "description": "Provides technical expertise and support to the CIO",
+    "company": "ARPA-H",
+    "required_education": [
+      "Computer Science",
+      "related scientific field PhD."
+    ],
+    "required_experience": "10 years",
+    "required_skills": [
+      "software development",
+      "technology infrastruce",
+      "solutions architecture",
+      "user centered design",
+      "cloud",
+      "AI",
+      "agile"
+    ]
+  },
+  {
+    "id": "job009",
+    "title": "Basic Software Developer",
+    "description": "Software developer, Cloud computing, Generative AI developer",
+    "company": "ARPA-H",
+    "required_education": [
+      "Bachelors",
+      "Computer Science",
+      "related field"
+    ],
+    "required_experience": "8 years",
+    "required_skills": [
+      "development",
+      "testing",
+      "deployment of enterpise applications",
+      "project management"
+    ]
+  },
+  {
+    "id": "job010",
+    "title": "Basic Executive Assistant",
+    "description": "Provide administrative support to office leadership; ",
+    "company": "ARPA-H",
+    "required_education": [
+      "Bachelors in any field"
+    ],
+    "required_experience": "10 years",
+    "required_skills": [
+      "Ability to establish effective relationships with the public, have customer service expertise, excellent oral/written communication skills, and excellent organizational & time-management skills",
+      "Experience supporting executive-level personnel and working in an R&D environment is highly preferred"
+    ]
+  },
+  {
+    "id": "job011",
+    "title": "Intermediate Subject Matter Expert",
+    "description": "Lead the Product Roadmap of Strategic ITDI Initiatives, Define a Product vision - Define Epics and Stories, Coach the ITDI office on Product Management Best Practices",
+    "company": "ARPA-H",
+    "required_education": [
+      "Masters in any field"
+    ],
+    "required_experience": "15 years",
+    "required_skills": [
+      "business strategy",
+      "team building",
+      "growth management"
+    ]
+  },
+  {
+    "id": "job012",
+    "title": "Intermediate Software Developer",
+    "description": "Develop Intranet pages, Develop SharePoint sites, PowerApps pages and other similar small projects,  Tier III technical point of escalation",
+    "company": "ARPA-H",
+    "required_education": [
+      "Masters",
+      "Engineering",
+      "related field"
+    ],
+    "required_experience": "6 years",
+    "required_skills": [
+      "agile product design",
+      "user journing mapping",
+      "usability testing"
+    ]
+  },
+  {
+    "id": "job013",
+    "title": "Advanced Cloud Architect",
+    "description": "Develop and refine the agency\u2019s cloud strategy in alignment with the mission. Select appropriate cloud service models (IaaS, PaaS, SaaS) and providers, considering factors like scalability, security, and cost-efficiency. Architecture Design: Design cloud-based architectures that are scalable, resilient, and secure.",
+    "company": "ARPA-H",
+    "required_education": [
+      "Masters",
+      "Engineering",
+      "related field"
+    ],
+    "required_experience": "10 years",
+    "required_skills": [
+      "the Microsoft 365 platform including the transition to a new tenant",
+      "experience in developing",
+      "managing cloud strategies aligned with organizational goals",
+      "designing scalable",
+      "resilient",
+      "secure cloud-based architectures using cloud-native technologies"
+    ]
+  },
+  {
+    "id": "job014",
+    "title": "Advanced Operational Data Science Lead",
+    "description": "Lead the development and implementation of operational data management tools in the Palantir platform, acting as the Product Owner. Develop and execute an organization change management and training plan for process improvement. Develop business process and data models and maintain an enterprise data dictionary for operational data. Guide the implementation of AI based tools for process improvement",
+    "company": "ARPA-H",
+    "required_education": [
+      "Masters in any field"
+    ],
+    "required_experience": "11 years",
+    "required_skills": [
+      "change management",
+      "product development",
+      "strategic planning",
+      "action planning",
+      "advanced instrucitonal design tools"
+    ]
+  },
+  {
+    "id": "job015",
+    "title": "Basic Subject Matter Expert (Data Strategy)",
+    "description": "Advise the Director of Data Innovation, CTO, CIO and ARPA-H leadership on data strategy. Provide project management leadership for data innovation projects. \u2022Provide evaluation and assessment services for data innovation projects.",
+    "company": "ARPA-H",
+    "required_education": [
+      "PhD",
+      "Molecular",
+      "Cell Biology",
+      "related scientific field"
+    ],
+    "required_experience": "15 years",
+    "required_skills": [
+      "busienss development strategy",
+      "implementaiton",
+      "capture processes",
+      "pricing structures"
+    ]
+  },
+  {
+    "id": "job016",
+    "title": "Intermediate Security Specialist",
+    "description": "Serves as Security Lead for OTD, conducts security risk assessments, drafts policy documentation",
+    "company": "ARPA-H",
+    "required_education": [
+      "Bachelors",
+      "Information Systems",
+      "related field"
+    ],
+    "required_experience": "10 years",
+    "required_skills": [
+      "security automation",
+      "cyber threat intelligence",
+      "cloud security",
+      "cloud migration or Risk Management"
+    ]
+  },
+  {
+    "id": "job017",
+    "title": "Intermediate Technical Management Advisor",
+    "description": "Serves as Technical Management Advior, Project manager, Sharepoint administrator, Requirement engineer",
+    "company": "ARPA-H",
+    "required_education": [
+      "Masters in any field"
+    ],
+    "required_experience": "10 years",
+    "required_skills": [
+      "program management",
+      "program schedules",
+      "product assurance reviews",
+      "risk identification/mangement"
+    ]
+  },
+  {
+    "id": "job018",
+    "title": "Basic Design Strategist",
+    "description": "Provides Human Centered Design expertise to create visualizations that communicate roadmaps, architectural diagrams, business process flows and system documentation diagrams.",
+    "company": "ARPA-H",
+    "required_education": [
+      "Bachelors in any field"
+    ],
+    "required_experience": "8 years",
+    "required_skills": [
+      "design strategy",
+      "human centered design",
+      "design thinking",
+      "service design",
+      "product design"
+    ]
+  },
+  {
+    "id": "job019",
+    "title": "Intermediate Digital Forensics Analyst",
+    "description": "\u00a0Serving as an advisor to the ARPA-H CISO on developing and maturing the agency's digital forensics program - Leading and conducting digital forensics investigations into suspected and/or confirmed cybersecurity incidents affecting the agency's systems, devices, and other assets - Producing and delivering analysis reports to the ARPA-H CISO and other agency leadership based on the outcomes of digital forensics investigations",
+    "company": "ARPA-H",
+    "required_education": [
+      "Bachelors",
+      "Information Technology",
+      "related field"
+    ],
+    "required_experience": "10 years",
+    "required_skills": [
+      "digital forensics rquired",
+      "digital forensics on digital media such as desktops",
+      "laptops",
+      "servers",
+      "mobile devices"
+    ]
+  },
+  {
+    "id": "job020",
+    "title": "Intermediate Product Advisor ",
+    "description": "Serve as a product SME and drive the implementation of best practices to understand customer needs, determine product strategies, produce product roadmaps, and drive product execution including identification of personas, requirements, epics, user stories, and tasks",
+    "company": "ARPA-H",
+    "required_education": [
+      "Bachelors in any field"
+    ],
+    "required_experience": "10 years",
+    "required_skills": [
+      "product leadership/ product roles",
+      "leading product teams in an agile environment",
+      "startups",
+      "program management",
+      "software engineering"
+    ]
+  },
+  {
+    "id": "job021",
+    "title": "Basic Subject Matter Expert (AI/Cybersecurity)",
+    "description": "Advise on all AI/cybersecurity related activites, including establishing and implementing the cybersecurity principles, developing and maintaining an AI Risk Management Guide; advise on implementing AI cybersecurity requirements, guidance, and best practices",
+    "company": "ARPA-H",
+    "required_education": [
+      "Masters",
+      "Cyber security",
+      "related field"
+    ],
+    "required_experience": "10 years",
+    "required_skills": [
+      "Cybersecurity and AI experience required"
+    ]
+  },
+  {
+    "id": "job022",
+    "title": "Basic Subject Matter Expert (Cybersecurity Operations)",
+    "description": "Lead all operational cybersecurity related activites, including developing and maintaining the ARPA-H Cybersecurity Operations concept of operations and associated standard operating procedures",
+    "company": "ARPA-H",
+    "required_education": [
+      "Masters",
+      "Cyber security",
+      "related field"
+    ],
+    "required_experience": "10 years",
+    "required_skills": [
+      "Cybersecurity operations experience, including incident responses required"
+    ]
+  },
+  {
+    "id": "job023",
+    "title": "Basic Subject Matter Expert (Cybersecurity Engineering)",
+    "description": "Lead all cybersecurity engineering related activites, including  Developing and maintaining the ARPA-H Cybersecurity Engineering concept of operations and associated standard operating procedures; provideguidance, analysis, and expertise for conducting cybersecurity operations and risk management",
+    "company": "ARPA-H",
+    "required_education": [
+      "Masters",
+      "Cyber security",
+      "related field"
+    ],
+    "required_experience": "10 years",
+    "required_skills": [
+      "Cybersecurity engineering experience required"
+    ]
+  },
+  {
+    "id": "job024",
+    "title": "Basic Scientist/Engineer (Data modeler)",
+    "description": "Management of enterprise data models and scientific ontologies interface to ontology community",
+    "company": "ARPA-H",
+    "required_education": [
+      "Bachelors in any field"
+    ],
+    "required_experience": "10 years",
+    "required_skills": [
+      "enterprise data modeling",
+      "creation of Entity Relationahip diagrams",
+      "common biomedical data models",
+      "semantic web technologyes"
+    ]
+  },
+  {
+    "id": "job025",
+    "title": "Basic License Tracking",
+    "description": "Manage software licenses including but not limited to tracking, forecasting, and timing licenses",
+    "company": "ARPA-H",
+    "required_education": [
+      "Bachelors in any field"
+    ],
+    "required_experience": "5 years",
+    "required_skills": [
+      "software",
+      "Cloud license management"
+    ]
+  },
+  {
+    "id": "job026",
+    "title": "Basic Acquisition Support",
+    "description": "Provide support for acquisitions and related operations, including assisting with acquisition packages and acquisition support documents",
+    "company": "ARPA-H",
+    "required_education": [
+      "Bachelors in any field"
+    ],
+    "required_experience": "5 years",
+    "required_skills": [
+      "federal acquistion requirements/regulations"
+    ]
+  },
+  {
+    "id": "job027",
+    "title": "Intermediate Advisor for Customer Delivery",
+    "description": "Lead strategic advisor to Head of Customer Delivery which encompasses enterprise software development, product owners, and Agile Scrum teams",
+    "company": "ARPA-H",
+    "required_education": [
+      "Bachelors in any field"
+    ],
+    "required_experience": "15 years",
+    "required_skills": [
+      "IT project management",
+      "development IT procurement",
+      "configuration",
+      "budget formulation",
+      "execution for IT projects"
+    ]
+  },
+  {
+    "id": "job028",
+    "title": "Intermediate Product Advisor",
+    "description": "Serves as production advisor for Solution site rebuild; Serves as product advisor for implementation of ALMS",
+    "company": "ARPA-H",
+    "required_education": [
+      "Masters in any field"
+    ],
+    "required_experience": "15 years",
+    "required_skills": [
+      "IT project management",
+      "development IT procurement",
+      "configuration",
+      "budget formulation",
+      "execution for IT projects"
+    ]
+  },
+  {
+    "id": "job029",
+    "title": "Advanced Systems Architect",
+    "description": "Provide technical support to PMs",
+    "company": "ARPA-H",
+    "required_education": [
+      "Computer Science",
+      "related scientific field Masters."
+    ],
+    "required_experience": "8 years",
+    "required_skills": [
+      "software development",
+      "AI products"
+    ]
+  },
+  {
+    "id": "job030",
+    "title": "Advanced Scientist, Engineer",
+    "description": "Provide technical support to PMs",
+    "company": "ARPA-H",
+    "required_education": [
+      "Computer Science",
+      "related scientific field Masters."
+    ],
+    "required_experience": "15 years",
+    "required_skills": [
+      "Expert in AI/ML, AI or software developer, project manager depending on specific program assignment (ACTS, Eureka, Grace)"
+    ]
+  },
+  {
+    "id": "job031",
+    "title": "Intermediate Policy Analyst",
+    "description": " Drafts initial  policies and associated policy guidance/templates for Government review",
+    "company": "ARPA-H",
+    "required_education": [
+      "Masters in any field"
+    ],
+    "required_experience": "8 years",
+    "required_skills": [
+      "policy development",
+      "AI policy",
+      "cybersecurity policy for the federal government"
+    ]
+  },
+  {
+    "id": "job032",
+    "title": "Intermediate Data Scientist",
+    "description": "Data scientists to support across agency and different programs, analyze internal data and support program development",
+    "company": "ARPA-H",
+    "required_education": [
+      "Computer Science",
+      "related scientific field PhD."
+    ],
+    "required_experience": "10 years",
+    "required_skills": [
+      "data science or AI is",
+      "operations research or machine learning is highly"
+    ]
+  },
+  {
+    "id": "job033",
+    "title": "Basic Database Specilaist",
+    "description": "Provide service desk support",
+    "company": "ARPA-H",
+    "required_education": [
+      "Associates in any field"
+    ],
+    "required_experience": "5 years",
+    "required_skills": [
+      "Experience providing help desk support to clients required, including resolving system issues and escalating trouble tickets"
+    ]
+  },
+  {
+    "id": "job034",
+    "title": "Intermediate Travel Specialist",
+    "description": "Prepare and Coordinate travel for  Office leadership and staff",
+    "company": "ARPA-H",
+    "required_education": [
+      "Bachelors in any field"
+    ],
+    "required_experience": "2 years",
+    "required_skills": [
+      "an R&D environment is highly"
+    ]
+  },
+  {
+    "id": "job035",
+    "title": "Intermediate Conference/Events Planner",
+    "description": "Provide event planning to the office",
+    "company": "ARPA-H",
+    "required_education": [
+      "Bachelors in any field"
+    ],
+    "required_experience": "3 years",
+    "required_skills": [
+      "large event planning",
+      "special event planning support",
+      "execution",
+      "to include",
+      "but not limited to",
+      "technical conferences",
+      "strategic off-site events",
+      "executive meetings",
+      "technology demonstrations",
+      "showcase events is",
+      "an R&D environment is highly"
+    ]
+  }
+]

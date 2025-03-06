@@ -5,35 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a951af20-2087-4a3b-9066-c4d435888293" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/code/convert_csv_to_json.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/candidate_3d_visualization.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/candidate_3d_visualization.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/candidate_rankings_bump_chart.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/candidate_rankings_bump_chart.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/create_test_jobs.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/create_test_jobs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extracted_resumes.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/candidates/extracted_resumes.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_ollama.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/main_ollama.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_ollama_semantic_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/main_ollama_semantic_search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/match_score_distributions.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/match_score_distributions.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matched_results-updated.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/matched_results-updated.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matched_results.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/matched_results.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/radar_chart_Data_Scientist.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/radar_chart_Data_Scientist.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/radar_chart_Project_Manager.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/radar_chart_Project_Manager.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/radar_chart_Senior_Software_Engineer.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/radar_chart_Senior_Software_Engineer.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirement_alignment_heatmap.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/requirement_alignment_heatmap.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume-extractor.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/resume-extractor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume_job_matches.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/output/resume_job_matches.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample_jobs.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/jobs/sample_jobs.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t04_itid.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/jobs/t04_itid.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/visualization_3d_plotly.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/visualization_3d_plotly.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/visualization_heatmap.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/visualization_heatmap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/visualization_networkx.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/visualization_networkx.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/visualization_plotly.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/visualization_plotly.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/visualization_quality_matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/visualization_quality_matrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/visualization_ranking_bump_charts.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/visualization_ranking_bump_charts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/visualization_score_distribution_histogram.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/visualization_score_distribution_histogram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/visualization_streamlit.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/visualization_streamlit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/visualization_top_candidates_radar.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/visualization_top_candidates_radar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/visualization_word_cloud.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/visualization_word_cloud.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,6 +79,13 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Sam.Nazari\PycharmProjects\resume-matcher-v4" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sam.Nazari\PycharmProjects\resume-matcher-v4\code" />
+      <recent name="C:\Users\Sam.Nazari\PycharmProjects\resume-matcher-v4\data\candidates" />
+      <recent name="C:\Users\Sam.Nazari\PycharmProjects\resume-matcher-v4\data\jobs" />
+      <recent name="C:\Users\Sam.Nazari\PycharmProjects\resume-matcher-v4\data" />
+      <recent name="C:\Users\Sam.Nazari\PycharmProjects\resume-matcher-v4\output" />
     </key>
   </component>
   <component name="RunManager">
@@ -207,7 +187,7 @@
       <option name="presentableId" value="Default" />
       <updated>1741202446908</updated>
       <workItem from="1741202448252" duration="4709000" />
-      <workItem from="1741217490172" duration="8810000" />
+      <workItem from="1741217490172" duration="9790000" />
     </task>
     <servers />
   </component>
