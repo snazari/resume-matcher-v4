@@ -5,7 +5,7 @@ import json
 import seaborn as sns
 
 # Load your matching results
-with open('matched_results.json', 'r') as f:
+with open('../output/matched_results.json', 'r') as f:
     data = json.load(f)
 
 # Define job requirement categories

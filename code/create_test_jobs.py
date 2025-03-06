@@ -32,7 +32,7 @@ sample_jobs = [
 ]
 
 # Save to JSON file
-with open("sample_jobs.json", "w") as f:
+with open("../data/jobs/sample_jobs.json", "w") as f:
     json.dump(sample_jobs, f, indent=2)
 
 print("Sample jobs file created: sample_jobs.json")

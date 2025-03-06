@@ -6,7 +6,7 @@ import pandas as pd
 import json
 
 # Load your matching results
-with open('matched_results-updated.json', 'r') as f:
+with open('../output/matched_results-updated.json', 'r') as f:
     data = json.load(f)
 
 # Convert to a format suitable for visualization

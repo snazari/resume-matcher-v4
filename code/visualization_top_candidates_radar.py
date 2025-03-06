@@ -4,7 +4,7 @@ import json
 from math import pi
 
 # Load matching results and extract top candidates for each job
-with open('matched_results.json', 'r') as f:
+with open('../output/matched_results.json', 'r') as f:
     data = json.load(f)
 
 # Extract top candidates for each job

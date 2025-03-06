@@ -4,7 +4,7 @@ import numpy as np
 import json
 
 # Load your matching results
-with open('matched_results.json', 'r') as f:
+with open('../output/matched_results.json', 'r') as f:
     data = json.load(f)
 
 # Create a graph

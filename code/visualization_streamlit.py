@@ -8,7 +8,7 @@ import os
 # Load your matching results
 @st.cache_data
 def load_data():
-    with open('matched_results.json', 'r') as f:
+    with open('../output/matched_results.json', 'r') as f:
         return json.load(f)
 
 

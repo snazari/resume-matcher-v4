@@ -4,7 +4,7 @@ import json
 import numpy as np
 
 # Load your matching results
-with open('matched_results.json', 'r') as f:
+with open('../output/matched_results.json', 'r') as f:
     data = json.load(f)
 
 # Collect candidate rankings for each job

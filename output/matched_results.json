@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "timestamp": "2025-03-05T19:48:01.796347",
+    "timestamp": "2025-03-05T21:40:03.173895",
     "model": "llama3.1:latest",
     "num_files": 12,
     "success_count": 12,
@@ -428,21 +428,24 @@
         "score": 0.42374467849731445,
         "job_title": "Senior Software Engineer",
         "job_company": "Tech Innovations Inc.",
-        "similarity_score": 0.42374467849731445
+        "similarity_score": 0.42374467849731445,
+        "candidate_name": "Ashley Theo J. Savage"
       },
       {
         "job_id": "job003",
         "score": 0.3674860894680023,
         "job_title": "Project Manager",
         "job_company": "Global Systems Ltd.",
-        "similarity_score": 0.3674860894680023
+        "similarity_score": 0.3674860894680023,
+        "candidate_name": "Ashley Theo J. Savage"
       },
       {
         "job_id": "job002",
         "score": 0.35997575521469116,
         "job_title": "Data Scientist",
         "job_company": "Analytics Partners",
-        "similarity_score": 0.35997575521469116
+        "similarity_score": 0.35997575521469116,
+        "candidate_name": "Ashley Theo J. Savage"
       }
     ],
     "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume-pixy-dust\\semantic_search\\data\\t04\\Bisar Barua.pdf": [
@@ -451,21 +454,24 @@
         "score": 0.4740248918533325,
         "job_title": "Senior Software Engineer",
         "job_company": "Tech Innovations Inc.",
-        "similarity_score": 0.4740248918533325
+        "similarity_score": 0.4740248918533325,
+        "candidate_name": "Bisar Barua"
       },
       {
         "job_id": "job003",
         "score": 0.40777701139450073,
         "job_title": "Project Manager",
         "job_company": "Global Systems Ltd.",
-        "similarity_score": 0.40777701139450073
+        "similarity_score": 0.40777701139450073,
+        "candidate_name": "Bisar Barua"
       },
       {
         "job_id": "job002",
         "score": 0.37220287322998047,
         "job_title": "Data Scientist",
         "job_company": "Analytics Partners",
-        "similarity_score": 0.37220287322998047
+        "similarity_score": 0.37220287322998047,
+        "candidate_name": "Bisar Barua"
       }
     ],
     "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume-pixy-dust\\semantic_search\\data\\t04\\Christine Clermont.pdf": [
@@ -474,21 +480,24 @@
         "score": 0.5092618465423584,
         "job_title": "Data Scientist",
         "job_company": "Analytics Partners",
-        "similarity_score": 0.5092618465423584
+        "similarity_score": 0.5092618465423584,
+        "candidate_name": "Christine Clermont"
       },
       {
         "job_id": "job001",
         "score": 0.3607563376426697,
         "job_title": "Senior Software Engineer",
         "job_company": "Tech Innovations Inc.",
-        "similarity_score": 0.3607563376426697
+        "similarity_score": 0.3607563376426697,
+        "candidate_name": "Christine Clermont"
       },
       {
         "job_id": "job003",
         "score": 0.3212922215461731,
         "job_title": "Project Manager",
         "job_company": "Global Systems Ltd.",
-        "similarity_score": 0.3212922215461731
+        "similarity_score": 0.3212922215461731,
+        "candidate_name": "Christine Clermont"
       }
     ],
     "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume-pixy-dust\\semantic_search\\data\\t04\\Earl Vialpando.pdf": [
@@ -497,21 +506,24 @@
         "score": 0.4541476368904114,
         "job_title": "Data Scientist",
         "job_company": "Analytics Partners",
-        "similarity_score": 0.4541476368904114
+        "similarity_score": 0.4541476368904114,
+        "candidate_name": "Earl Vialpando"
       },
       {
         "job_id": "job001",
         "score": 0.40838876366615295,
         "job_title": "Senior Software Engineer",
         "job_company": "Tech Innovations Inc.",
-        "similarity_score": 0.40838876366615295
+        "similarity_score": 0.40838876366615295,
+        "candidate_name": "Earl Vialpando"
       },
       {
         "job_id": "job003",
         "score": 0.3201387822628021,
         "job_title": "Project Manager",
         "job_company": "Global Systems Ltd.",
-        "similarity_score": 0.3201387822628021
+        "similarity_score": 0.3201387822628021,
+        "candidate_name": "Earl Vialpando"
       }
     ],
     "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume-pixy-dust\\semantic_search\\data\\t04\\Fatima Khokhar.pdf": [
@@ -520,21 +532,24 @@
         "score": 0.3716520667076111,
         "job_title": "Senior Software Engineer",
         "job_company": "Tech Innovations Inc.",
-        "similarity_score": 0.3716520667076111
+        "similarity_score": 0.3716520667076111,
+        "candidate_name": "Fatima Khokar"
       },
       {
         "job_id": "job003",
         "score": 0.3298555016517639,
         "job_title": "Project Manager",
         "job_company": "Global Systems Ltd.",
-        "similarity_score": 0.3298555016517639
+        "similarity_score": 0.3298555016517639,
+        "candidate_name": "Fatima Khokar"
       },
       {
         "job_id": "job002",
         "score": 0.3261083662509918,
         "job_title": "Data Scientist",
         "job_company": "Analytics Partners",
-        "similarity_score": 0.3261083662509918
+        "similarity_score": 0.3261083662509918,
+        "candidate_name": "Fatima Khokar"
       }
     ],
     "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume-pixy-dust\\semantic_search\\data\\t04\\HOWARD UNDERWOOD.pdf": [
@@ -543,21 +558,24 @@
         "score": 0.3716520667076111,
         "job_title": "Senior Software Engineer",
         "job_company": "Tech Innovations Inc.",
-        "similarity_score": 0.3716520667076111
+        "similarity_score": 0.3716520667076111,
+        "candidate_name": "Unknown"
       },
       {
         "job_id": "job003",
         "score": 0.3298555016517639,
         "job_title": "Project Manager",
         "job_company": "Global Systems Ltd.",
-        "similarity_score": 0.3298555016517639
+        "similarity_score": 0.3298555016517639,
+        "candidate_name": "Unknown"
       },
       {
         "job_id": "job002",
         "score": 0.3261083662509918,
         "job_title": "Data Scientist",
         "job_company": "Analytics Partners",
-        "similarity_score": 0.3261083662509918
+        "similarity_score": 0.3261083662509918,
+        "candidate_name": "Unknown"
       }
     ],
     "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume-pixy-dust\\semantic_search\\data\\t04\\Joshua Zarb.pdf": [
@@ -566,21 +584,24 @@
         "score": 0.42241060733795166,
         "job_title": "Senior Software Engineer",
         "job_company": "Tech Innovations Inc.",
-        "similarity_score": 0.42241060733795166
+        "similarity_score": 0.42241060733795166,
+        "candidate_name": "Joshua Zarb"
       },
       {
         "job_id": "job003",
         "score": 0.36612480878829956,
         "job_title": "Project Manager",
         "job_company": "Global Systems Ltd.",
-        "similarity_score": 0.36612480878829956
+        "similarity_score": 0.36612480878829956,
+        "candidate_name": "Joshua Zarb"
       },
       {
         "job_id": "job002",
         "score": 0.36313849687576294,
         "job_title": "Data Scientist",
         "job_company": "Analytics Partners",
-        "similarity_score": 0.36313849687576294
+        "similarity_score": 0.36313849687576294,
+        "candidate_name": "Joshua Zarb"
       }
     ],
     "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume-pixy-dust\\semantic_search\\data\\t04\\LU WANG.pdf": [
@@ -589,21 +610,24 @@
         "score": 0.3716520667076111,
         "job_title": "Senior Software Engineer",
         "job_company": "Tech Innovations Inc.",
-        "similarity_score": 0.3716520667076111
+        "similarity_score": 0.3716520667076111,
+        "candidate_name": "Lu Wang"
       },
       {
         "job_id": "job003",
         "score": 0.3298555016517639,
         "job_title": "Project Manager",
         "job_company": "Global Systems Ltd.",
-        "similarity_score": 0.3298555016517639
+        "similarity_score": 0.3298555016517639,
+        "candidate_name": "Lu Wang"
       },
       {
         "job_id": "job002",
         "score": 0.3261083662509918,
         "job_title": "Data Scientist",
         "job_company": "Analytics Partners",
-        "similarity_score": 0.3261083662509918
+        "similarity_score": 0.3261083662509918,
+        "candidate_name": "Lu Wang"
       }
     ],
     "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume-pixy-dust\\semantic_search\\data\\t04\\MARQUITTA L. FOSTER.pdf": [
@@ -612,21 +636,24 @@
         "score": 0.3716520667076111,
         "job_title": "Senior Software Engineer",
         "job_company": "Tech Innovations Inc.",
-        "similarity_score": 0.3716520667076111
+        "similarity_score": 0.3716520667076111,
+        "candidate_name": "Marie\","
       },
       {
         "job_id": "job003",
         "score": 0.3298555016517639,
         "job_title": "Project Manager",
         "job_company": "Global Systems Ltd.",
-        "similarity_score": 0.3298555016517639
+        "similarity_score": 0.3298555016517639,
+        "candidate_name": "Marie\","
       },
       {
         "job_id": "job002",
         "score": 0.3261083662509918,
         "job_title": "Data Scientist",
         "job_company": "Analytics Partners",
-        "similarity_score": 0.3261083662509918
+        "similarity_score": 0.3261083662509918,
+        "candidate_name": "Marie\","
       }
     ],
     "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume-pixy-dust\\semantic_search\\data\\t04\\Steven Strasburg.pdf": [
@@ -635,21 +662,24 @@
         "score": 0.3716520667076111,
         "job_title": "Senior Software Engineer",
         "job_company": "Tech Innovations Inc.",
-        "similarity_score": 0.3716520667076111
+        "similarity_score": 0.3716520667076111,
+        "candidate_name": "Steven Strasburg\","
       },
       {
         "job_id": "job003",
         "score": 0.3298555016517639,
         "job_title": "Project Manager",
         "job_company": "Global Systems Ltd.",
-        "similarity_score": 0.3298555016517639
+        "similarity_score": 0.3298555016517639,
+        "candidate_name": "Steven Strasburg\","
       },
       {
         "job_id": "job002",
         "score": 0.3261083662509918,
         "job_title": "Data Scientist",
         "job_company": "Analytics Partners",
-        "similarity_score": 0.3261083662509918
+        "similarity_score": 0.3261083662509918,
+        "candidate_name": "Steven Strasburg\","
       }
     ],
     "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume-pixy-dust\\semantic_search\\data\\t04\\Tracey Beason.pdf": [
@@ -658,21 +688,24 @@
         "score": 0.3716520667076111,
         "job_title": "Senior Software Engineer",
         "job_company": "Tech Innovations Inc.",
-        "similarity_score": 0.3716520667076111
+        "similarity_score": 0.3716520667076111,
+        "candidate_name": "TS Beason\","
       },
       {
         "job_id": "job003",
         "score": 0.3298555016517639,
         "job_title": "Project Manager",
         "job_company": "Global Systems Ltd.",
-        "similarity_score": 0.3298555016517639
+        "similarity_score": 0.3298555016517639,
+        "candidate_name": "TS Beason\","
       },
       {
         "job_id": "job002",
         "score": 0.3261083662509918,
         "job_title": "Data Scientist",
         "job_company": "Analytics Partners",
-        "similarity_score": 0.3261083662509918
+        "similarity_score": 0.3261083662509918,
+        "candidate_name": "TS Beason\","
       }
     ],
     "C:\\Users\\Sam.Nazari\\PycharmProjects\\resume-pixy-dust\\semantic_search\\data\\t04\\Transcripts ASHLEY THEO J. SAVAGE.pdf": [
@@ -681,21 +714,24 @@
         "score": 0.3716520667076111,
         "job_title": "Senior Software Engineer",
         "job_company": "Tech Innovations Inc.",
-        "similarity_score": 0.3716520667076111
+        "similarity_score": 0.3716520667076111,
+        "candidate_name": "Ashley Savage"
       },
       {
         "job_id": "job003",
         "score": 0.3298555016517639,
         "job_title": "Project Manager",
         "job_company": "Global Systems Ltd.",
-        "similarity_score": 0.3298555016517639
+        "similarity_score": 0.3298555016517639,
+        "candidate_name": "Ashley Savage"
       },
       {
         "job_id": "job002",
         "score": 0.3261083662509918,
         "job_title": "Data Scientist",
         "job_company": "Analytics Partners",
-        "similarity_score": 0.3261083662509918
+        "similarity_score": 0.3261083662509918,
+        "candidate_name": "Ashley Savage"
       }
     ]
   }

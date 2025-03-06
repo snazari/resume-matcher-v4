@@ -8,7 +8,7 @@ from openpyxl.utils import get_column_letter
 from openpyxl.formatting.rule import ColorScaleRule
 
 # Load your matching results
-with open('matched_results.json', 'r') as f:
+with open('../output/matched_results.json', 'r') as f:
     data = json.load(f)
 
 # Create a matrix of candidates vs. jobs
