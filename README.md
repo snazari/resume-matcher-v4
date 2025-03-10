@@ -438,6 +438,37 @@ The typical workflow for using this application is:
    ollama pull llama3.1
    ```
 
+## Current Limitations
+
+### Embedding Generation Process
+The application recalculates embeddings for all candidates every time it is run. *There is no persistent storage mechanism for embeddings in the current implementation.* 
+
+Here's the specific workflow:
+
+1. **Per-Run Processing:** When you run the application with the match command, it:
+   - Loads previously extracted resume data from a JSON file (--resumes parameter)
+   - Loads job descriptions from a JSON file (--jobs parameter)
+   - Generates embeddings for all resumes and jobs during that specific run
+2. **No Embedding Persistence:** The code in create_resume_embeddings() and process_job_openings() functions create embeddings in-memory using the Sentence Transformer model. These embeddings are not stored persistently between runs and exist only for the duration of the program execution.
+
+### Matching Process Flow
+Load resume data → Enrich resume data → Create embeddings → 
+Load job openings → Process job openings (create job embeddings) → 
+Find matches → Save results
+
+### Performance Implications
+For large datasets, this approach means embedding generation might be a computational bottleneck. The application uses sentence-transformers library with models like *paraphrase-mpnet-base-v2* to generate embeddings. There's a progress bar (show_progress_bar=True) when generating embeddings to indicate this might be a time-consuming operation
+
+### Potential Enhancement
+One of the planned enhancements in the feature roadmap is "Add support for vector databases (FAISS)" which would address this exact limitation. A vector database like FAISS would allow:
+
+1. Persistent storage of embeddings
+2. Incremental updates (only calculate embeddings for new candidates)
+3. Faster similarity searches
+4. Better scalability for large numbers of resumes and job descriptions
+
+Currently, if you have 100 resumes and run the matching process twice, the application will calculate those 100 embeddings twice. With a vector database implementation, you could calculate each embedding once and reuse it across multiple runs.
+
 ## Feature Roadmap
 
 ### Future Enhancements
