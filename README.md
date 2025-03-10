@@ -438,6 +438,25 @@ The typical workflow for using this application is:
    ollama pull llama3.1
    ```
 
-## License
+## Feature Roadmap
 
- 2025 Sam Nazari, Ph.D. All rights reserved.
+### Future Enhancements
+
+- Add support for vector databases(FAISS)
+- Add support for multimodel embeddings
+- Add support for web scraping (crawl4AI)
+- Add support for more LLM backends
+- Add support for more document formats
+- Add support for more visualization types
+- Add support for more matching algorithms
+- Add support for more matching criteria
+- Add support for more matching metrics
+- Add support for more matching thresholds
+- Add support for more matching filters
+- Add support for more matching options
+- Add support for more matching parameters
+- Add support for more matching results
+- Add support for more matching outputs
+- Add support for more matching visualizations
+- Add support for more matching analytics
+- Add support for more matching reporting
